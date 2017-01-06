@@ -3,4 +3,4 @@
 ### C
 
 - [X] Hamming distance
-- [ ] Total hamming distance
+- [X] Total hamming distance
