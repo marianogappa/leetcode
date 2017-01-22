@@ -6,17 +6,17 @@ import (
 )
 
 func main() {
-	fmt.Printf("permutations(%v) = %v\n", []int{}, permutations([]int{}, []int{}, [][]int{}))
-	fmt.Printf("permutations(%v) = %v\n", []int{1}, permutations([]int{1}, []int{}, [][]int{}))
-	fmt.Printf("permutations(%v) = %v\n", []int{1, 1}, permutations([]int{1, 1}, []int{}, [][]int{}))
-	fmt.Printf("permutations(%v) = %v\n", []int{1, 1, 3, 1}, permutations([]int{1, 1, 3, 1}, []int{}, [][]int{}))
-	fmt.Printf("permutations(%v) = %v\n", []int{1, 1, 1, 1}, permutations([]int{1, 1, 1, 1}, []int{}, [][]int{}))
-	fmt.Printf("permutations(%v) = %v\n", []int{1, 2, 2, 1}, permutations([]int{1, 2, 2, 1}, []int{}, [][]int{}))
+	fmt.Printf("permuteUnique(%v) = %v\n", []int{}, permuteUnique([]int{}))
+	fmt.Printf("permuteUnique(%v) = %v\n", []int{1}, permuteUnique([]int{1}))
+	fmt.Printf("permuteUnique(%v) = %v\n", []int{1, 1}, permuteUnique([]int{1, 1}))
+	fmt.Printf("permuteUnique(%v) = %v\n", []int{1, 1, 3, 1}, permuteUnique([]int{1, 1, 3, 1}))
+	fmt.Printf("permuteUnique(%v) = %v\n", []int{1, 1, 1, 1}, permuteUnique([]int{1, 1, 1, 1}))
+	fmt.Printf("permuteUnique(%v) = %v\n", []int{1, 2, 2, 1}, permuteUnique([]int{1, 2, 2, 1}))
 }
 
-func permutations(ns []int, is []int, ps [][]int) [][]int {
-	sort.Ints(ns)
-	return doPerms(ns, is, ps)
+func permuteUnique(nums []int) [][]int {
+	sort.Ints(nums)
+	return doPerms(nums, []int{}, [][]int{})
 }
 
 func doPerms(ns []int, is []int, ps [][]int) [][]int {
@@ -28,7 +28,7 @@ func doPerms(ns []int, is []int, ps [][]int) [][]int {
 		if i+1 < len(ns) && ns[i+1] == ns[i] {
 			continue
 		}
-		ps = permutations(copyAppend(ns[:i], ns[i+1:]...), copyAppend(is, ns[i]), ps)
+		ps = doPerms(copyAppend(ns[:i], ns[i+1:]...), copyAppend(is, ns[i]), ps)
 	}
 
 	return ps
