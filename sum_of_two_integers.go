@@ -3,12 +3,10 @@ package main
 import "fmt"
 
 func getSum(a int, b int) int {
-	nonCarries, carries := a^b, a&b<<1
-
-	for nonCarries&carries != 0 {
-		nonCarries, carries = nonCarries^carries, nonCarries&carries<<1
+	for a&b != 0 {
+		a, b = a^b, a&b<<1
 	}
-	return nonCarries | carries
+	return a | b
 }
 
 func main() {
