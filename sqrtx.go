@@ -3,13 +3,11 @@ package main
 import "fmt"
 
 func mySqrt(x int) int {
-	if x <= 1 {
-		return x
+	var r = int64(x)
+	for r*r > int64(x) {
+		r = (r + int64(x)/r) / 2
 	}
-	var n int
-	for n = 2; n*n <= x; n++ {
-	}
-	return n - 1
+	return int(r)
 }
 
 func main() {
