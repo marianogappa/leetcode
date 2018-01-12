@@ -22,6 +22,8 @@ func searchRange(nums []int, target int) []int {
 			end = mid - 1
 		default:
 			start, end = mid, mid
+			// This is shit! It's O(n) instead of O(log n); consider if nums is filled with target.
+			// fix at some point by doing 2 binary searches.
 			for i := mid; i >= 0 && nums[i] == target; i-- {
 				start--
 			}
