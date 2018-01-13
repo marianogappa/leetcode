@@ -2,23 +2,22 @@ package main
 
 import "fmt"
 
-type ij struct {
-	i, j int
-}
-
 func maxCoins(nums []int) int {
 	var nns = make([]int, len(nums)+2)
 	for i := 0; i < len(nums); i++ {
 		nns[i+1] = nums[i]
 	}
 	nns[0], nns[len(nns)-1] = 1, 1
-	var memo = make(map[ij]int, 0)
+	var memo = make([][]int, len(nums)+2)
+	for i := range memo {
+		memo[i] = make([]int, len(nums)+2)
+	}
 	return dp(nns, 0, len(nns)-1, memo)
 }
 
-func dp(ns []int, l, r int, memo map[ij]int) int {
-	if v, ok := memo[ij{l, r}]; ok {
-		return v
+func dp(ns []int, l, r int, memo [][]int) int {
+	if memo[l][r] > 0 {
+		return memo[l][r]
 	}
 	var max = 0
 	for i := l + 1; i < r; i++ {
@@ -27,7 +26,7 @@ func dp(ns []int, l, r int, memo map[ij]int) int {
 			max = m
 		}
 	}
-	memo[ij{l, r}] = max
+	memo[l][r] = max
 	return max
 }
 
