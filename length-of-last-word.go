@@ -4,6 +4,7 @@ import "fmt"
 
 // Time: O(n)
 // Space: O(1)
+// In hindsight, it'd be much more efficient to look for first space from the right side after strings.TrimSpace()!
 func lengthOfLastWord(s string) int {
 	length := 0
 	lastLength := 0
