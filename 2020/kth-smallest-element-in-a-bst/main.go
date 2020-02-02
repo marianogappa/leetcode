@@ -17,6 +17,9 @@ type TreeNode struct {
 // left, value, visit right) you land on the kth smallest. That is
 // Time: O(k) and Space: O(1).
 //
+// TIL: In a binary search tree, in-order traversal retrieves data in sorted order.
+// TIL: heapify is Time: O(n).
+//
 //
 // Time: O(klogn)
 // Space: O(n)
