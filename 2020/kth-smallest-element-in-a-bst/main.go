@@ -13,6 +13,11 @@ type TreeNode struct {
 // completely ignores the information provided by the binary tree,
 // but I couldn't find any better solution.
 //
+// UPDATE: apparently after k steps of inOrder traversal (i.e. visit
+// left, value, visit right) you land on the kth smallest. That is
+// Time: O(k) and Space: O(1).
+//
+//
 // Time: O(klogn)
 // Space: O(n)
 func kthSmallest(root *TreeNode, k int) int {
