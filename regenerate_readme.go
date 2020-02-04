@@ -13,23 +13,24 @@ import (
 
 func main() {
 	var (
-		data   = prepareData(mustListDirectorysDirs("2020"))
-		readme = mustCreateReadmeFile()
+		data2020 = prepareData("2020", mustListDirectorysDirs("2020"))
+		data2018 = prepareData("2018", mustListDirectorysDirs("2018"))
+		readme   = mustCreateReadmeFile()
 	)
 	defer readme.Close()
-	mustExecuteTemplate(readme, data)
+	mustExecuteTemplate(readme, templateData{[]yearTemplateData{data2020, data2018}})
 }
 
-func prepareData(dirs []string) templateData {
+func prepareData(year string, dirs []string) yearTemplateData {
 	exercises := []exercise{}
 	for _, dir := range dirs {
 		exercises = append(exercises, exercise{
 			LeetcodeLink: fmt.Sprintf("https://leetcode.com/problems/%v", dir),
-			SolutionLink: fmt.Sprintf("2020/%v", dir),
+			SolutionLink: fmt.Sprintf("%v/%v", year, dir),
 			Title:        snakeToWord(dir),
 		})
 	}
-	return templateData{Exercises: exercises, Total: len(exercises)}
+	return yearTemplateData{Exercises: exercises, Total: len(exercises), Year: year}
 }
 
 func snakeToWord(s string) string {
@@ -68,8 +69,13 @@ type exercise struct {
 }
 
 type templateData struct {
+	Years []yearTemplateData
+}
+
+type yearTemplateData struct {
 	Exercises []exercise
 	Total     int
+	Year      string
 }
 
 func mustExecuteTemplate(fd io.Writer, data templateData) {
@@ -82,11 +88,12 @@ func mustExecuteTemplate(fd io.Writer, data templateData) {
 	}
 }
 
-var templateString = `## 2020 Leetcode exercises ({{.Total}} solved)
+var templateString = `{{ range .Years}}## {{.Year}} Leetcode exercises ({{.Total}} solved)
 
 |Title|Leetcode|My Solution|
 |-----|:--------:|:---------:|
 {{ range .Exercises -}}
 |{{.Title}}|[[Link]]({{.LeetcodeLink}})|[[Link]]({{.SolutionLink}})|
 {{ end }}
-`
+
+{{end}}`
