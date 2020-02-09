@@ -1,4 +1,4 @@
-## 2020 Leetcode exercises (11 solved)
+## 2020 Leetcode exercises (12 solved)
 
 |Title|Leetcode|My Solution|
 |-----|:--------:|:---------:|
@@ -12,6 +12,7 @@
 |Kth smallest element in a bst|[[Link]](https://leetcode.com/problems/kth-smallest-element-in-a-bst)|[[Link]](2020/kth-smallest-element-in-a-bst)|
 |Remove nth node from end of list|[[Link]](https://leetcode.com/problems/remove-nth-node-from-end-of-list)|[[Link]](2020/remove-nth-node-from-end-of-list)|
 |Top k frequent elements|[[Link]](https://leetcode.com/problems/top-k-frequent-elements)|[[Link]](2020/top-k-frequent-elements)|
+|Unique paths|[[Link]](https://leetcode.com/problems/unique-paths)|[[Link]](2020/unique-paths)|
 |Valid sudoku|[[Link]](https://leetcode.com/problems/valid-sudoku)|[[Link]](2020/valid-sudoku)|
 
 
