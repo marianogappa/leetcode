@@ -1,9 +1,11 @@
-## 2020 Leetcode exercises (13 solved)
+## 2020 Leetcode exercises (16 solved)
 
 |Title|Leetcode|My Solution|
 |-----|:--------:|:---------:|
 |4sum ii|[[Link]](https://leetcode.com/problems/4sum-ii)|[[Link]](2020/4sum-ii)|
+|Basic calculator ii|[[Link]](https://leetcode.com/problems/basic-calculator-ii)|[[Link]](2020/basic-calculator-ii)|
 |Binary tree inorder traversal|[[Link]](https://leetcode.com/problems/binary-tree-inorder-traversal)|[[Link]](2020/binary-tree-inorder-traversal)|
+|Coin change|[[Link]](https://leetcode.com/problems/coin-change)|[[Link]](2020/coin-change)|
 |Container with most water|[[Link]](https://leetcode.com/problems/container-with-most-water)|[[Link]](2020/container-with-most-water)|
 |Contains duplicate|[[Link]](https://leetcode.com/problems/contains-duplicate)|[[Link]](2020/contains-duplicate)|
 |Convert sorted array to binary search tree|[[Link]](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree)|[[Link]](2020/convert-sorted-array-to-binary-search-tree)|
@@ -12,6 +14,7 @@
 |Kth smallest element in a bst|[[Link]](https://leetcode.com/problems/kth-smallest-element-in-a-bst)|[[Link]](2020/kth-smallest-element-in-a-bst)|
 |Odd even linked list|[[Link]](https://leetcode.com/problems/odd-even-linked-list)|[[Link]](2020/odd-even-linked-list)|
 |Remove nth node from end of list|[[Link]](https://leetcode.com/problems/remove-nth-node-from-end-of-list)|[[Link]](2020/remove-nth-node-from-end-of-list)|
+|Surrounded regions|[[Link]](https://leetcode.com/problems/surrounded-regions)|[[Link]](2020/surrounded-regions)|
 |Top k frequent elements|[[Link]](https://leetcode.com/problems/top-k-frequent-elements)|[[Link]](2020/top-k-frequent-elements)|
 |Unique paths|[[Link]](https://leetcode.com/problems/unique-paths)|[[Link]](2020/unique-paths)|
 |Valid sudoku|[[Link]](https://leetcode.com/problems/valid-sudoku)|[[Link]](2020/valid-sudoku)|
