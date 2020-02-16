@@ -1,4 +1,4 @@
-## 2020 Leetcode exercises (16 solved)
+## 2020 Leetcode exercises (17 solved)
 
 |Title|Leetcode|My Solution|
 |-----|:--------:|:---------:|
@@ -9,6 +9,7 @@
 |Container with most water|[[Link]](https://leetcode.com/problems/container-with-most-water)|[[Link]](2020/container-with-most-water)|
 |Contains duplicate|[[Link]](https://leetcode.com/problems/contains-duplicate)|[[Link]](2020/contains-duplicate)|
 |Convert sorted array to binary search tree|[[Link]](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree)|[[Link]](2020/convert-sorted-array-to-binary-search-tree)|
+|Excel sheet column number|[[Link]](https://leetcode.com/problems/excel-sheet-column-number)|[[Link]](2020/excel-sheet-column-number)|
 |Fizz buzz|[[Link]](https://leetcode.com/problems/fizz-buzz)|[[Link]](2020/fizz-buzz)|
 |Jump game|[[Link]](https://leetcode.com/problems/jump-game)|[[Link]](2020/jump-game)|
 |Kth smallest element in a bst|[[Link]](https://leetcode.com/problems/kth-smallest-element-in-a-bst)|[[Link]](2020/kth-smallest-element-in-a-bst)|
