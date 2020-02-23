@@ -1,4 +1,4 @@
-## 2020 Leetcode exercises (19 solved)
+## 2020 Leetcode exercises (20 solved)
 
 |Title|Leetcode|My Solution|
 |-----|:--------:|:---------:|
@@ -9,6 +9,7 @@
 |Container with most water|[[Link]](https://leetcode.com/problems/container-with-most-water)|[[Link]](2020/container-with-most-water)|
 |Contains duplicate|[[Link]](https://leetcode.com/problems/contains-duplicate)|[[Link]](2020/contains-duplicate)|
 |Convert sorted array to binary search tree|[[Link]](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree)|[[Link]](2020/convert-sorted-array-to-binary-search-tree)|
+|Course schedule|[[Link]](https://leetcode.com/problems/course-schedule)|[[Link]](2020/course-schedule)|
 |Excel sheet column number|[[Link]](https://leetcode.com/problems/excel-sheet-column-number)|[[Link]](2020/excel-sheet-column-number)|
 |Fizz buzz|[[Link]](https://leetcode.com/problems/fizz-buzz)|[[Link]](2020/fizz-buzz)|
 |Gas station|[[Link]](https://leetcode.com/problems/gas-station)|[[Link]](2020/gas-station)|
