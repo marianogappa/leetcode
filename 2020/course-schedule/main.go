@@ -10,8 +10,8 @@ const (
 	visited
 )
 
-// Time: O(n) because the states set will prevent the recursion explosion
-// Space: O(n) n states, plus prereqs hash, plus stack up to n
+// Time: O(v + e) where v = vertices and e = edges
+// Space: O(v + e)
 func canFinish(numCourses int, prerequisites [][]int) bool {
 	// Prerequisites are not sorted by origin node. If we want to
 	// loop through the prereqs of a given node, we have to table
