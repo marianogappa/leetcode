@@ -1,8 +1,9 @@
-## 2020 Leetcode exercises (20 solved)
+## 2020 Leetcode exercises (21 solved)
 
 |Title|Leetcode|My Solution|
 |-----|:--------:|:---------:|
 |4sum ii|[[Link]](https://leetcode.com/problems/4sum-ii)|[[Link]](2020/4sum-ii)|
+|Accounts merge|[[Link]](https://leetcode.com/problems/accounts-merge)|[[Link]](2020/accounts-merge)|
 |Basic calculator ii|[[Link]](https://leetcode.com/problems/basic-calculator-ii)|[[Link]](2020/basic-calculator-ii)|
 |Binary tree inorder traversal|[[Link]](https://leetcode.com/problems/binary-tree-inorder-traversal)|[[Link]](2020/binary-tree-inorder-traversal)|
 |Coin change|[[Link]](https://leetcode.com/problems/coin-change)|[[Link]](2020/coin-change)|
