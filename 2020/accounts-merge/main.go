@@ -6,27 +6,10 @@ import (
 	"sort"
 )
 
-// Union-Find algorithm
-type uf struct{ uf []int }
-
-func (u uf) union(a, b int) {
-	i, j := u.find(a), u.find(b)
-	if i != j {
-		u.uf[i] = j
-	}
-}
-
-func (u uf) find(i int) int {
-	if u.uf[i] == 0 {
-		return i
-	}
-	return u.find(u.uf[i])
-}
-
-func newUnionFind(size int) uf {
-	return uf{make([]int, size+1)}
-}
-
+// The intuition is that emails are nodes, and contiguous pairs of emails
+// within accounts are edges. Because we need to merge connected groups,
+// Union-Find is ideal, considering it's linear in time and space.
+//
 // Time: O(nlogn) in the worst case where all emails belong to the same group
 // Space: O(n)
 func accountsMerge(accounts [][]string) [][]string {
@@ -36,6 +19,9 @@ func accountsMerge(accounts [][]string) [][]string {
 	// The emails map goes from an email address to a pair of ints:
 	// [0]: an "AUTO_INCREMENT": 1, 2, 3...
 	// [1]: index to one of the accounts that it came from (to grab the name)
+	//
+	// Just imagine it's an `emails` table with an id and a FK to `accounts`!
+	// We'll do the Union-Find with its id rather than its email.
 	emails := map[string][]int{}
 	for i := range accounts {
 		for j := 1; j < len(accounts[i]); j++ {
@@ -65,6 +51,7 @@ func accountsMerge(accounts [][]string) [][]string {
 	//
 	// Now we can go through the emails and `find` which group they belong
 	// to. We use the `groups` map to go from `group number` to merged's `index`.
+	//
 	// In here we finally use emails[email][1] to give a name to the merged group.
 	groups := map[int]int{}
 	merged := [][]string{}
@@ -89,6 +76,29 @@ func accountsMerge(accounts [][]string) [][]string {
 	return merged
 }
 
+// Union-Find algorithm
+type uf struct{ uf []int }
+
+func (u uf) union(a, b int) {
+	i, j := u.find(a), u.find(b)
+	if i != j {
+		u.uf[i] = j
+	}
+}
+
+func (u uf) find(i int) int {
+	if u.uf[i] == 0 {
+		return i
+	}
+	return u.find(u.uf[i])
+}
+
+func newUnionFind(size int) uf {
+	return uf{make([]int, size+1)}
+}
+
+// TODO note that the tests fail sometimes because results appear in different order. I can either sort results
+// or just use testify.
 func main() {
 	ts := []struct {
 		input    [][]string

@@ -1,4 +1,4 @@
-## 2020 Leetcode exercises (21 solved)
+## 2020 Leetcode exercises (22 solved)
 
 |Title|Leetcode|My Solution|
 |-----|:--------:|:---------:|
@@ -19,6 +19,7 @@
 |Largest number|[[Link]](https://leetcode.com/problems/largest-number)|[[Link]](2020/largest-number)|
 |Odd even linked list|[[Link]](https://leetcode.com/problems/odd-even-linked-list)|[[Link]](2020/odd-even-linked-list)|
 |Remove nth node from end of list|[[Link]](https://leetcode.com/problems/remove-nth-node-from-end-of-list)|[[Link]](2020/remove-nth-node-from-end-of-list)|
+|Smallest string with swaps|[[Link]](https://leetcode.com/problems/smallest-string-with-swaps)|[[Link]](2020/smallest-string-with-swaps)|
 |Surrounded regions|[[Link]](https://leetcode.com/problems/surrounded-regions)|[[Link]](2020/surrounded-regions)|
 |Top k frequent elements|[[Link]](https://leetcode.com/problems/top-k-frequent-elements)|[[Link]](2020/top-k-frequent-elements)|
 |Unique paths|[[Link]](https://leetcode.com/problems/unique-paths)|[[Link]](2020/unique-paths)|
