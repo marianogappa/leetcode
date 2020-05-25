@@ -10,14 +10,25 @@ func characterReplacement(s string, k int) int {
 		letterFreqs                           = map[byte]int{}
 	)
 
+	// Sliding window algorithm
 	for end < len(s) {
+		// Maintain frequency of letters in the window
 		letterFreqs[s[end]]++
+		// Keep track of the max frequency
 		countTopLetter = max(countTopLetter, letterFreqs[s[end]])
-		for end-start+1-countTopLetter > k {
+
+		// Here's the key: window size is "countTopLetter + k, so
+		// if by ++ing _end_ our window is larger than that, our
+		// window is now invalid and we need to ++ _start_.
+		for end-start+1 > countTopLetter+k {
+			// As we slide _start_, update frequency of letters
 			letterFreqs[s[start]]--
 			start++
 		}
 
+		// The above loop made sure our window is valid again.
+		// We can now keep track of the maxWindow and continue
+		// to ++ _end_.
 		maxWindow = max(maxWindow, end-start+1)
 		end++
 	}
