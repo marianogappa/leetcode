@@ -1,4 +1,4 @@
-## 2020 Leetcode exercises (21 solved)
+## 2020 Leetcode exercises (22 solved)
 
 |Title|Leetcode|My Solution|
 |-----|:--------:|:---------:|
@@ -16,6 +16,7 @@
 |Gas station|[[Link]](https://leetcode.com/problems/gas-station)|[[Link]](2020/gas-station)|
 |Jump game|[[Link]](https://leetcode.com/problems/jump-game)|[[Link]](2020/jump-game)|
 |Kth smallest element in a bst|[[Link]](https://leetcode.com/problems/kth-smallest-element-in-a-bst)|[[Link]](2020/kth-smallest-element-in-a-bst)|
+|Longest repeating character replacement|[[Link]](https://leetcode.com/problems/longest-repeating-character-replacement)|[[Link]](2020/longest-repeating-character-replacement)|
 |Minimum window substring|[[Link]](https://leetcode.com/problems/minimum-window-substring)|[[Link]](2020/minimum-window-substring)|
 |Odd even linked list|[[Link]](https://leetcode.com/problems/odd-even-linked-list)|[[Link]](2020/odd-even-linked-list)|
 |Remove nth node from end of list|[[Link]](https://leetcode.com/problems/remove-nth-node-from-end-of-list)|[[Link]](2020/remove-nth-node-from-end-of-list)|
