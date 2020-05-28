@@ -1,10 +1,11 @@
-## 2020 Leetcode exercises (23 solved)
+## 2020 Leetcode exercises (24 solved)
 
 |Title|Leetcode|My Solution|
 |-----|:--------:|:---------:|
 |4sum ii|[[Link]](https://leetcode.com/problems/4sum-ii)|[[Link]](2020/4sum-ii)|
 |Accounts merge|[[Link]](https://leetcode.com/problems/accounts-merge)|[[Link]](2020/accounts-merge)|
 |Basic calculator ii|[[Link]](https://leetcode.com/problems/basic-calculator-ii)|[[Link]](2020/basic-calculator-ii)|
+|Best time to buy and sell stock|[[Link]](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)|[[Link]](2020/best-time-to-buy-and-sell-stock)|
 |Binary tree inorder traversal|[[Link]](https://leetcode.com/problems/binary-tree-inorder-traversal)|[[Link]](2020/binary-tree-inorder-traversal)|
 |Coin change|[[Link]](https://leetcode.com/problems/coin-change)|[[Link]](2020/coin-change)|
 |Container with most water|[[Link]](https://leetcode.com/problems/container-with-most-water)|[[Link]](2020/container-with-most-water)|
