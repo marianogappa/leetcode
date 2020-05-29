@@ -1,4 +1,4 @@
-## 2020 Leetcode exercises (25 solved)
+## 2020 Leetcode exercises (26 solved)
 
 |Title|Leetcode|My Solution|
 |-----|:--------:|:---------:|
@@ -18,6 +18,7 @@
 |Jump game|[[Link]](https://leetcode.com/problems/jump-game)|[[Link]](2020/jump-game)|
 |Kth smallest element in a bst|[[Link]](https://leetcode.com/problems/kth-smallest-element-in-a-bst)|[[Link]](2020/kth-smallest-element-in-a-bst)|
 |Longest repeating character replacement|[[Link]](https://leetcode.com/problems/longest-repeating-character-replacement)|[[Link]](2020/longest-repeating-character-replacement)|
+|Maximum subarray|[[Link]](https://leetcode.com/problems/maximum-subarray)|[[Link]](2020/maximum-subarray)|
 |Minimum window substring|[[Link]](https://leetcode.com/problems/minimum-window-substring)|[[Link]](2020/minimum-window-substring)|
 |Odd even linked list|[[Link]](https://leetcode.com/problems/odd-even-linked-list)|[[Link]](2020/odd-even-linked-list)|
 |Permutation in string|[[Link]](https://leetcode.com/problems/permutation-in-string)|[[Link]](2020/permutation-in-string)|
