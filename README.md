@@ -1,4 +1,4 @@
-## 2020 Leetcode exercises (27 solved)
+## 2020 Leetcode exercises (28 solved)
 
 |Title|Leetcode|My Solution|
 |-----|:--------:|:---------:|
@@ -13,6 +13,7 @@
 |Convert sorted array to binary search tree|[[Link]](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree)|[[Link]](2020/convert-sorted-array-to-binary-search-tree)|
 |Course schedule|[[Link]](https://leetcode.com/problems/course-schedule)|[[Link]](2020/course-schedule)|
 |Excel sheet column number|[[Link]](https://leetcode.com/problems/excel-sheet-column-number)|[[Link]](2020/excel-sheet-column-number)|
+|Find minimum in rotated sorted array|[[Link]](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array)|[[Link]](2020/find-minimum-in-rotated-sorted-array)|
 |Fizz buzz|[[Link]](https://leetcode.com/problems/fizz-buzz)|[[Link]](2020/fizz-buzz)|
 |Gas station|[[Link]](https://leetcode.com/problems/gas-station)|[[Link]](2020/gas-station)|
 |Jump game|[[Link]](https://leetcode.com/problems/jump-game)|[[Link]](2020/jump-game)|
