@@ -13,16 +13,25 @@ func findMin(nums []int) int {
 	case 2:
 		return min(nums[0], nums[1])
 	default:
+		// If list is sorted, leftmost is min!
 		if nums[0] < nums[len(nums)-1] {
 			return nums[0]
 		}
+		// Otherwise, binary search! Mid is pivot
 		mid := len(nums) / 2
 		if len(nums)%2 == 0 {
 			mid--
 		}
+		// If left half is sorted, but we know
+		// full list isn't, then min is on the
+		// right half!
 		if nums[0] < nums[mid] {
 			return findMin(nums[mid+1:])
 		}
+		// Otherwise it's on the left half, but
+		// beware that it could be the pivot
+		// itself!
+		//
 		// Note that it must be true that
 		// nums[0] > nums[mid], because
 		// exercise clarifies no dupes.
