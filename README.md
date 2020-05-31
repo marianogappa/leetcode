@@ -1,4 +1,4 @@
-## 2020 Leetcode exercises (30 solved)
+## 2020 Leetcode exercises (31 solved)
 
 |Title|Leetcode|My Solution|
 |-----|:--------:|:---------:|
@@ -28,6 +28,7 @@
 |Product of array except self|[[Link]](https://leetcode.com/problems/product-of-array-except-self)|[[Link]](2020/product-of-array-except-self)|
 |Remove nth node from end of list|[[Link]](https://leetcode.com/problems/remove-nth-node-from-end-of-list)|[[Link]](2020/remove-nth-node-from-end-of-list)|
 |Search in rotated sorted array|[[Link]](https://leetcode.com/problems/search-in-rotated-sorted-array)|[[Link]](2020/search-in-rotated-sorted-array)|
+|Sum of two integers|[[Link]](https://leetcode.com/problems/sum-of-two-integers)|[[Link]](2020/sum-of-two-integers)|
 |Surrounded regions|[[Link]](https://leetcode.com/problems/surrounded-regions)|[[Link]](2020/surrounded-regions)|
 |Top k frequent elements|[[Link]](https://leetcode.com/problems/top-k-frequent-elements)|[[Link]](2020/top-k-frequent-elements)|
 |Unique paths|[[Link]](https://leetcode.com/problems/unique-paths)|[[Link]](2020/unique-paths)|
