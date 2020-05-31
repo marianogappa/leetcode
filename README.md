@@ -1,7 +1,8 @@
-## 2020 Leetcode exercises (29 solved)
+## 2020 Leetcode exercises (30 solved)
 
 |Title|Leetcode|My Solution|
 |-----|:--------:|:---------:|
+|3sum|[[Link]](https://leetcode.com/problems/3sum)|[[Link]](2020/3sum)|
 |4sum ii|[[Link]](https://leetcode.com/problems/4sum-ii)|[[Link]](2020/4sum-ii)|
 |Accounts merge|[[Link]](https://leetcode.com/problems/accounts-merge)|[[Link]](2020/accounts-merge)|
 |Basic calculator ii|[[Link]](https://leetcode.com/problems/basic-calculator-ii)|[[Link]](2020/basic-calculator-ii)|
