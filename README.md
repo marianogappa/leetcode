@@ -1,4 +1,4 @@
-## 2020 Leetcode exercises (33 solved)
+## 2020 Leetcode exercises (34 solved)
 
 |Title|Leetcode|My Solution|
 |-----|:--------:|:---------:|
@@ -24,6 +24,7 @@
 |Maximum product subarray|[[Link]](https://leetcode.com/problems/maximum-product-subarray)|[[Link]](2020/maximum-product-subarray)|
 |Maximum subarray|[[Link]](https://leetcode.com/problems/maximum-subarray)|[[Link]](2020/maximum-subarray)|
 |Minimum window substring|[[Link]](https://leetcode.com/problems/minimum-window-substring)|[[Link]](2020/minimum-window-substring)|
+|Missing number|[[Link]](https://leetcode.com/problems/missing-number)|[[Link]](2020/missing-number)|
 |Number of 1 bits|[[Link]](https://leetcode.com/problems/number-of-1-bits)|[[Link]](2020/number-of-1-bits)|
 |Odd even linked list|[[Link]](https://leetcode.com/problems/odd-even-linked-list)|[[Link]](2020/odd-even-linked-list)|
 |Permutation in string|[[Link]](https://leetcode.com/problems/permutation-in-string)|[[Link]](2020/permutation-in-string)|
