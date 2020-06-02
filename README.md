@@ -1,4 +1,4 @@
-## 2020 Leetcode exercises (35 solved)
+## 2020 Leetcode exercises (36 solved)
 
 |Title|Leetcode|My Solution|
 |-----|:--------:|:---------:|
@@ -8,6 +8,7 @@
 |Basic calculator ii|[[Link]](https://leetcode.com/problems/basic-calculator-ii)|[[Link]](2020/basic-calculator-ii)|
 |Best time to buy and sell stock|[[Link]](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)|[[Link]](2020/best-time-to-buy-and-sell-stock)|
 |Binary tree inorder traversal|[[Link]](https://leetcode.com/problems/binary-tree-inorder-traversal)|[[Link]](2020/binary-tree-inorder-traversal)|
+|Climbing stairs|[[Link]](https://leetcode.com/problems/climbing-stairs)|[[Link]](2020/climbing-stairs)|
 |Coin change|[[Link]](https://leetcode.com/problems/coin-change)|[[Link]](2020/coin-change)|
 |Container with most water|[[Link]](https://leetcode.com/problems/container-with-most-water)|[[Link]](2020/container-with-most-water)|
 |Contains duplicate|[[Link]](https://leetcode.com/problems/contains-duplicate)|[[Link]](2020/contains-duplicate)|
