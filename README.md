@@ -1,4 +1,4 @@
-## 2020 Leetcode exercises (36 solved)
+## 2020 Leetcode exercises (37 solved)
 
 |Title|Leetcode|My Solution|
 |-----|:--------:|:---------:|
@@ -21,6 +21,7 @@
 |Gas station|[[Link]](https://leetcode.com/problems/gas-station)|[[Link]](2020/gas-station)|
 |Jump game|[[Link]](https://leetcode.com/problems/jump-game)|[[Link]](2020/jump-game)|
 |Kth smallest element in a bst|[[Link]](https://leetcode.com/problems/kth-smallest-element-in-a-bst)|[[Link]](2020/kth-smallest-element-in-a-bst)|
+|Longest common subsequence|[[Link]](https://leetcode.com/problems/longest-common-subsequence)|[[Link]](2020/longest-common-subsequence)|
 |Longest repeating character replacement|[[Link]](https://leetcode.com/problems/longest-repeating-character-replacement)|[[Link]](2020/longest-repeating-character-replacement)|
 |Maximum product subarray|[[Link]](https://leetcode.com/problems/maximum-product-subarray)|[[Link]](2020/maximum-product-subarray)|
 |Maximum subarray|[[Link]](https://leetcode.com/problems/maximum-subarray)|[[Link]](2020/maximum-subarray)|
