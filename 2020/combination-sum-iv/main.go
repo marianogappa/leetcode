@@ -10,6 +10,8 @@ func combinationSum4(nums []int, target int) int {
 
 func doCombinationSum4(nums []int, target int, memo map[int]int) int {
 	if target == 0 {
+		// Key here: if we exactly reach the target, that's
+		// one combination.
 		return 1
 	}
 	if v, ok := memo[target]; ok {
@@ -17,6 +19,8 @@ func doCombinationSum4(nums []int, target int, memo map[int]int) int {
 	}
 	count := 0
 	for _, num := range nums {
+		// Combinations are only valid if we reach target,
+		// not if we exceed it.
 		if target-num < 0 {
 			continue
 		}
