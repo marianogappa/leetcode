@@ -1,4 +1,4 @@
-## 2020 Leetcode exercises (37 solved)
+## 2020 Leetcode exercises (38 solved)
 
 |Title|Leetcode|My Solution|
 |-----|:--------:|:---------:|
@@ -39,6 +39,7 @@
 |Top k frequent elements|[[Link]](https://leetcode.com/problems/top-k-frequent-elements)|[[Link]](2020/top-k-frequent-elements)|
 |Unique paths|[[Link]](https://leetcode.com/problems/unique-paths)|[[Link]](2020/unique-paths)|
 |Valid sudoku|[[Link]](https://leetcode.com/problems/valid-sudoku)|[[Link]](2020/valid-sudoku)|
+|Word break|[[Link]](https://leetcode.com/problems/word-break)|[[Link]](2020/word-break)|
 
 
 ## 2018 Leetcode exercises (180 solved)
