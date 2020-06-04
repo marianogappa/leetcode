@@ -1,4 +1,4 @@
-## 2020 Leetcode exercises (40 solved)
+## 2020 Leetcode exercises (41 solved)
 
 |Title|Leetcode|My Solution|
 |-----|:--------:|:---------:|
@@ -21,6 +21,7 @@
 |Fizz buzz|[[Link]](https://leetcode.com/problems/fizz-buzz)|[[Link]](2020/fizz-buzz)|
 |Gas station|[[Link]](https://leetcode.com/problems/gas-station)|[[Link]](2020/gas-station)|
 |House robber|[[Link]](https://leetcode.com/problems/house-robber)|[[Link]](2020/house-robber)|
+|House robber ii|[[Link]](https://leetcode.com/problems/house-robber-ii)|[[Link]](2020/house-robber-ii)|
 |Jump game|[[Link]](https://leetcode.com/problems/jump-game)|[[Link]](2020/jump-game)|
 |Kth smallest element in a bst|[[Link]](https://leetcode.com/problems/kth-smallest-element-in-a-bst)|[[Link]](2020/kth-smallest-element-in-a-bst)|
 |Longest common subsequence|[[Link]](https://leetcode.com/problems/longest-common-subsequence)|[[Link]](2020/longest-common-subsequence)|
