@@ -2,19 +2,22 @@ package main
 
 import "fmt"
 
-// We only need to keep track of the maximum reachable step, because all
-// the ones before by definition can be reached. As we walk towardd the
-// max reachable, some steps may move max reachable further. If max
-// reachable moves up to or exceeding the last step, then result is true.
-//
-// Time: O(n) because you only go through the nums once
+// Time: O(n)
 // Space: O(1)
+//
+// We should be able to jump to any location up to the
+// current maximum reachable, so the key is we only need
+// to store the _maxReachable_.
+//
+// As we go through the array, we update _maxReachable_,
+// but we must break out of the loop if we "run out of
+// fuel".
 func canJump(nums []int) bool {
-	var maxReached int
-	for i := 0; i <= maxReached && maxReached < len(nums)-1; i++ {
-		maxReached = max(maxReached, i+nums[i])
+	var maxReachable int
+	for i := 0; i < len(nums) && i <= maxReachable; i++ {
+		maxReachable = max(maxReachable, i+nums[i])
 	}
-	return maxReached >= len(nums)-1
+	return maxReachable >= len(nums)-1
 }
 
 func max(a, b int) int {
