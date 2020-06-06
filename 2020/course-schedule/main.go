@@ -13,50 +13,43 @@ const (
 // Time: O(v + e) where v = vertices and e = edges
 // Space: O(v + e)
 func canFinish(numCourses int, prerequisites [][]int) bool {
-	// Prerequisites are not sorted by origin node. If we want to
-	// loop through the prereqs of a given node, we have to table
-	// scan this array every time. To make this more efficient,
-	// construct an array that goes from origin to prereqs.
-	var prereqs = make([][]int, numCourses)
-	for _, prereq := range prerequisites {
-		prereqs[prereq[0]] = append(prereqs[prereq[0]], prereq[1])
+	// Build adjacency list from _prerequisites_.
+	adjList := map[int][]int{}
+	for _, p := range prerequisites {
+		adjList[p[0]] = append(adjList[p[0]], p[1])
 	}
 
-	// Nodes can be "unvisited", "visiting" or "visited".
-	var states = make([]state, numCourses)
+	nodeStates := make([]state, numCourses)
 
-	// Loop through prereqs of each node, and check for cycles.
+	// Check the nodeStates for each course for cycles.
 	for i := 0; i < numCourses; i++ {
-		// We only need to check for cycles once, so if while
-		// checking for cycles on one node we checked recursively
-		// on another, we don't need to do it again.
-		if states[i] == unvisited && hasCycle(i, prereqs, states) {
+		if hasCycle(i, adjList, nodeStates) {
 			return false
 		}
 	}
 	return true
 }
 
-func hasCycle(i int, prereqs [][]int, states []state) bool {
-	// The intermediate "visiting" state allows finding cycles in
-	// the recursion. It is legit to arrive to an already visited
-	// node: think of a diamond (1 -> 2, 1 -> 3, 2 -> 4, 3 -> 4).
-	states[i] = visiting
-	for _, prereq := range prereqs[i] {
-		switch {
-		// The key to detecting the cycle is here. We only recursively
-		// visit children, so the only way to have a "visiting" child
-		// is with a cycle.
-		case states[prereq] == visiting:
-			return true
-			// A cycle can only happen when we land on a node that has already
-			// been visited before. Check for cycles only on those.
-		case states[prereq] == visited && hasCycle(prereq, prereqs, states):
-			return true
+// The key to finding a cycle is: do a dfs traversal of the graph,
+// and mark the nodes in the traversal stack as "visiting". Then,
+// if you arrive at a "visiting" node while traversing, you have
+// a cycle.
+func hasCycle(i int, adjList map[int][]int, nodeStates []state) bool {
+	switch nodeStates[i] {
+	case visited:
+		return false
+	case visiting:
+		return true
+	default:
+		nodeStates[i] = visiting
+		for _, neighbor := range adjList[i] {
+			if hasCycle(neighbor, adjList, nodeStates) {
+				return true
+			}
 		}
+		nodeStates[i] = visited
+		return false
 	}
-	states[i] = visited
-	return false
 }
 
 func main() {
