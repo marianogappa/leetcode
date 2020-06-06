@@ -1,4 +1,4 @@
-## 2020 Leetcode exercises (44 solved)
+## 2020 Leetcode exercises (45 solved)
 
 |Title|Leetcode|My Solution|
 |-----|:--------:|:---------:|
@@ -27,6 +27,7 @@
 |Jump game|[[Link]](https://leetcode.com/problems/jump-game)|[[Link]](2020/jump-game)|
 |Kth smallest element in a bst|[[Link]](https://leetcode.com/problems/kth-smallest-element-in-a-bst)|[[Link]](2020/kth-smallest-element-in-a-bst)|
 |Longest common subsequence|[[Link]](https://leetcode.com/problems/longest-common-subsequence)|[[Link]](2020/longest-common-subsequence)|
+|Longest consecutive sequence|[[Link]](https://leetcode.com/problems/longest-consecutive-sequence)|[[Link]](2020/longest-consecutive-sequence)|
 |Longest repeating character replacement|[[Link]](https://leetcode.com/problems/longest-repeating-character-replacement)|[[Link]](2020/longest-repeating-character-replacement)|
 |Maximum product subarray|[[Link]](https://leetcode.com/problems/maximum-product-subarray)|[[Link]](2020/maximum-product-subarray)|
 |Maximum subarray|[[Link]](https://leetcode.com/problems/maximum-subarray)|[[Link]](2020/maximum-subarray)|
