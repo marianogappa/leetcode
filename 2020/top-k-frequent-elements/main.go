@@ -3,120 +3,137 @@ package main
 import (
 	"fmt"
 	"reflect"
-	"sort"
 )
 
-type fn struct {
-	f int
-	n int
-}
-
-// This exercise is trivial if you understand heaps.
-// But the key thing to remember here is that heapify
-// is O(n), even though it looks O(nlogn). Otherwise,
-// there's no way to solve this better than O(nlogn),
-// at which point sorting is simpler.
-//
-// Time: O(klogn)
+// Time:  O(k*log(n))
 // Space: O(n)
 func topKFrequent(nums []int, k int) []int {
-	// 1: get the frequencies in a map
+	// Calculate frequency of each number
 	// Time: O(n)
 	// Space: O(n)
 	freqs := map[int]int{}
-	for _, n := range nums {
-		freqs[n]++
+	for _, num := range nums {
+		freqs[num]++
 	}
 
-	// 2: make a slice of "freq+num"
+	// Put previous calculation into a slice
 	// Time: O(n)
 	// Space: O(n)
-	fns := make([]fn, len(freqs))
+	numFreqs := make([]numFreq, len(freqs))
 	i := 0
-	for n, f := range freqs {
-		fns[i] = fn{f, n}
+	for num, freq := range freqs {
+		numFreqs[i] = numFreq{num, freq}
 		i++
 	}
 
-	// 3: heapify slice
 	// Time: O(n)
 	// Space: O(1)
-	heapify(fns)
+	heapify(numFreqs)
 
-	// 4: pop max k times
-	// Time: O(klogn)
-	// Space: O(k)
-	topk := make([]int, k)
+	h := &maxHeap{numFreqs}
+
+	topK := make([]int, k)
+	// Time: O(k*log(n))
+	// Space: O(1)
 	for i := 0; i < k; i++ {
-		topk[i] = popMax(&fns)
+		// Pop max while keeping the heap property
+		topK[i] = h.pop()
 	}
-
-	return topk
+	return topK
 }
 
-// Time: O(n)
-// Space: O(1)
-func heapify(fns []fn) {
-	for i := (len(fns) / 2) - 1; i >= 0; i-- {
-		siftDown(fns, i)
+type numFreq struct {
+	num, freq int
+}
+
+func heapify(arr []numFreq) {
+	for i := len(arr)/2 - 1; i >= 0; i-- {
+		siftDown(arr, i)
 	}
 }
 
-// Time: O(logn)
-// Space: O(1)
-func siftDown(fns []fn, i int) {
-	for root := i; root*2+1 < len(fns); { // while root is a parent
-		var child = root*2 + 1                                   // child = left child of root
-		if child+1 < len(fns) && fns[child].f < fns[child+1].f { // child = max sibling
-			child++
+type maxHeap struct {
+	arr []numFreq
+}
+
+func (h *maxHeap) pop() int {
+	head := h.arr[0]
+	h.arr[0] = h.arr[len(h.arr)-1]
+	h.arr = h.arr[:len(h.arr)-1]
+	siftDown(h.arr, 0)
+	return head.num
+}
+
+func siftDown(arr []numFreq, i int) {
+	if len(arr) <= 1 {
+		return
+	}
+	current := i // Starting from the root...
+
+	// While current node has a child...
+	for childOf(current) < len(arr) {
+		maxChild := maxChildOf(arr, current)
+
+		// If the max child is not > current, done!
+		if arr[maxChild].freq <= arr[current].freq {
+			return
 		}
-		if fns[root].f < fns[child].f { // if root is unordered to child
-			fns[root], fns[child] = fns[child], fns[root] // swap them
-			root = child                                  // continue algorithm from child
-		} else {
-			return // if root and child are ordered, we're done
-		}
+
+		// Otherwise swap current and maxChild, and continue from maxChild
+		arr[maxChild], arr[current] = arr[current], arr[maxChild]
+		current = maxChild
 	}
 }
 
-// Time: O(logn)
-// Space: O(1)
-func popMax(fns *[]fn) int {
-	max := (*fns)[0].n
-	(*fns)[0], (*fns)[len(*fns)-1] = (*fns)[len(*fns)-1], (*fns)[0]
-	(*fns) = (*fns)[:len(*fns)-1]
-	siftDown(*fns, 0)
-	return max
+func childOf(i int) int {
+	return 2*i + 1
+}
+
+func maxChildOf(arr []numFreq, i int) int {
+	child := childOf(i)
+	if child+1 < len(arr) && arr[child+1].freq > arr[child].freq {
+		child++
+	}
+	return child
 }
 
 func main() {
+	// a := []numFreq{{1, 1}, {2, 2}, {3, 3}, {4, 4}, {5, 5}, {6, 6}, {7, 7}, {8, 8}, {9, 9}, {10, 10}}
+	// rand.Seed(time.Now().UnixNano())
+	// rand.Shuffle(len(a), func(i, j int) { a[i], a[j] = a[j], a[i] })
+	// fmt.Println("before heapify:", a)
+	// heapify(a)
+	// fmt.Println("after heapify:", a)
+	// h := &maxHeap{a}
+	// for i := 0; i < 10; i++ {
+	// 	fmt.Println(h.pop())
+	// }
+
 	ts := []struct {
-		input    []int
+		nums     []int
 		k        int
 		expected []int
 	}{
 		{
-			input:    []int{1, 1, 1, 2, 2, 3},
+			nums:     []int{1, 1, 1, 2, 2, 3},
 			k:        2,
 			expected: []int{1, 2},
 		},
 		{
-			input:    []int{1},
+			nums:     []int{1},
 			k:        1,
 			expected: []int{1},
 		},
 		{
-			input:    []int{4, 1, -1, 2, -1, 2, 3},
-			k:        2,
-			expected: []int{-1, 2},
+			nums:     []int{5, 1, -1, -8, -7, 8, -5, 0, 1, 10, 8, 0, -4, 3, -1, -1, 4, -5, 4, -3, 0, 2, 2, 2, 4, -2, -4, 8, -7, -7, 2, -8, 0, -8, 10, 8, -8, -2, -9, 4, -7, 6, 6, -1, 4, 2, 8, -3, 5, -9, -3, 6, -8, -5, 5, 10, 2, -5, -1, -5, 1, -3, 7, 0, 8, -2, -3, -1, -5, 4, 7, -9, 0, 2, 10, 4, 4, -4, -1, -1, 6, -8, -9, -1, 9, -9, 3, 5, 1, 6, -1, -2, 4, 2, 4, -6, 4, 4, 5, -5},
+			k:        7,
+			expected: []int{4, -1, 2, -5, -8, 0, 8},
 		},
 	}
 	for _, tc := range ts {
-		actual := topKFrequent(tc.input, tc.k)
-		sort.Ints(actual)
-		sort.Ints(tc.expected)
+		actual := topKFrequent(tc.nums, tc.k)
 		if !reflect.DeepEqual(tc.expected, actual) {
-			fmt.Printf("For %v expected %v but got %v\n", tc.input, tc.expected, actual)
+			fmt.Printf("For (%v,%v) expected %v but got %v\n", tc.nums, tc.k, tc.expected, actual)
 		}
 	}
 }
