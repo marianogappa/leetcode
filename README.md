@@ -1,4 +1,4 @@
-## 2020 Leetcode exercises (46 solved)
+## 2020 Leetcode exercises (47 solved)
 
 |Title|Leetcode|My Solution|
 |-----|:--------:|:---------:|
@@ -19,6 +19,7 @@
 |Course schedule|[[Link]](https://leetcode.com/problems/course-schedule)|[[Link]](2020/course-schedule)|
 |Decode ways|[[Link]](https://leetcode.com/problems/decode-ways)|[[Link]](2020/decode-ways)|
 |Excel sheet column number|[[Link]](https://leetcode.com/problems/excel-sheet-column-number)|[[Link]](2020/excel-sheet-column-number)|
+|Find median from data stream|[[Link]](https://leetcode.com/problems/find-median-from-data-stream)|[[Link]](2020/find-median-from-data-stream)|
 |Find minimum in rotated sorted array|[[Link]](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array)|[[Link]](2020/find-minimum-in-rotated-sorted-array)|
 |Fizz buzz|[[Link]](https://leetcode.com/problems/fizz-buzz)|[[Link]](2020/fizz-buzz)|
 |Gas station|[[Link]](https://leetcode.com/problems/gas-station)|[[Link]](2020/gas-station)|
