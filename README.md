@@ -1,4 +1,4 @@
-## 2020 Leetcode exercises (48 solved)
+## 2020 Leetcode exercises (49 solved)
 
 |Title|Leetcode|My Solution|
 |-----|:--------:|:---------:|
@@ -33,6 +33,7 @@
 |Longest repeating character replacement|[[Link]](https://leetcode.com/problems/longest-repeating-character-replacement)|[[Link]](2020/longest-repeating-character-replacement)|
 |Maximum product subarray|[[Link]](https://leetcode.com/problems/maximum-product-subarray)|[[Link]](2020/maximum-product-subarray)|
 |Maximum subarray|[[Link]](https://leetcode.com/problems/maximum-subarray)|[[Link]](2020/maximum-subarray)|
+|Merge intervals|[[Link]](https://leetcode.com/problems/merge-intervals)|[[Link]](2020/merge-intervals)|
 |Merge k sorted lists|[[Link]](https://leetcode.com/problems/merge-k-sorted-lists)|[[Link]](2020/merge-k-sorted-lists)|
 |Minimum window substring|[[Link]](https://leetcode.com/problems/minimum-window-substring)|[[Link]](2020/minimum-window-substring)|
 |Missing number|[[Link]](https://leetcode.com/problems/missing-number)|[[Link]](2020/missing-number)|
