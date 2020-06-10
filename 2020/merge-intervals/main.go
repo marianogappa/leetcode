@@ -6,8 +6,8 @@ import (
 	"sort"
 )
 
-// Time: O()
-// Space: O()
+// Time: O(nlogn)
+// Space: O(n)
 func merge(intervals [][]int) [][]int {
 	// Make sure intervals are sorted
 	sort.Slice(intervals, func(i, j int) bool { return intervals[i][0] < intervals[j][0] })
