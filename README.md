@@ -1,4 +1,4 @@
-## 2020 Leetcode exercises (52 solved)
+## 2020 Leetcode exercises (53 solved)
 
 |Title|Leetcode|My Solution|
 |-----|:--------:|:---------:|
@@ -36,6 +36,7 @@
 |Maximum subarray|[[Link]](https://leetcode.com/problems/maximum-subarray)|[[Link]](2020/maximum-subarray)|
 |Merge intervals|[[Link]](https://leetcode.com/problems/merge-intervals)|[[Link]](2020/merge-intervals)|
 |Merge k sorted lists|[[Link]](https://leetcode.com/problems/merge-k-sorted-lists)|[[Link]](2020/merge-k-sorted-lists)|
+|Merge two sorted lists|[[Link]](https://leetcode.com/problems/merge-two-sorted-lists)|[[Link]](2020/merge-two-sorted-lists)|
 |Minimum window substring|[[Link]](https://leetcode.com/problems/minimum-window-substring)|[[Link]](2020/minimum-window-substring)|
 |Missing number|[[Link]](https://leetcode.com/problems/missing-number)|[[Link]](2020/missing-number)|
 |Non overlapping intervals|[[Link]](https://leetcode.com/problems/non-overlapping-intervals)|[[Link]](2020/non-overlapping-intervals)|
