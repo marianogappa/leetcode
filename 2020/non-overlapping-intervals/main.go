@@ -5,13 +5,18 @@ import (
 	"sort"
 )
 
-// Time: O()
-// Space: O()
+// Time: O(nlogn)
+// Space: O(1)
 func eraseOverlapIntervals(intervals [][]int) int {
 	if len(intervals) == 0 {
 		return 0
 	}
+
+	// Note that this sorts by end time rather than start time
 	sort.Slice(intervals, func(i, j int) bool { return intervals[i][1] < intervals[j][1] })
+
+	// This calculates the optimum scheduling, that is, maximum non-overlapping intervals
+	// Read this: https://en.wikipedia.org/wiki/Interval_scheduling#Interval_Scheduling_Maximization
 	var (
 		count = 1
 		end   = intervals[0][1]
@@ -22,6 +27,8 @@ func eraseOverlapIntervals(intervals [][]int) int {
 			end = intervals[i][1]
 		}
 	}
+
+	// Total - max non-overlapping = how many need to be erased
 	return len(intervals) - count
 }
 
