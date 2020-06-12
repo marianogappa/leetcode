@@ -1,4 +1,4 @@
-## 2020 Leetcode exercises (53 solved)
+## 2020 Leetcode exercises (54 solved)
 
 |Title|Leetcode|My Solution|
 |-----|:--------:|:---------:|
@@ -46,6 +46,7 @@
 |Permutation in string|[[Link]](https://leetcode.com/problems/permutation-in-string)|[[Link]](2020/permutation-in-string)|
 |Product of array except self|[[Link]](https://leetcode.com/problems/product-of-array-except-self)|[[Link]](2020/product-of-array-except-self)|
 |Remove nth node from end of list|[[Link]](https://leetcode.com/problems/remove-nth-node-from-end-of-list)|[[Link]](2020/remove-nth-node-from-end-of-list)|
+|Reorder list|[[Link]](https://leetcode.com/problems/reorder-list)|[[Link]](2020/reorder-list)|
 |Reverse bits|[[Link]](https://leetcode.com/problems/reverse-bits)|[[Link]](2020/reverse-bits)|
 |Reverse linked list|[[Link]](https://leetcode.com/problems/reverse-linked-list)|[[Link]](2020/reverse-linked-list)|
 |Search in rotated sorted array|[[Link]](https://leetcode.com/problems/search-in-rotated-sorted-array)|[[Link]](2020/search-in-rotated-sorted-array)|
