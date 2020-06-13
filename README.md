@@ -1,4 +1,4 @@
-## 2020 Leetcode exercises (56 solved)
+## 2020 Leetcode exercises (57 solved)
 
 |Title|Leetcode|My Solution|
 |-----|:--------:|:---------:|
@@ -52,6 +52,7 @@
 |Reverse bits|[[Link]](https://leetcode.com/problems/reverse-bits)|[[Link]](2020/reverse-bits)|
 |Reverse linked list|[[Link]](https://leetcode.com/problems/reverse-linked-list)|[[Link]](2020/reverse-linked-list)|
 |Search in rotated sorted array|[[Link]](https://leetcode.com/problems/search-in-rotated-sorted-array)|[[Link]](2020/search-in-rotated-sorted-array)|
+|Sqrtx|[[Link]](https://leetcode.com/problems/sqrtx)|[[Link]](2020/sqrtx)|
 |Sum of two integers|[[Link]](https://leetcode.com/problems/sum-of-two-integers)|[[Link]](2020/sum-of-two-integers)|
 |Surrounded regions|[[Link]](https://leetcode.com/problems/surrounded-regions)|[[Link]](2020/surrounded-regions)|
 |Top k frequent elements|[[Link]](https://leetcode.com/problems/top-k-frequent-elements)|[[Link]](2020/top-k-frequent-elements)|
