@@ -14,8 +14,8 @@ func (n *ListNode) String() string {
 	return fmt.Sprintf("%v -> %v", n.Val, n.Next)
 }
 
-// Time: O()
-// Space: O()
+// Time: O(n)
+// Space: O(1)
 func reorderList(head *ListNode) {
 	if head == nil || head.Next == nil || head.Next.Next == nil {
 		return
