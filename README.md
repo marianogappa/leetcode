@@ -1,4 +1,4 @@
-## 2020 Leetcode exercises (55 solved)
+## 2020 Leetcode exercises (56 solved)
 
 |Title|Leetcode|My Solution|
 |-----|:--------:|:---------:|
@@ -45,6 +45,7 @@
 |Number of islands|[[Link]](https://leetcode.com/problems/number-of-islands)|[[Link]](2020/number-of-islands)|
 |Odd even linked list|[[Link]](https://leetcode.com/problems/odd-even-linked-list)|[[Link]](2020/odd-even-linked-list)|
 |Permutation in string|[[Link]](https://leetcode.com/problems/permutation-in-string)|[[Link]](2020/permutation-in-string)|
+|Powx n|[[Link]](https://leetcode.com/problems/powx-n)|[[Link]](2020/powx-n)|
 |Product of array except self|[[Link]](https://leetcode.com/problems/product-of-array-except-self)|[[Link]](2020/product-of-array-except-self)|
 |Remove nth node from end of list|[[Link]](https://leetcode.com/problems/remove-nth-node-from-end-of-list)|[[Link]](2020/remove-nth-node-from-end-of-list)|
 |Reorder list|[[Link]](https://leetcode.com/problems/reorder-list)|[[Link]](2020/reorder-list)|
