@@ -1,4 +1,4 @@
-## 2020 Leetcode exercises (60 solved)
+## 2020 Leetcode exercises (61 solved)
 
 |Title|Leetcode|My Solution|
 |-----|:--------:|:---------:|
@@ -62,6 +62,7 @@
 |Unique paths|[[Link]](https://leetcode.com/problems/unique-paths)|[[Link]](2020/unique-paths)|
 |Valid sudoku|[[Link]](https://leetcode.com/problems/valid-sudoku)|[[Link]](2020/valid-sudoku)|
 |Word break|[[Link]](https://leetcode.com/problems/word-break)|[[Link]](2020/word-break)|
+|Word search|[[Link]](https://leetcode.com/problems/word-search)|[[Link]](2020/word-search)|
 
 
 ## 2018 Leetcode exercises (180 solved)
