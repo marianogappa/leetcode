@@ -1,4 +1,4 @@
-## 2020 Leetcode exercises (58 solved)
+## 2020 Leetcode exercises (59 solved)
 
 |Title|Leetcode|My Solution|
 |-----|:--------:|:---------:|
@@ -53,6 +53,7 @@
 |Reverse linked list|[[Link]](https://leetcode.com/problems/reverse-linked-list)|[[Link]](2020/reverse-linked-list)|
 |Search in rotated sorted array|[[Link]](https://leetcode.com/problems/search-in-rotated-sorted-array)|[[Link]](2020/search-in-rotated-sorted-array)|
 |Set matrix zeroes|[[Link]](https://leetcode.com/problems/set-matrix-zeroes)|[[Link]](2020/set-matrix-zeroes)|
+|Spiral matrix|[[Link]](https://leetcode.com/problems/spiral-matrix)|[[Link]](2020/spiral-matrix)|
 |Sqrtx|[[Link]](https://leetcode.com/problems/sqrtx)|[[Link]](2020/sqrtx)|
 |Sum of two integers|[[Link]](https://leetcode.com/problems/sum-of-two-integers)|[[Link]](2020/sum-of-two-integers)|
 |Surrounded regions|[[Link]](https://leetcode.com/problems/surrounded-regions)|[[Link]](2020/surrounded-regions)|
