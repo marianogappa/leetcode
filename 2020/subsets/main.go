@@ -6,7 +6,8 @@ import (
 )
 
 // This solution requires some thought because, although it works,
-// the space complexity
+// the space complexity seems non-optimal. It creates all intermediate
+// subsets in memory every time.
 func subsets(nums []int) [][]int {
 	result := [][]int{{}}
 	for i := 1; i <= len(nums); i++ {
