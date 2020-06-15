@@ -57,11 +57,11 @@
 |Spiral matrix|[[Link]](https://leetcode.com/problems/spiral-matrix)|[[Link]](2020/spiral-matrix)|
 |Sqrtx|[[Link]](https://leetcode.com/problems/sqrtx)|[[Link]](2020/sqrtx)|
 |Subsets|[[Link]](https://leetcode.com/problems/subsets)|[[Link]](2020/subsets)|
-|Subsets ii|[[Link]](https://leetcode.com/problems/subsets-ii)|[[Link]](2020/subsets-ii)|
 |Sum of two integers|[[Link]](https://leetcode.com/problems/sum-of-two-integers)|[[Link]](2020/sum-of-two-integers)|
 |Surrounded regions|[[Link]](https://leetcode.com/problems/surrounded-regions)|[[Link]](2020/surrounded-regions)|
 |Top k frequent elements|[[Link]](https://leetcode.com/problems/top-k-frequent-elements)|[[Link]](2020/top-k-frequent-elements)|
 |Unique paths|[[Link]](https://leetcode.com/problems/unique-paths)|[[Link]](2020/unique-paths)|
+|Valid parentheses|[[Link]](https://leetcode.com/problems/valid-parentheses)|[[Link]](2020/valid-parentheses)|
 |Valid sudoku|[[Link]](https://leetcode.com/problems/valid-sudoku)|[[Link]](2020/valid-sudoku)|
 |Word break|[[Link]](https://leetcode.com/problems/word-break)|[[Link]](2020/word-break)|
 |Word search|[[Link]](https://leetcode.com/problems/word-search)|[[Link]](2020/word-search)|
