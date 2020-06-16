@@ -1,4 +1,4 @@
-## 2020 Leetcode exercises (64 solved)
+## 2020 Leetcode exercises (65 solved)
 
 |Title|Leetcode|My Solution|
 |-----|:--------:|:---------:|
@@ -33,6 +33,7 @@
 |Longest common subsequence|[[Link]](https://leetcode.com/problems/longest-common-subsequence)|[[Link]](2020/longest-common-subsequence)|
 |Longest consecutive sequence|[[Link]](https://leetcode.com/problems/longest-consecutive-sequence)|[[Link]](2020/longest-consecutive-sequence)|
 |Longest repeating character replacement|[[Link]](https://leetcode.com/problems/longest-repeating-character-replacement)|[[Link]](2020/longest-repeating-character-replacement)|
+|Longest substring without repeating characters|[[Link]](https://leetcode.com/problems/longest-substring-without-repeating-characters)|[[Link]](2020/longest-substring-without-repeating-characters)|
 |Maximum product subarray|[[Link]](https://leetcode.com/problems/maximum-product-subarray)|[[Link]](2020/maximum-product-subarray)|
 |Maximum subarray|[[Link]](https://leetcode.com/problems/maximum-subarray)|[[Link]](2020/maximum-subarray)|
 |Merge intervals|[[Link]](https://leetcode.com/problems/merge-intervals)|[[Link]](2020/merge-intervals)|
