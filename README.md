@@ -1,4 +1,4 @@
-## 2020 Leetcode exercises (67 solved)
+## 2020 Leetcode exercises (68 solved)
 
 |Title|Leetcode|My Solution|
 |-----|:--------:|:---------:|
@@ -47,6 +47,7 @@
 |Number of 1 bits|[[Link]](https://leetcode.com/problems/number-of-1-bits)|[[Link]](2020/number-of-1-bits)|
 |Number of islands|[[Link]](https://leetcode.com/problems/number-of-islands)|[[Link]](2020/number-of-islands)|
 |Odd even linked list|[[Link]](https://leetcode.com/problems/odd-even-linked-list)|[[Link]](2020/odd-even-linked-list)|
+|Palindromic substrings|[[Link]](https://leetcode.com/problems/palindromic-substrings)|[[Link]](2020/palindromic-substrings)|
 |Permutation in string|[[Link]](https://leetcode.com/problems/permutation-in-string)|[[Link]](2020/permutation-in-string)|
 |Powx n|[[Link]](https://leetcode.com/problems/powx-n)|[[Link]](2020/powx-n)|
 |Product of array except self|[[Link]](https://leetcode.com/problems/product-of-array-except-self)|[[Link]](2020/product-of-array-except-self)|
