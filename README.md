@@ -1,4 +1,4 @@
-## 2020 Leetcode exercises (65 solved)
+## 2020 Leetcode exercises (66 solved)
 
 |Title|Leetcode|My Solution|
 |-----|:--------:|:---------:|
@@ -23,6 +23,7 @@
 |Find minimum in rotated sorted array|[[Link]](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array)|[[Link]](2020/find-minimum-in-rotated-sorted-array)|
 |Fizz buzz|[[Link]](https://leetcode.com/problems/fizz-buzz)|[[Link]](2020/fizz-buzz)|
 |Gas station|[[Link]](https://leetcode.com/problems/gas-station)|[[Link]](2020/gas-station)|
+|Group anagrams|[[Link]](https://leetcode.com/problems/group-anagrams)|[[Link]](2020/group-anagrams)|
 |House robber|[[Link]](https://leetcode.com/problems/house-robber)|[[Link]](2020/house-robber)|
 |House robber ii|[[Link]](https://leetcode.com/problems/house-robber-ii)|[[Link]](2020/house-robber-ii)|
 |Insert interval|[[Link]](https://leetcode.com/problems/insert-interval)|[[Link]](2020/insert-interval)|
