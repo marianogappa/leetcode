@@ -1,4 +1,4 @@
-## 2020 Leetcode exercises (70 solved)
+## 2020 Leetcode exercises (71 solved)
 
 |Title|Leetcode|My Solution|
 |-----|:--------:|:---------:|
@@ -57,6 +57,7 @@
 |Reverse bits|[[Link]](https://leetcode.com/problems/reverse-bits)|[[Link]](2020/reverse-bits)|
 |Reverse linked list|[[Link]](https://leetcode.com/problems/reverse-linked-list)|[[Link]](2020/reverse-linked-list)|
 |Rotate image|[[Link]](https://leetcode.com/problems/rotate-image)|[[Link]](2020/rotate-image)|
+|Same tree|[[Link]](https://leetcode.com/problems/same-tree)|[[Link]](2020/same-tree)|
 |Search in rotated sorted array|[[Link]](https://leetcode.com/problems/search-in-rotated-sorted-array)|[[Link]](2020/search-in-rotated-sorted-array)|
 |Set matrix zeroes|[[Link]](https://leetcode.com/problems/set-matrix-zeroes)|[[Link]](2020/set-matrix-zeroes)|
 |Spiral matrix|[[Link]](https://leetcode.com/problems/spiral-matrix)|[[Link]](2020/spiral-matrix)|
