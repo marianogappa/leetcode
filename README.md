@@ -1,4 +1,4 @@
-## 2020 Leetcode exercises (71 solved)
+## 2020 Leetcode exercises (72 solved)
 
 |Title|Leetcode|My Solution|
 |-----|:--------:|:---------:|
@@ -28,6 +28,7 @@
 |House robber ii|[[Link]](https://leetcode.com/problems/house-robber-ii)|[[Link]](2020/house-robber-ii)|
 |Insert interval|[[Link]](https://leetcode.com/problems/insert-interval)|[[Link]](2020/insert-interval)|
 |Integer to english words|[[Link]](https://leetcode.com/problems/integer-to-english-words)|[[Link]](2020/integer-to-english-words)|
+|Invert binary tree|[[Link]](https://leetcode.com/problems/invert-binary-tree)|[[Link]](2020/invert-binary-tree)|
 |Jump game|[[Link]](https://leetcode.com/problems/jump-game)|[[Link]](2020/jump-game)|
 |Kth smallest element in a bst|[[Link]](https://leetcode.com/problems/kth-smallest-element-in-a-bst)|[[Link]](2020/kth-smallest-element-in-a-bst)|
 |Linked list cycle|[[Link]](https://leetcode.com/problems/linked-list-cycle)|[[Link]](2020/linked-list-cycle)|
