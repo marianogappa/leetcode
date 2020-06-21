@@ -1,4 +1,4 @@
-## 2020 Leetcode exercises (77 solved)
+## 2020 Leetcode exercises (78 solved)
 
 |Title|Leetcode|My Solution|
 |-----|:--------:|:---------:|
@@ -8,6 +8,7 @@
 |Basic calculator ii|[[Link]](https://leetcode.com/problems/basic-calculator-ii)|[[Link]](2020/basic-calculator-ii)|
 |Best time to buy and sell stock|[[Link]](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)|[[Link]](2020/best-time-to-buy-and-sell-stock)|
 |Binary tree inorder traversal|[[Link]](https://leetcode.com/problems/binary-tree-inorder-traversal)|[[Link]](2020/binary-tree-inorder-traversal)|
+|Binary tree level order traversal|[[Link]](https://leetcode.com/problems/binary-tree-level-order-traversal)|[[Link]](2020/binary-tree-level-order-traversal)|
 |Binary tree maximum path sum|[[Link]](https://leetcode.com/problems/binary-tree-maximum-path-sum)|[[Link]](2020/binary-tree-maximum-path-sum)|
 |Climbing stairs|[[Link]](https://leetcode.com/problems/climbing-stairs)|[[Link]](2020/climbing-stairs)|
 |Clone graph|[[Link]](https://leetcode.com/problems/clone-graph)|[[Link]](2020/clone-graph)|
