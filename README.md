@@ -1,4 +1,4 @@
-## 2020 Leetcode exercises (78 solved)
+## 2020 Leetcode exercises (79 solved)
 
 |Title|Leetcode|My Solution|
 |-----|:--------:|:---------:|
@@ -14,6 +14,7 @@
 |Clone graph|[[Link]](https://leetcode.com/problems/clone-graph)|[[Link]](2020/clone-graph)|
 |Coin change|[[Link]](https://leetcode.com/problems/coin-change)|[[Link]](2020/coin-change)|
 |Combination sum iv|[[Link]](https://leetcode.com/problems/combination-sum-iv)|[[Link]](2020/combination-sum-iv)|
+|Construct binary tree from preorder and inorder traversal|[[Link]](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal)|[[Link]](2020/construct-binary-tree-from-preorder-and-inorder-traversal)|
 |Container with most water|[[Link]](https://leetcode.com/problems/container-with-most-water)|[[Link]](2020/container-with-most-water)|
 |Contains duplicate|[[Link]](https://leetcode.com/problems/contains-duplicate)|[[Link]](2020/contains-duplicate)|
 |Convert sorted array to binary search tree|[[Link]](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree)|[[Link]](2020/convert-sorted-array-to-binary-search-tree)|
