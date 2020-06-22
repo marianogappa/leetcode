@@ -1,4 +1,4 @@
-## 2020 Leetcode exercises (79 solved)
+## 2020 Leetcode exercises (80 solved)
 
 |Title|Leetcode|My Solution|
 |-----|:--------:|:---------:|
@@ -29,6 +29,7 @@
 |Group anagrams|[[Link]](https://leetcode.com/problems/group-anagrams)|[[Link]](2020/group-anagrams)|
 |House robber|[[Link]](https://leetcode.com/problems/house-robber)|[[Link]](2020/house-robber)|
 |House robber ii|[[Link]](https://leetcode.com/problems/house-robber-ii)|[[Link]](2020/house-robber-ii)|
+|Implement trie prefix tree|[[Link]](https://leetcode.com/problems/implement-trie-prefix-tree)|[[Link]](2020/implement-trie-prefix-tree)|
 |Insert interval|[[Link]](https://leetcode.com/problems/insert-interval)|[[Link]](2020/insert-interval)|
 |Integer to english words|[[Link]](https://leetcode.com/problems/integer-to-english-words)|[[Link]](2020/integer-to-english-words)|
 |Invert binary tree|[[Link]](https://leetcode.com/problems/invert-binary-tree)|[[Link]](2020/invert-binary-tree)|
