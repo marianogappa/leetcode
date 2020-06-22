@@ -1,10 +1,11 @@
-## 2020 Leetcode exercises (80 solved)
+## 2020 Leetcode exercises (81 solved)
 
 |Title|Leetcode|My Solution|
 |-----|:--------:|:---------:|
 |3sum|[[Link]](https://leetcode.com/problems/3sum)|[[Link]](2020/3sum)|
 |4sum ii|[[Link]](https://leetcode.com/problems/4sum-ii)|[[Link]](2020/4sum-ii)|
 |Accounts merge|[[Link]](https://leetcode.com/problems/accounts-merge)|[[Link]](2020/accounts-merge)|
+|Add and search word data structure design|[[Link]](https://leetcode.com/problems/add-and-search-word-data-structure-design)|[[Link]](2020/add-and-search-word-data-structure-design)|
 |Basic calculator ii|[[Link]](https://leetcode.com/problems/basic-calculator-ii)|[[Link]](2020/basic-calculator-ii)|
 |Best time to buy and sell stock|[[Link]](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)|[[Link]](2020/best-time-to-buy-and-sell-stock)|
 |Binary tree inorder traversal|[[Link]](https://leetcode.com/problems/binary-tree-inorder-traversal)|[[Link]](2020/binary-tree-inorder-traversal)|
