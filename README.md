@@ -1,4 +1,4 @@
-## 2020 Leetcode exercises (81 solved)
+## 2020 Leetcode exercises (82 solved)
 
 |Title|Leetcode|My Solution|
 |-----|:--------:|:---------:|
@@ -83,6 +83,7 @@
 |Validate binary search tree|[[Link]](https://leetcode.com/problems/validate-binary-search-tree)|[[Link]](2020/validate-binary-search-tree)|
 |Word break|[[Link]](https://leetcode.com/problems/word-break)|[[Link]](2020/word-break)|
 |Word search|[[Link]](https://leetcode.com/problems/word-search)|[[Link]](2020/word-search)|
+|Word search ii|[[Link]](https://leetcode.com/problems/word-search-ii)|[[Link]](2020/word-search-ii)|
 
 
 ## 2018 Leetcode exercises (180 solved)
