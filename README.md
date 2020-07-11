@@ -1,4 +1,4 @@
-## 2020 Leetcode exercises (83 solved)
+## 2020 Leetcode exercises (84 solved)
 
 |Title|Leetcode|My Solution|
 |-----|:--------:|:---------:|
@@ -43,6 +43,7 @@
 |Longest repeating character replacement|[[Link]](https://leetcode.com/problems/longest-repeating-character-replacement)|[[Link]](2020/longest-repeating-character-replacement)|
 |Longest substring without repeating characters|[[Link]](https://leetcode.com/problems/longest-substring-without-repeating-characters)|[[Link]](2020/longest-substring-without-repeating-characters)|
 |Lowest common ancestor of a binary search tree|[[Link]](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree)|[[Link]](2020/lowest-common-ancestor-of-a-binary-search-tree)|
+|Lru cache|[[Link]](https://leetcode.com/problems/lru-cache)|[[Link]](2020/lru-cache)|
 |Maximum depth of binary tree|[[Link]](https://leetcode.com/problems/maximum-depth-of-binary-tree)|[[Link]](2020/maximum-depth-of-binary-tree)|
 |Maximum product subarray|[[Link]](https://leetcode.com/problems/maximum-product-subarray)|[[Link]](2020/maximum-product-subarray)|
 |Maximum subarray|[[Link]](https://leetcode.com/problems/maximum-subarray)|[[Link]](2020/maximum-subarray)|
