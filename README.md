@@ -1,4 +1,4 @@
-## 2020 Leetcode exercises (84 solved)
+## 2020 Leetcode exercises (87 solved)
 
 |Title|Leetcode|My Solution|
 |-----|:--------:|:---------:|
@@ -21,6 +21,7 @@
 |Convert sorted array to binary search tree|[[Link]](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree)|[[Link]](2020/convert-sorted-array-to-binary-search-tree)|
 |Counting bits|[[Link]](https://leetcode.com/problems/counting-bits)|[[Link]](2020/counting-bits)|
 |Course schedule|[[Link]](https://leetcode.com/problems/course-schedule)|[[Link]](2020/course-schedule)|
+|Course schedule ii|[[Link]](https://leetcode.com/problems/course-schedule-ii)|[[Link]](2020/course-schedule-ii)|
 |Decode ways|[[Link]](https://leetcode.com/problems/decode-ways)|[[Link]](2020/decode-ways)|
 |Excel sheet column number|[[Link]](https://leetcode.com/problems/excel-sheet-column-number)|[[Link]](2020/excel-sheet-column-number)|
 |Find median from data stream|[[Link]](https://leetcode.com/problems/find-median-from-data-stream)|[[Link]](2020/find-median-from-data-stream)|
@@ -58,8 +59,10 @@
 |Odd even linked list|[[Link]](https://leetcode.com/problems/odd-even-linked-list)|[[Link]](2020/odd-even-linked-list)|
 |Palindromic substrings|[[Link]](https://leetcode.com/problems/palindromic-substrings)|[[Link]](2020/palindromic-substrings)|
 |Permutation in string|[[Link]](https://leetcode.com/problems/permutation-in-string)|[[Link]](2020/permutation-in-string)|
+|Permutations ii|[[Link]](https://leetcode.com/problems/permutations-ii)|[[Link]](2020/permutations-ii)|
 |Powx n|[[Link]](https://leetcode.com/problems/powx-n)|[[Link]](2020/powx-n)|
 |Product of array except self|[[Link]](https://leetcode.com/problems/product-of-array-except-self)|[[Link]](2020/product-of-array-except-self)|
+|Remove invalid parentheses|[[Link]](https://leetcode.com/problems/remove-invalid-parentheses)|[[Link]](2020/remove-invalid-parentheses)|
 |Remove nth node from end of list|[[Link]](https://leetcode.com/problems/remove-nth-node-from-end-of-list)|[[Link]](2020/remove-nth-node-from-end-of-list)|
 |Reorder list|[[Link]](https://leetcode.com/problems/reorder-list)|[[Link]](2020/reorder-list)|
 |Reverse bits|[[Link]](https://leetcode.com/problems/reverse-bits)|[[Link]](2020/reverse-bits)|
