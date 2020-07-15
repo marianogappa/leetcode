@@ -2,6 +2,7 @@ package main
 
 import (
 	"fmt"
+	"math"
 )
 
 type TreeNode struct {
@@ -25,35 +26,27 @@ func maxPathSum(root *TreeNode) int {
 
 func dfs(root *TreeNode) (int, int) {
 	if root == nil {
-		return 0, 0
-	}
-	nonCumMaxLeft, cumMaxLeft := dfs(root.Left)
-	nonCumMaxRight, cumMaxRight := dfs(root.Right)
-
-	// Non-cumulative results are paths that don't add up to
-	// upper layers of the tree.
-	//
-	// Possible options:
-	// 1. Value of current node.
-	// 2. Value of current node plus sum of cumulatives of children.
-	// 3. Cumulatives and non-cumulatives on either side.
-	nonCums := []int{root.Val, root.Val + cumMaxLeft + cumMaxRight}
-	if root.Left != nil {
-		nonCums = append(nonCums, nonCumMaxLeft, cumMaxLeft)
-	}
-	if root.Right != nil {
-		nonCums = append(nonCums, nonCumMaxRight, cumMaxRight)
+		return 0, math.MinInt32
 	}
 
-	// Cumulative results are paths that add up to upper layers of the tree.
-	//
-	// Possible options:
-	// 1. Value of current node.
-	// 2. Value of current node plus max of cumulatives of children.
-	return maxSlice(nonCums), max(root.Val, root.Val+max(cumMaxLeft, cumMaxRight))
+	maxVerticalPathLeft, maxPathLeft := dfs(root.Left)
+	maxVerticalPathRight, maxPathRight := dfs(root.Right)
+
+	// The max vertical path is the max path from a leaf node to current node, or zero
+	// if all paths are negative. All possible vertical paths must include the current
+	// node, so it's always added at the end.
+	maxVerticalPath := maxSlice(0, maxVerticalPathLeft, maxVerticalPathRight) + root.Val
+
+	// It's also possible that the max is not a vertical path but the combination of two
+	// paths joined by the current node. It's also possible that the max path has already
+	// been found on a deeper iteration to the left or to the right, or that the max path
+	// is the maxVertical path calculated above this line.
+	maxPath := maxSlice(maxPathLeft, maxPathRight, maxVerticalPath, maxVerticalPathLeft+maxVerticalPathRight+root.Val)
+
+	return maxVerticalPath, maxPath
 }
 
-func maxSlice(ns []int) int {
+func maxSlice(ns ...int) int {
 	m := ns[0]
 	for _, n := range ns {
 		m = max(m, n)
