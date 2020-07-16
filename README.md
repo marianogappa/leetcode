@@ -1,4 +1,4 @@
-## 2020 Leetcode exercises (88 solved)
+## 2020 Leetcode exercises (89 solved)
 
 |Title|Leetcode|My Solution|
 |-----|:--------:|:---------:|
@@ -80,6 +80,7 @@
 |Sum of two integers|[[Link]](https://leetcode.com/problems/sum-of-two-integers)|[[Link]](2020/sum-of-two-integers)|
 |Surrounded regions|[[Link]](https://leetcode.com/problems/surrounded-regions)|[[Link]](2020/surrounded-regions)|
 |Top k frequent elements|[[Link]](https://leetcode.com/problems/top-k-frequent-elements)|[[Link]](2020/top-k-frequent-elements)|
+|Trapping rain water|[[Link]](https://leetcode.com/problems/trapping-rain-water)|[[Link]](2020/trapping-rain-water)|
 |Unique paths|[[Link]](https://leetcode.com/problems/unique-paths)|[[Link]](2020/unique-paths)|
 |Valid anagram|[[Link]](https://leetcode.com/problems/valid-anagram)|[[Link]](2020/valid-anagram)|
 |Valid palindrome|[[Link]](https://leetcode.com/problems/valid-palindrome)|[[Link]](2020/valid-palindrome)|
