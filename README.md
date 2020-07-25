@@ -1,4 +1,4 @@
-## 2020 Leetcode exercises (89 solved)
+## 2020 Leetcode exercises (91 solved)
 
 |Title|Leetcode|My Solution|
 |-----|:--------:|:---------:|
@@ -30,6 +30,7 @@
 |Fizz buzz|[[Link]](https://leetcode.com/problems/fizz-buzz)|[[Link]](2020/fizz-buzz)|
 |Gas station|[[Link]](https://leetcode.com/problems/gas-station)|[[Link]](2020/gas-station)|
 |Group anagrams|[[Link]](https://leetcode.com/problems/group-anagrams)|[[Link]](2020/group-anagrams)|
+|Group shifted strings|[[Link]](https://leetcode.com/problems/group-shifted-strings)|[[Link]](2020/group-shifted-strings)|
 |House robber|[[Link]](https://leetcode.com/problems/house-robber)|[[Link]](2020/house-robber)|
 |House robber ii|[[Link]](https://leetcode.com/problems/house-robber-ii)|[[Link]](2020/house-robber-ii)|
 |Implement trie prefix tree|[[Link]](https://leetcode.com/problems/implement-trie-prefix-tree)|[[Link]](2020/implement-trie-prefix-tree)|
@@ -38,6 +39,7 @@
 |Invert binary tree|[[Link]](https://leetcode.com/problems/invert-binary-tree)|[[Link]](2020/invert-binary-tree)|
 |Jump game|[[Link]](https://leetcode.com/problems/jump-game)|[[Link]](2020/jump-game)|
 |Kth smallest element in a bst|[[Link]](https://leetcode.com/problems/kth-smallest-element-in-a-bst)|[[Link]](2020/kth-smallest-element-in-a-bst)|
+|Largest rectangle in histogram|[[Link]](https://leetcode.com/problems/largest-rectangle-in-histogram)|[[Link]](2020/largest-rectangle-in-histogram)|
 |Linked list cycle|[[Link]](https://leetcode.com/problems/linked-list-cycle)|[[Link]](2020/linked-list-cycle)|
 |Longest common subsequence|[[Link]](https://leetcode.com/problems/longest-common-subsequence)|[[Link]](2020/longest-common-subsequence)|
 |Longest consecutive sequence|[[Link]](https://leetcode.com/problems/longest-consecutive-sequence)|[[Link]](2020/longest-consecutive-sequence)|
