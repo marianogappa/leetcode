@@ -1,4 +1,4 @@
-## 2020 Leetcode exercises (91 solved)
+## 2020 Leetcode exercises (92 solved)
 
 |Title|Leetcode|My Solution|
 |-----|:--------:|:---------:|
@@ -54,6 +54,7 @@
 |Merge intervals|[[Link]](https://leetcode.com/problems/merge-intervals)|[[Link]](2020/merge-intervals)|
 |Merge k sorted lists|[[Link]](https://leetcode.com/problems/merge-k-sorted-lists)|[[Link]](2020/merge-k-sorted-lists)|
 |Merge two sorted lists|[[Link]](https://leetcode.com/problems/merge-two-sorted-lists)|[[Link]](2020/merge-two-sorted-lists)|
+|Minimum remove to make valid parentheses|[[Link]](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses)|[[Link]](2020/minimum-remove-to-make-valid-parentheses)|
 |Minimum window substring|[[Link]](https://leetcode.com/problems/minimum-window-substring)|[[Link]](2020/minimum-window-substring)|
 |Missing number|[[Link]](https://leetcode.com/problems/missing-number)|[[Link]](2020/missing-number)|
 |Non overlapping intervals|[[Link]](https://leetcode.com/problems/non-overlapping-intervals)|[[Link]](2020/non-overlapping-intervals)|
