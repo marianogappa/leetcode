@@ -39,12 +39,12 @@
 |Invert binary tree|[[Link]](https://leetcode.com/problems/invert-binary-tree)|[[Link]](2020/invert-binary-tree)|
 |Jump game|[[Link]](https://leetcode.com/problems/jump-game)|[[Link]](2020/jump-game)|
 |Kth smallest element in a bst|[[Link]](https://leetcode.com/problems/kth-smallest-element-in-a-bst)|[[Link]](2020/kth-smallest-element-in-a-bst)|
-|Largest rectangle in histogram|[[Link]](https://leetcode.com/problems/largest-rectangle-in-histogram)|[[Link]](2020/largest-rectangle-in-histogram)|
 |Linked list cycle|[[Link]](https://leetcode.com/problems/linked-list-cycle)|[[Link]](2020/linked-list-cycle)|
 |Longest common subsequence|[[Link]](https://leetcode.com/problems/longest-common-subsequence)|[[Link]](2020/longest-common-subsequence)|
 |Longest consecutive sequence|[[Link]](https://leetcode.com/problems/longest-consecutive-sequence)|[[Link]](2020/longest-consecutive-sequence)|
 |Longest palindromic substring|[[Link]](https://leetcode.com/problems/longest-palindromic-substring)|[[Link]](2020/longest-palindromic-substring)|
 |Longest repeating character replacement|[[Link]](https://leetcode.com/problems/longest-repeating-character-replacement)|[[Link]](2020/longest-repeating-character-replacement)|
+|Longest substring with at least k repeating characters|[[Link]](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters)|[[Link]](2020/longest-substring-with-at-least-k-repeating-characters)|
 |Longest substring without repeating characters|[[Link]](https://leetcode.com/problems/longest-substring-without-repeating-characters)|[[Link]](2020/longest-substring-without-repeating-characters)|
 |Lowest common ancestor of a binary search tree|[[Link]](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree)|[[Link]](2020/lowest-common-ancestor-of-a-binary-search-tree)|
 |Lru cache|[[Link]](https://leetcode.com/problems/lru-cache)|[[Link]](2020/lru-cache)|
