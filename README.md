@@ -1,4 +1,4 @@
-## 2020 Leetcode exercises (93 solved)
+## 2020 Leetcode exercises (94 solved)
 
 |Title|Leetcode|My Solution|
 |-----|:--------:|:---------:|
@@ -39,6 +39,7 @@
 |Interval list intersections|[[Link]](https://leetcode.com/problems/interval-list-intersections)|[[Link]](2020/interval-list-intersections)|
 |Invert binary tree|[[Link]](https://leetcode.com/problems/invert-binary-tree)|[[Link]](2020/invert-binary-tree)|
 |Jump game|[[Link]](https://leetcode.com/problems/jump-game)|[[Link]](2020/jump-game)|
+|K closest points to origin|[[Link]](https://leetcode.com/problems/k-closest-points-to-origin)|[[Link]](2020/k-closest-points-to-origin)|
 |Kth smallest element in a bst|[[Link]](https://leetcode.com/problems/kth-smallest-element-in-a-bst)|[[Link]](2020/kth-smallest-element-in-a-bst)|
 |Linked list cycle|[[Link]](https://leetcode.com/problems/linked-list-cycle)|[[Link]](2020/linked-list-cycle)|
 |Longest common subsequence|[[Link]](https://leetcode.com/problems/longest-common-subsequence)|[[Link]](2020/longest-common-subsequence)|
