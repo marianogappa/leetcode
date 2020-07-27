@@ -1,4 +1,4 @@
-## 2020 Leetcode exercises (94 solved)
+## 2020 Leetcode exercises (95 solved)
 
 |Title|Leetcode|My Solution|
 |-----|:--------:|:---------:|
@@ -80,6 +80,7 @@
 |Set matrix zeroes|[[Link]](https://leetcode.com/problems/set-matrix-zeroes)|[[Link]](2020/set-matrix-zeroes)|
 |Spiral matrix|[[Link]](https://leetcode.com/problems/spiral-matrix)|[[Link]](2020/spiral-matrix)|
 |Sqrtx|[[Link]](https://leetcode.com/problems/sqrtx)|[[Link]](2020/sqrtx)|
+|Subarray sum equals k|[[Link]](https://leetcode.com/problems/subarray-sum-equals-k)|[[Link]](2020/subarray-sum-equals-k)|
 |Subsets|[[Link]](https://leetcode.com/problems/subsets)|[[Link]](2020/subsets)|
 |Subtree of another tree|[[Link]](https://leetcode.com/problems/subtree-of-another-tree)|[[Link]](2020/subtree-of-another-tree)|
 |Sum of two integers|[[Link]](https://leetcode.com/problems/sum-of-two-integers)|[[Link]](2020/sum-of-two-integers)|
