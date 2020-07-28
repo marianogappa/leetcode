@@ -1,4 +1,4 @@
-## 2020 Leetcode exercises (96 solved)
+## 2020 Leetcode exercises (97 solved)
 
 |Title|Leetcode|My Solution|
 |-----|:--------:|:---------:|
@@ -94,6 +94,7 @@
 |Valid parentheses|[[Link]](https://leetcode.com/problems/valid-parentheses)|[[Link]](2020/valid-parentheses)|
 |Valid sudoku|[[Link]](https://leetcode.com/problems/valid-sudoku)|[[Link]](2020/valid-sudoku)|
 |Validate binary search tree|[[Link]](https://leetcode.com/problems/validate-binary-search-tree)|[[Link]](2020/validate-binary-search-tree)|
+|Vertical order traversal of a binary tree|[[Link]](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree)|[[Link]](2020/vertical-order-traversal-of-a-binary-tree)|
 |Word break|[[Link]](https://leetcode.com/problems/word-break)|[[Link]](2020/word-break)|
 |Word break ii|[[Link]](https://leetcode.com/problems/word-break-ii)|[[Link]](2020/word-break-ii)|
 |Word search|[[Link]](https://leetcode.com/problems/word-search)|[[Link]](2020/word-search)|
