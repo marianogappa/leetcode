@@ -1,4 +1,4 @@
-## 2020 Leetcode exercises (95 solved)
+## 2020 Leetcode exercises (96 solved)
 
 |Title|Leetcode|My Solution|
 |-----|:--------:|:---------:|
@@ -8,6 +8,7 @@
 |Add and search word data structure design|[[Link]](https://leetcode.com/problems/add-and-search-word-data-structure-design)|[[Link]](2020/add-and-search-word-data-structure-design)|
 |Basic calculator ii|[[Link]](https://leetcode.com/problems/basic-calculator-ii)|[[Link]](2020/basic-calculator-ii)|
 |Best time to buy and sell stock|[[Link]](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)|[[Link]](2020/best-time-to-buy-and-sell-stock)|
+|Binary search tree iterator|[[Link]](https://leetcode.com/problems/binary-search-tree-iterator)|[[Link]](2020/binary-search-tree-iterator)|
 |Binary tree inorder traversal|[[Link]](https://leetcode.com/problems/binary-tree-inorder-traversal)|[[Link]](2020/binary-tree-inorder-traversal)|
 |Binary tree level order traversal|[[Link]](https://leetcode.com/problems/binary-tree-level-order-traversal)|[[Link]](2020/binary-tree-level-order-traversal)|
 |Binary tree maximum path sum|[[Link]](https://leetcode.com/problems/binary-tree-maximum-path-sum)|[[Link]](2020/binary-tree-maximum-path-sum)|
