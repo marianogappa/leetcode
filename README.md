@@ -1,4 +1,4 @@
-## 2020 Leetcode exercises (98 solved)
+## 2020 Leetcode exercises (99 solved)
 
 |Title|Leetcode|My Solution|
 |-----|:--------:|:---------:|
@@ -70,6 +70,7 @@
 |Permutations ii|[[Link]](https://leetcode.com/problems/permutations-ii)|[[Link]](2020/permutations-ii)|
 |Powx n|[[Link]](https://leetcode.com/problems/powx-n)|[[Link]](2020/powx-n)|
 |Product of array except self|[[Link]](https://leetcode.com/problems/product-of-array-except-self)|[[Link]](2020/product-of-array-except-self)|
+|Random pick with weight|[[Link]](https://leetcode.com/problems/random-pick-with-weight)|[[Link]](2020/random-pick-with-weight)|
 |Remove invalid parentheses|[[Link]](https://leetcode.com/problems/remove-invalid-parentheses)|[[Link]](2020/remove-invalid-parentheses)|
 |Remove nth node from end of list|[[Link]](https://leetcode.com/problems/remove-nth-node-from-end-of-list)|[[Link]](2020/remove-nth-node-from-end-of-list)|
 |Reorder list|[[Link]](https://leetcode.com/problems/reorder-list)|[[Link]](2020/reorder-list)|
