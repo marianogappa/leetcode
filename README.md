@@ -1,4 +1,4 @@
-## 2020 Leetcode exercises (99 solved)
+## 2020 Leetcode exercises (100 solved)
 
 |Title|Leetcode|My Solution|
 |-----|:--------:|:---------:|
@@ -25,6 +25,7 @@
 |Course schedule ii|[[Link]](https://leetcode.com/problems/course-schedule-ii)|[[Link]](2020/course-schedule-ii)|
 |Decode ways|[[Link]](https://leetcode.com/problems/decode-ways)|[[Link]](2020/decode-ways)|
 |Excel sheet column number|[[Link]](https://leetcode.com/problems/excel-sheet-column-number)|[[Link]](2020/excel-sheet-column-number)|
+|Exclusive time of functions|[[Link]](https://leetcode.com/problems/exclusive-time-of-functions)|[[Link]](2020/exclusive-time-of-functions)|
 |Find all anagrams in a string|[[Link]](https://leetcode.com/problems/find-all-anagrams-in-a-string)|[[Link]](2020/find-all-anagrams-in-a-string)|
 |Find median from data stream|[[Link]](https://leetcode.com/problems/find-median-from-data-stream)|[[Link]](2020/find-median-from-data-stream)|
 |Find minimum in rotated sorted array|[[Link]](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array)|[[Link]](2020/find-minimum-in-rotated-sorted-array)|
