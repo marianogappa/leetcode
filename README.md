@@ -1,4 +1,4 @@
-## 2020 Leetcode exercises (100 solved)
+## 2020 Leetcode exercises (101 solved)
 
 |Title|Leetcode|My Solution|
 |-----|:--------:|:---------:|
@@ -19,6 +19,7 @@
 |Construct binary tree from preorder and inorder traversal|[[Link]](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal)|[[Link]](2020/construct-binary-tree-from-preorder-and-inorder-traversal)|
 |Container with most water|[[Link]](https://leetcode.com/problems/container-with-most-water)|[[Link]](2020/container-with-most-water)|
 |Contains duplicate|[[Link]](https://leetcode.com/problems/contains-duplicate)|[[Link]](2020/contains-duplicate)|
+|Continuous subarray sum|[[Link]](https://leetcode.com/problems/continuous-subarray-sum)|[[Link]](2020/continuous-subarray-sum)|
 |Convert sorted array to binary search tree|[[Link]](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree)|[[Link]](2020/convert-sorted-array-to-binary-search-tree)|
 |Counting bits|[[Link]](https://leetcode.com/problems/counting-bits)|[[Link]](2020/counting-bits)|
 |Course schedule|[[Link]](https://leetcode.com/problems/course-schedule)|[[Link]](2020/course-schedule)|
