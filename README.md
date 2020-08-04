@@ -1,4 +1,4 @@
-## 2020 Leetcode exercises (102 solved)
+## 2020 Leetcode exercises (103 solved)
 
 |Title|Leetcode|My Solution|
 |-----|:--------:|:---------:|
@@ -63,6 +63,7 @@
 |Merge two sorted lists|[[Link]](https://leetcode.com/problems/merge-two-sorted-lists)|[[Link]](2020/merge-two-sorted-lists)|
 |Minimum remove to make valid parentheses|[[Link]](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses)|[[Link]](2020/minimum-remove-to-make-valid-parentheses)|
 |Minimum window substring|[[Link]](https://leetcode.com/problems/minimum-window-substring)|[[Link]](2020/minimum-window-substring)|
+|Missing element in sorted array|[[Link]](https://leetcode.com/problems/missing-element-in-sorted-array)|[[Link]](2020/missing-element-in-sorted-array)|
 |Missing number|[[Link]](https://leetcode.com/problems/missing-number)|[[Link]](2020/missing-number)|
 |Non overlapping intervals|[[Link]](https://leetcode.com/problems/non-overlapping-intervals)|[[Link]](2020/non-overlapping-intervals)|
 |Number of 1 bits|[[Link]](https://leetcode.com/problems/number-of-1-bits)|[[Link]](2020/number-of-1-bits)|
