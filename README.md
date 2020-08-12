@@ -1,4 +1,4 @@
-## 2020 Leetcode exercises (104 solved)
+## 2020 Leetcode exercises (106 solved)
 
 |Title|Leetcode|My Solution|
 |-----|:--------:|:---------:|
@@ -6,6 +6,7 @@
 |4sum ii|[[Link]](https://leetcode.com/problems/4sum-ii)|[[Link]](2020/4sum-ii)|
 |Accounts merge|[[Link]](https://leetcode.com/problems/accounts-merge)|[[Link]](2020/accounts-merge)|
 |Add and search word data structure design|[[Link]](https://leetcode.com/problems/add-and-search-word-data-structure-design)|[[Link]](2020/add-and-search-word-data-structure-design)|
+|Alien dictionary|[[Link]](https://leetcode.com/problems/alien-dictionary)|[[Link]](2020/alien-dictionary)|
 |Basic calculator ii|[[Link]](https://leetcode.com/problems/basic-calculator-ii)|[[Link]](2020/basic-calculator-ii)|
 |Best time to buy and sell stock|[[Link]](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)|[[Link]](2020/best-time-to-buy-and-sell-stock)|
 |Binary search tree iterator|[[Link]](https://leetcode.com/problems/binary-search-tree-iterator)|[[Link]](2020/binary-search-tree-iterator)|
@@ -91,6 +92,7 @@
 |Subarray sum equals k|[[Link]](https://leetcode.com/problems/subarray-sum-equals-k)|[[Link]](2020/subarray-sum-equals-k)|
 |Subsets|[[Link]](https://leetcode.com/problems/subsets)|[[Link]](2020/subsets)|
 |Subtree of another tree|[[Link]](https://leetcode.com/problems/subtree-of-another-tree)|[[Link]](2020/subtree-of-another-tree)|
+|Sudoku solver|[[Link]](https://leetcode.com/problems/sudoku-solver)|[[Link]](2020/sudoku-solver)|
 |Sum of two integers|[[Link]](https://leetcode.com/problems/sum-of-two-integers)|[[Link]](2020/sum-of-two-integers)|
 |Surrounded regions|[[Link]](https://leetcode.com/problems/surrounded-regions)|[[Link]](2020/surrounded-regions)|
 |Top k frequent elements|[[Link]](https://leetcode.com/problems/top-k-frequent-elements)|[[Link]](2020/top-k-frequent-elements)|
