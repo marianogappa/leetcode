@@ -1,4 +1,4 @@
-## 2020 Leetcode exercises (106 solved)
+## 2020 Leetcode exercises (107 solved)
 
 |Title|Leetcode|My Solution|
 |-----|:--------:|:---------:|
@@ -26,6 +26,7 @@
 |Course schedule|[[Link]](https://leetcode.com/problems/course-schedule)|[[Link]](2020/course-schedule)|
 |Course schedule ii|[[Link]](https://leetcode.com/problems/course-schedule-ii)|[[Link]](2020/course-schedule-ii)|
 |Decode ways|[[Link]](https://leetcode.com/problems/decode-ways)|[[Link]](2020/decode-ways)|
+|Edit distance|[[Link]](https://leetcode.com/problems/edit-distance)|[[Link]](2020/edit-distance)|
 |Excel sheet column number|[[Link]](https://leetcode.com/problems/excel-sheet-column-number)|[[Link]](2020/excel-sheet-column-number)|
 |Exclusive time of functions|[[Link]](https://leetcode.com/problems/exclusive-time-of-functions)|[[Link]](2020/exclusive-time-of-functions)|
 |Find all anagrams in a string|[[Link]](https://leetcode.com/problems/find-all-anagrams-in-a-string)|[[Link]](2020/find-all-anagrams-in-a-string)|
