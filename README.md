@@ -1,4 +1,4 @@
-## 2020 Leetcode exercises (110 solved)
+## 2020 Leetcode exercises (111 solved)
 
 |Title|Leetcode|My Solution|
 |-----|:--------:|:---------:|
@@ -14,6 +14,7 @@
 |Binary tree inorder traversal|[[Link]](https://leetcode.com/problems/binary-tree-inorder-traversal)|[[Link]](2020/binary-tree-inorder-traversal)|
 |Binary tree level order traversal|[[Link]](https://leetcode.com/problems/binary-tree-level-order-traversal)|[[Link]](2020/binary-tree-level-order-traversal)|
 |Binary tree maximum path sum|[[Link]](https://leetcode.com/problems/binary-tree-maximum-path-sum)|[[Link]](2020/binary-tree-maximum-path-sum)|
+|Binary tree right side view|[[Link]](https://leetcode.com/problems/binary-tree-right-side-view)|[[Link]](2020/binary-tree-right-side-view)|
 |Climbing stairs|[[Link]](https://leetcode.com/problems/climbing-stairs)|[[Link]](2020/climbing-stairs)|
 |Clone graph|[[Link]](https://leetcode.com/problems/clone-graph)|[[Link]](2020/clone-graph)|
 |Coin change|[[Link]](https://leetcode.com/problems/coin-change)|[[Link]](2020/coin-change)|
