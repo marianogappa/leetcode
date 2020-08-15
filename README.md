@@ -1,4 +1,4 @@
-## 2020 Leetcode exercises (108 solved)
+## 2020 Leetcode exercises (109 solved)
 
 |Title|Leetcode|My Solution|
 |-----|:--------:|:---------:|
@@ -69,6 +69,7 @@
 |Minimum window substring|[[Link]](https://leetcode.com/problems/minimum-window-substring)|[[Link]](2020/minimum-window-substring)|
 |Missing element in sorted array|[[Link]](https://leetcode.com/problems/missing-element-in-sorted-array)|[[Link]](2020/missing-element-in-sorted-array)|
 |Missing number|[[Link]](https://leetcode.com/problems/missing-number)|[[Link]](2020/missing-number)|
+|Next permutation|[[Link]](https://leetcode.com/problems/next-permutation)|[[Link]](2020/next-permutation)|
 |Non overlapping intervals|[[Link]](https://leetcode.com/problems/non-overlapping-intervals)|[[Link]](2020/non-overlapping-intervals)|
 |Number of 1 bits|[[Link]](https://leetcode.com/problems/number-of-1-bits)|[[Link]](2020/number-of-1-bits)|
 |Number of islands|[[Link]](https://leetcode.com/problems/number-of-islands)|[[Link]](2020/number-of-islands)|
