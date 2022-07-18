@@ -1,9 +1,10 @@
-## 2022 Leetcode exercises (2 solved)
+## 2022 Leetcode exercises (3 solved)
 
 |Title|Leetcode|My Solution|
 |-----|:--------:|:---------:|
 |Concatenation of array|[[Link]](https://leetcode.com/problems/concatenation-of-array)|[[Link]](2022/concatenation-of-array)|
 |Minimum falling path sum|[[Link]](https://leetcode.com/problems/minimum-falling-path-sum)|[[Link]](2022/minimum-falling-path-sum)|
+|Minimum path sum|[[Link]](https://leetcode.com/problems/minimum-path-sum)|[[Link]](2022/minimum-path-sum)|
 
 
 ## 2020 Leetcode exercises (111 solved)
