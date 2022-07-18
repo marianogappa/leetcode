@@ -13,12 +13,13 @@ import (
 
 func main() {
 	var (
+		data2022 = prepareData("2022", mustListDirectorysDirs("2022"))
 		data2020 = prepareData("2020", mustListDirectorysDirs("2020"))
 		data2018 = prepareData("2018", mustListDirectorysDirs("2018"))
 		readme   = mustCreateReadmeFile()
 	)
 	defer readme.Close()
-	mustExecuteTemplate(readme, templateData{[]yearTemplateData{data2020, data2018}})
+	mustExecuteTemplate(readme, templateData{[]yearTemplateData{data2022, data2020, data2018}})
 }
 
 func prepareData(year string, dirs []string) yearTemplateData {

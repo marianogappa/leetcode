@@ -1,3 +1,10 @@
+## 2022 Leetcode exercises (1 solved)
+
+|Title|Leetcode|My Solution|
+|-----|:--------:|:---------:|
+|Concatenation of array|[[Link]](https://leetcode.com/problems/concatenation-of-array)|[[Link]](2022/concatenation-of-array)|
+
+
 ## 2020 Leetcode exercises (111 solved)
 
 |Title|Leetcode|My Solution|
