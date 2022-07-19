@@ -1,4 +1,4 @@
-## 2022 Leetcode exercises (5 solved)
+## 2022 Leetcode exercises (6 solved)
 
 |Title|Leetcode|My Solution|
 |-----|:--------:|:---------:|
@@ -7,6 +7,7 @@
 |Exclusive time of functions|[[Link]](https://leetcode.com/problems/exclusive-time-of-functions)|[[Link]](2022/exclusive-time-of-functions)|
 |Minimum falling path sum|[[Link]](https://leetcode.com/problems/minimum-falling-path-sum)|[[Link]](2022/minimum-falling-path-sum)|
 |Minimum path sum|[[Link]](https://leetcode.com/problems/minimum-path-sum)|[[Link]](2022/minimum-path-sum)|
+|Palindrome partitioning|[[Link]](https://leetcode.com/problems/palindrome-partitioning)|[[Link]](2022/palindrome-partitioning)|
 
 
 ## 2020 Leetcode exercises (111 solved)
