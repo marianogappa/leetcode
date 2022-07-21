@@ -7,3 +7,6 @@ https://leetcode.com/problems/palindrome-partitioning/solution/
     I solved it but I cannot figure out the time complexity.
     Tricky to solve optimisation of not recalculating palindromes.
     Tricky to think about the solution given by Leetcode, or even understand it.
+
+https://leetcode.com/problems/maximum-split-of-positive-even-integers
+    Brainteaser: you have to figure out the trick with even numbers.

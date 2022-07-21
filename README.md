@@ -1,4 +1,4 @@
-## 2022 Leetcode exercises (15 solved)
+## 2022 Leetcode exercises (16 solved)
 
 |Title|Leetcode|My Solution|
 |-----|:--------:|:---------:|
@@ -13,6 +13,7 @@
 |Maximum split of positive even integers|[[Link]](https://leetcode.com/problems/maximum-split-of-positive-even-integers)|[[Link]](2022/maximum-split-of-positive-even-integers)|
 |Minimum falling path sum|[[Link]](https://leetcode.com/problems/minimum-falling-path-sum)|[[Link]](2022/minimum-falling-path-sum)|
 |Minimum path sum|[[Link]](https://leetcode.com/problems/minimum-path-sum)|[[Link]](2022/minimum-path-sum)|
+|Minimum time difference|[[Link]](https://leetcode.com/problems/minimum-time-difference)|[[Link]](2022/minimum-time-difference)|
 |Palindrome partitioning|[[Link]](https://leetcode.com/problems/palindrome-partitioning)|[[Link]](2022/palindrome-partitioning)|
 |Product of array except self|[[Link]](https://leetcode.com/problems/product-of-array-except-self)|[[Link]](2022/product-of-array-except-self)|
 |Random pick index|[[Link]](https://leetcode.com/problems/random-pick-index)|[[Link]](2022/random-pick-index)|
