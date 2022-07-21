@@ -15,9 +15,9 @@ import "fmt"
 // in the negatives, but that's ok because we did find a valid window of that size. We will only enlarge the window
 // when it's valid.
 func longestOnes(nums []int, k int) int {
-	var start, end int
+	var start int
 
-	for end = 0; end < len(nums); end++ {
+	for end := 0; end < len(nums); end++ {
 		// Decrease k when end steps into a zero
 		if nums[end] == 0 {
 			k--
@@ -31,8 +31,7 @@ func longestOnes(nums []int, k int) int {
 			start++
 		}
 	}
-	end-- // substracting 1 because in Go, "end" leaves the for-loop as len(nums)
-	return end - start + 1
+	return len(nums) - start
 }
 
 func main() {

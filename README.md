@@ -1,4 +1,4 @@
-## 2022 Leetcode exercises (10 solved)
+## 2022 Leetcode exercises (11 solved)
 
 |Title|Leetcode|My Solution|
 |-----|:--------:|:---------:|
@@ -7,6 +7,7 @@
 |Exclusive time of functions|[[Link]](https://leetcode.com/problems/exclusive-time-of-functions)|[[Link]](2022/exclusive-time-of-functions)|
 |Find the difference|[[Link]](https://leetcode.com/problems/find-the-difference)|[[Link]](2022/find-the-difference)|
 |Kth smallest element in a sorted matrix|[[Link]](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix)|[[Link]](2022/kth-smallest-element-in-a-sorted-matrix)|
+|Longest string chain|[[Link]](https://leetcode.com/problems/longest-string-chain)|[[Link]](2022/longest-string-chain)|
 |Max consecutive ones iii|[[Link]](https://leetcode.com/problems/max-consecutive-ones-iii)|[[Link]](2022/max-consecutive-ones-iii)|
 |Minimum falling path sum|[[Link]](https://leetcode.com/problems/minimum-falling-path-sum)|[[Link]](2022/minimum-falling-path-sum)|
 |Minimum path sum|[[Link]](https://leetcode.com/problems/minimum-path-sum)|[[Link]](2022/minimum-path-sum)|
