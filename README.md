@@ -1,7 +1,8 @@
-## 2022 Leetcode exercises (16 solved)
+## 2022 Leetcode exercises (17 solved)
 
 |Title|Leetcode|My Solution|
 |-----|:--------:|:---------:|
+|Battleships in a board|[[Link]](https://leetcode.com/problems/battleships-in-a-board)|[[Link]](2022/battleships-in-a-board)|
 |Best time to buy and sell stock ii|[[Link]](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii)|[[Link]](2022/best-time-to-buy-and-sell-stock-ii)|
 |Coin change|[[Link]](https://leetcode.com/problems/coin-change)|[[Link]](2022/coin-change)|
 |Concatenation of array|[[Link]](https://leetcode.com/problems/concatenation-of-array)|[[Link]](2022/concatenation-of-array)|
