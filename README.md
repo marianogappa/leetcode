@@ -1,7 +1,8 @@
-## 2022 Leetcode exercises (13 solved)
+## 2022 Leetcode exercises (14 solved)
 
 |Title|Leetcode|My Solution|
 |-----|:--------:|:---------:|
+|Best time to buy and sell stock ii|[[Link]](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii)|[[Link]](2022/best-time-to-buy-and-sell-stock-ii)|
 |Coin change|[[Link]](https://leetcode.com/problems/coin-change)|[[Link]](2022/coin-change)|
 |Concatenation of array|[[Link]](https://leetcode.com/problems/concatenation-of-array)|[[Link]](2022/concatenation-of-array)|
 |Exclusive time of functions|[[Link]](https://leetcode.com/problems/exclusive-time-of-functions)|[[Link]](2022/exclusive-time-of-functions)|
