@@ -1,4 +1,4 @@
-## 2022 Leetcode exercises (14 solved)
+## 2022 Leetcode exercises (15 solved)
 
 |Title|Leetcode|My Solution|
 |-----|:--------:|:---------:|
@@ -10,6 +10,7 @@
 |Kth smallest element in a sorted matrix|[[Link]](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix)|[[Link]](2022/kth-smallest-element-in-a-sorted-matrix)|
 |Longest string chain|[[Link]](https://leetcode.com/problems/longest-string-chain)|[[Link]](2022/longest-string-chain)|
 |Max consecutive ones iii|[[Link]](https://leetcode.com/problems/max-consecutive-ones-iii)|[[Link]](2022/max-consecutive-ones-iii)|
+|Maximum split of positive even integers|[[Link]](https://leetcode.com/problems/maximum-split-of-positive-even-integers)|[[Link]](2022/maximum-split-of-positive-even-integers)|
 |Minimum falling path sum|[[Link]](https://leetcode.com/problems/minimum-falling-path-sum)|[[Link]](2022/minimum-falling-path-sum)|
 |Minimum path sum|[[Link]](https://leetcode.com/problems/minimum-path-sum)|[[Link]](2022/minimum-path-sum)|
 |Palindrome partitioning|[[Link]](https://leetcode.com/problems/palindrome-partitioning)|[[Link]](2022/palindrome-partitioning)|
