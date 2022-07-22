@@ -18,13 +18,6 @@ import (
 //
 // Candidate optimal strategy should then be finding the closest common ancestor, and then concatenate the descriptions
 // towards (but not including) ancestor for src, and from (but not including) ancestor to dst.
-//
-// Finding common ancestor should be linear time, and traversing from it to the nodes should also be linear.
-// Space should be the height of the tree (for the recursion stack), but we don't know if the tree is balanced, so
-// linear as well.
-//
-// On a closer inspection, if instead of just annotating the path, we include the value of the node in the annotation,
-// we can later traverse the values left to right until a mismatch, and the last matching value is the common ancestor!
 func getDirections(root *TreeNode, startValue int, destValue int) string {
 	var (
 		pathToStart         = annotatePath(root, startValue, []byte{})
@@ -33,8 +26,6 @@ func getDirections(root *TreeNode, startValue int, destValue int) string {
 		directionsFromStart = strings.Repeat("U", len(pathToStart[idx:])) // from start -> last common ancestor we go up!
 		directionsToDest    = pathToDest[idx:]
 	)
-
-	fmt.Println(string(pathToStart), string(pathToDest), idx, directionsFromStart, directionsToDest)
 
 	return string(directionsFromStart) + string(directionsToDest)
 }

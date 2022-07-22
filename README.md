@@ -1,4 +1,4 @@
-## 2022 Leetcode exercises (18 solved)
+## 2022 Leetcode exercises (19 solved)
 
 |Title|Leetcode|My Solution|
 |-----|:--------:|:---------:|
@@ -19,6 +19,7 @@
 |Product of array except self|[[Link]](https://leetcode.com/problems/product-of-array-except-self)|[[Link]](2022/product-of-array-except-self)|
 |Random pick index|[[Link]](https://leetcode.com/problems/random-pick-index)|[[Link]](2022/random-pick-index)|
 |Step by step directions from a binary tree node to another|[[Link]](https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another)|[[Link]](2022/step-by-step-directions-from-a-binary-tree-node-to-another)|
+|Stock price fluctuation|[[Link]](https://leetcode.com/problems/stock-price-fluctuation)|[[Link]](2022/stock-price-fluctuation)|
 |Unique paths|[[Link]](https://leetcode.com/problems/unique-paths)|[[Link]](2022/unique-paths)|
 
 
