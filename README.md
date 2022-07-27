@@ -1,4 +1,4 @@
-## 2022 Leetcode exercises (23 solved)
+## 2022 Leetcode exercises (24 solved)
 
 |Title|Leetcode|My Solution|
 |-----|:--------:|:---------:|
@@ -17,6 +17,7 @@
 |Minimum falling path sum|[[Link]](https://leetcode.com/problems/minimum-falling-path-sum)|[[Link]](2022/minimum-falling-path-sum)|
 |Minimum path sum|[[Link]](https://leetcode.com/problems/minimum-path-sum)|[[Link]](2022/minimum-path-sum)|
 |Minimum time difference|[[Link]](https://leetcode.com/problems/minimum-time-difference)|[[Link]](2022/minimum-time-difference)|
+|Number of matching subsequences|[[Link]](https://leetcode.com/problems/number-of-matching-subsequences)|[[Link]](2022/number-of-matching-subsequences)|
 |Palindrome partitioning|[[Link]](https://leetcode.com/problems/palindrome-partitioning)|[[Link]](2022/palindrome-partitioning)|
 |Product of array except self|[[Link]](https://leetcode.com/problems/product-of-array-except-self)|[[Link]](2022/product-of-array-except-self)|
 |Random pick index|[[Link]](https://leetcode.com/problems/random-pick-index)|[[Link]](2022/random-pick-index)|
