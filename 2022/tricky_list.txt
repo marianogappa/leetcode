@@ -10,3 +10,6 @@ https://leetcode.com/problems/palindrome-partitioning/solution/
 
 https://leetcode.com/problems/maximum-split-of-positive-even-integers
     Brainteaser: you have to figure out the trick with even numbers.
+
+https://leetcode.com/problems/count-square-submatrices-with-all-ones
+    Let's come back to this cause I don't get it :(
