@@ -1,4 +1,4 @@
-## 2022 Leetcode exercises (25 solved)
+## 2022 Leetcode exercises (26 solved)
 
 |Title|Leetcode|My Solution|
 |-----|:--------:|:---------:|
@@ -26,6 +26,7 @@
 |Rotate image|[[Link]](https://leetcode.com/problems/rotate-image)|[[Link]](2022/rotate-image)|
 |Step by step directions from a binary tree node to another|[[Link]](https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another)|[[Link]](2022/step-by-step-directions-from-a-binary-tree-node-to-another)|
 |Stock price fluctuation|[[Link]](https://leetcode.com/problems/stock-price-fluctuation)|[[Link]](2022/stock-price-fluctuation)|
+|Time needed to inform all employees|[[Link]](https://leetcode.com/problems/time-needed-to-inform-all-employees)|[[Link]](2022/time-needed-to-inform-all-employees)|
 |Unique paths|[[Link]](https://leetcode.com/problems/unique-paths)|[[Link]](2022/unique-paths)|
 
 
