@@ -2,10 +2,24 @@ package main
 
 import "fmt"
 
-// Time: O()
-// Space: O()
+// Time: O(x+y) where y == len(matrix), x == len(matrix[0])
+// Space: O(1)
+//
+// Brute force: check if every single cell == target with 2 for loops
+//              (linear time, constant space)
+//
+// First optimisation: for every matrix[i], run binary search for target
+//                     (constant space, O(len(matrix)*log(len(matrix[0]))) time)
+//
+// Magical solution you need to be a genius to figure out: if you start a pivot at top-right,
+// go left if pivot > target and go down if pivot < target. Either you find it, or you exceed
+// the matrix's bounds.
+//
+// Also works from bottom-left.
 func searchMatrix(matrix [][]int, target int) bool {
+	// Start at top-right
 	x, y := len(matrix[0])-1, 0
+	// While in bounds...
 	for y >= 0 && y < len(matrix) && x >= 0 && x < len(matrix[y]) {
 		pivot := matrix[y][x]
 		if pivot == target {
@@ -13,7 +27,7 @@ func searchMatrix(matrix [][]int, target int) bool {
 		}
 		if pivot > target {
 			x--
-		} else {
+		} else { // pivot < target
 			y++
 		}
 	}
