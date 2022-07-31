@@ -13,3 +13,6 @@ https://leetcode.com/problems/maximum-split-of-positive-even-integers
 
 https://leetcode.com/problems/count-square-submatrices-with-all-ones
     Let's come back to this cause I don't get it :(
+
+https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies
+    Study topological sort!
