@@ -1,8 +1,9 @@
-## 2022 Leetcode exercises (31 solved)
+## 2022 Leetcode exercises (32 solved)
 
 |Title|Leetcode|My Solution|
 |-----|:--------:|:---------:|
 |Battleships in a board|[[Link]](https://leetcode.com/problems/battleships-in-a-board)|[[Link]](2022/battleships-in-a-board)|
+|Best time to buy and sell stock|[[Link]](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)|[[Link]](2022/best-time-to-buy-and-sell-stock)|
 |Best time to buy and sell stock ii|[[Link]](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii)|[[Link]](2022/best-time-to-buy-and-sell-stock-ii)|
 |Check if word can be placed in crossword|[[Link]](https://leetcode.com/problems/check-if-word-can-be-placed-in-crossword)|[[Link]](2022/check-if-word-can-be-placed-in-crossword)|
 |Coin change|[[Link]](https://leetcode.com/problems/coin-change)|[[Link]](2022/coin-change)|
