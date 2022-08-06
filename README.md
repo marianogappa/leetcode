@@ -1,4 +1,4 @@
-## 2022 Leetcode exercises (33 solved)
+## 2022 Leetcode exercises (34 solved)
 
 |Title|Leetcode|My Solution|
 |-----|:--------:|:---------:|
@@ -8,6 +8,7 @@
 |Check if word can be placed in crossword|[[Link]](https://leetcode.com/problems/check-if-word-can-be-placed-in-crossword)|[[Link]](2022/check-if-word-can-be-placed-in-crossword)|
 |Coin change|[[Link]](https://leetcode.com/problems/coin-change)|[[Link]](2022/coin-change)|
 |Concatenation of array|[[Link]](https://leetcode.com/problems/concatenation-of-array)|[[Link]](2022/concatenation-of-array)|
+|Detect squares|[[Link]](https://leetcode.com/problems/detect-squares)|[[Link]](2022/detect-squares)|
 |Evaluate reverse polish notation|[[Link]](https://leetcode.com/problems/evaluate-reverse-polish-notation)|[[Link]](2022/evaluate-reverse-polish-notation)|
 |Exclusive time of functions|[[Link]](https://leetcode.com/problems/exclusive-time-of-functions)|[[Link]](2022/exclusive-time-of-functions)|
 |Find all possible recipes from given supplies|[[Link]](https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies)|[[Link]](2022/find-all-possible-recipes-from-given-supplies)|
