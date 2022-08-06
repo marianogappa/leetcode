@@ -1,4 +1,4 @@
-## 2022 Leetcode exercises (34 solved)
+## 2022 Leetcode exercises (35 solved)
 
 |Title|Leetcode|My Solution|
 |-----|:--------:|:---------:|
@@ -32,6 +32,7 @@
 |Rle iterator|[[Link]](https://leetcode.com/problems/rle-iterator)|[[Link]](2022/rle-iterator)|
 |Rotate image|[[Link]](https://leetcode.com/problems/rotate-image)|[[Link]](2022/rotate-image)|
 |Search a 2d matrix ii|[[Link]](https://leetcode.com/problems/search-a-2d-matrix-ii)|[[Link]](2022/search-a-2d-matrix-ii)|
+|Snapshot array|[[Link]](https://leetcode.com/problems/snapshot-array)|[[Link]](2022/snapshot-array)|
 |Step by step directions from a binary tree node to another|[[Link]](https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another)|[[Link]](2022/step-by-step-directions-from-a-binary-tree-node-to-another)|
 |Stock price fluctuation|[[Link]](https://leetcode.com/problems/stock-price-fluctuation)|[[Link]](2022/stock-price-fluctuation)|
 |Time needed to inform all employees|[[Link]](https://leetcode.com/problems/time-needed-to-inform-all-employees)|[[Link]](2022/time-needed-to-inform-all-employees)|
