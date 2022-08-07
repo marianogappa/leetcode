@@ -1,47 +1,60 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+	"strings"
+)
 
-// Time: O(n)
-// Space: O(1)
+// Time: O(s + e)
+// Space: O(s + e) in the worst case all letters are Ls and Rs (we store all idxs)
+//
+// Since XL -> LX and RX -> XR, one way to see this is that, in a current of Xs,
+// Ls can flow to the left as much as they want, and Rs can flow to the right,
+// but they cannot jump on each other.
+//
+// So the first linear check one can make is that, when stripping out the Xs,
+// the strings must be the same.
+//
+// Guaranteed to be the same, there are an equal number of Ls and Rs, but they
+// don't have to be in the same indices.
+
+// The rule should be:
+// - For each "L" in "start", it has to be in a <= index on "end".
+// - For each "R" in "start", it has to be in a >= index on "end".
+//
+// That's it. If that's true, you can transform them.
 func canTransform(start string, end string) bool {
-	return canTransformRightwards(start, end) || canTransformLeftwards(start, end)
-}
-
-func canTransformRightwards(start string, end string) bool {
-	strt := []byte(start)
-	for i := 0; i < len(strt); i++ {
-		if strt[i] == end[i] {
-			continue
-		}
-		if i+1 >= len(strt) {
-			return false
-		}
-		if (string(strt)[i:i+2] == "XL" && end[i] == 'L') || (string(strt)[i:i+2] == "RX" && end[i] == 'X') {
-			strt[i], strt[i+1] = strt[i+1], strt[i]
-			continue
-		}
+	if strings.ReplaceAll(start, "X", "") != strings.ReplaceAll(end, "X", "") {
 		return false
 	}
+	startL := idxsOfByte(start, 'L')
+	startR := idxsOfByte(start, 'R')
+	endL := idxsOfByte(end, 'L')
+	endR := idxsOfByte(end, 'R')
+
+	for i := 0; i < len(startL); i++ {
+		if startL[i] < endL[i] {
+			return false
+		}
+	}
+
+	for i := 0; i < len(startR); i++ {
+		if startR[i] > endR[i] {
+			return false
+		}
+	}
+
 	return true
 }
 
-func canTransformLeftwards(start string, end string) bool {
-	strt := []byte(start)
-	for i := len(strt) - 1; i >= 0; i-- {
-		if strt[i] == end[i] {
-			continue
+func idxsOfByte(str string, byt byte) []int {
+	idxs := []int{}
+	for i := 0; i < len(str); i++ {
+		if str[i] == byt {
+			idxs = append(idxs, i)
 		}
-		if i-1 < 0 {
-			return false
-		}
-		if (string(strt)[i-1:i+1] == "XL" && end[i] == 'X') || (string(strt)[i-1:i+1] == "RX" && end[i] == 'R') {
-			strt[i-1], strt[i] = strt[i], strt[i-1]
-			continue
-		}
-		return false
 	}
-	return true
+	return idxs
 }
 
 func main() {
