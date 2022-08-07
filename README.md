@@ -1,4 +1,4 @@
-## 2022 Leetcode exercises (36 solved)
+## 2022 Leetcode exercises (38 solved)
 
 |Title|Leetcode|My Solution|
 |-----|:--------:|:---------:|
@@ -21,6 +21,7 @@
 |Max consecutive ones iii|[[Link]](https://leetcode.com/problems/max-consecutive-ones-iii)|[[Link]](2022/max-consecutive-ones-iii)|
 |Maximum number of points with cost|[[Link]](https://leetcode.com/problems/maximum-number-of-points-with-cost)|[[Link]](2022/maximum-number-of-points-with-cost)|
 |Maximum split of positive even integers|[[Link]](https://leetcode.com/problems/maximum-split-of-positive-even-integers)|[[Link]](2022/maximum-split-of-positive-even-integers)|
+|Maximum swap|[[Link]](https://leetcode.com/problems/maximum-swap)|[[Link]](2022/maximum-swap)|
 |Minimum area rectangle|[[Link]](https://leetcode.com/problems/minimum-area-rectangle)|[[Link]](2022/minimum-area-rectangle)|
 |Minimum falling path sum|[[Link]](https://leetcode.com/problems/minimum-falling-path-sum)|[[Link]](2022/minimum-falling-path-sum)|
 |Minimum path sum|[[Link]](https://leetcode.com/problems/minimum-path-sum)|[[Link]](2022/minimum-path-sum)|
@@ -36,6 +37,7 @@
 |Snapshot array|[[Link]](https://leetcode.com/problems/snapshot-array)|[[Link]](2022/snapshot-array)|
 |Step by step directions from a binary tree node to another|[[Link]](https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another)|[[Link]](2022/step-by-step-directions-from-a-binary-tree-node-to-another)|
 |Stock price fluctuation|[[Link]](https://leetcode.com/problems/stock-price-fluctuation)|[[Link]](2022/stock-price-fluctuation)|
+|Swap adjacent in lr string|[[Link]](https://leetcode.com/problems/swap-adjacent-in-lr-string)|[[Link]](2022/swap-adjacent-in-lr-string)|
 |Time needed to inform all employees|[[Link]](https://leetcode.com/problems/time-needed-to-inform-all-employees)|[[Link]](2022/time-needed-to-inform-all-employees)|
 |Unique paths|[[Link]](https://leetcode.com/problems/unique-paths)|[[Link]](2022/unique-paths)|
 
