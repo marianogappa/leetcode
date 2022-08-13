@@ -16,3 +16,10 @@ https://leetcode.com/problems/count-square-submatrices-with-all-ones
 
 https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies
     Study topological sort!
+
+https://leetcode.com/problems/find-duplicate-subtrees/
+    It's very confusing and might require Python-only solution
+    https://leetcode.com/problems/find-duplicate-subtrees/discuss/106016/O(n)-time-and-space-lots-of-analysis
+
+https://leetcode.com/problems/the-number-of-weak-characters-in-the-game
+    You have to be a genius to figure out the strategy

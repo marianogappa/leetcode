@@ -19,7 +19,7 @@ import (
 // A           D
 func numberOfWeakCharacters(properties [][]int) int {
 	sort.Slice(properties, func(i, j int) bool {
-		return properties[i][0] > properties[j][0] || (properties[i][0] == properties[j][0] && properties[i][i] <= properties[j][1])
+		return properties[i][0] > properties[j][0] || (properties[i][0] == properties[j][0] && properties[i][1] <= properties[j][1])
 	})
 
 	var (
