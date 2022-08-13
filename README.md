@@ -1,4 +1,4 @@
-## 2022 Leetcode exercises (39 solved)
+## 2022 Leetcode exercises (40 solved)
 
 |Title|Leetcode|My Solution|
 |-----|:--------:|:---------:|
@@ -39,6 +39,7 @@
 |Step by step directions from a binary tree node to another|[[Link]](https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another)|[[Link]](2022/step-by-step-directions-from-a-binary-tree-node-to-another)|
 |Stock price fluctuation|[[Link]](https://leetcode.com/problems/stock-price-fluctuation)|[[Link]](2022/stock-price-fluctuation)|
 |Swap adjacent in lr string|[[Link]](https://leetcode.com/problems/swap-adjacent-in-lr-string)|[[Link]](2022/swap-adjacent-in-lr-string)|
+|The number of weak characters in the game|[[Link]](https://leetcode.com/problems/the-number-of-weak-characters-in-the-game)|[[Link]](2022/the-number-of-weak-characters-in-the-game)|
 |Time needed to inform all employees|[[Link]](https://leetcode.com/problems/time-needed-to-inform-all-employees)|[[Link]](2022/time-needed-to-inform-all-employees)|
 |Unique paths|[[Link]](https://leetcode.com/problems/unique-paths)|[[Link]](2022/unique-paths)|
 
