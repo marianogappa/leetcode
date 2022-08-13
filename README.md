@@ -1,7 +1,8 @@
-## 2022 Leetcode exercises (40 solved)
+## 2022 Leetcode exercises (44 solved)
 
 |Title|Leetcode|My Solution|
 |-----|:--------:|:---------:|
+|Basic calculator ii|[[Link]](https://leetcode.com/problems/basic-calculator-ii)|[[Link]](2022/basic-calculator-ii)|
 |Battleships in a board|[[Link]](https://leetcode.com/problems/battleships-in-a-board)|[[Link]](2022/battleships-in-a-board)|
 |Best time to buy and sell stock|[[Link]](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)|[[Link]](2022/best-time-to-buy-and-sell-stock)|
 |Best time to buy and sell stock ii|[[Link]](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii)|[[Link]](2022/best-time-to-buy-and-sell-stock-ii)|
@@ -23,10 +24,13 @@
 |Maximum number of points with cost|[[Link]](https://leetcode.com/problems/maximum-number-of-points-with-cost)|[[Link]](2022/maximum-number-of-points-with-cost)|
 |Maximum split of positive even integers|[[Link]](https://leetcode.com/problems/maximum-split-of-positive-even-integers)|[[Link]](2022/maximum-split-of-positive-even-integers)|
 |Maximum swap|[[Link]](https://leetcode.com/problems/maximum-swap)|[[Link]](2022/maximum-swap)|
+|Minimum add to make parentheses valid|[[Link]](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid)|[[Link]](2022/minimum-add-to-make-parentheses-valid)|
 |Minimum area rectangle|[[Link]](https://leetcode.com/problems/minimum-area-rectangle)|[[Link]](2022/minimum-area-rectangle)|
 |Minimum falling path sum|[[Link]](https://leetcode.com/problems/minimum-falling-path-sum)|[[Link]](2022/minimum-falling-path-sum)|
 |Minimum path sum|[[Link]](https://leetcode.com/problems/minimum-path-sum)|[[Link]](2022/minimum-path-sum)|
+|Minimum remove to make valid parentheses|[[Link]](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses)|[[Link]](2022/minimum-remove-to-make-valid-parentheses)|
 |Minimum time difference|[[Link]](https://leetcode.com/problems/minimum-time-difference)|[[Link]](2022/minimum-time-difference)|
+|My calendar i|[[Link]](https://leetcode.com/problems/my-calendar-i)|[[Link]](2022/my-calendar-i)|
 |Number of matching subsequences|[[Link]](https://leetcode.com/problems/number-of-matching-subsequences)|[[Link]](2022/number-of-matching-subsequences)|
 |Palindrome partitioning|[[Link]](https://leetcode.com/problems/palindrome-partitioning)|[[Link]](2022/palindrome-partitioning)|
 |Product of array except self|[[Link]](https://leetcode.com/problems/product-of-array-except-self)|[[Link]](2022/product-of-array-except-self)|
