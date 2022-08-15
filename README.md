@@ -1,4 +1,4 @@
-## 2022 Leetcode exercises (45 solved)
+## 2022 Leetcode exercises (46 solved)
 
 |Title|Leetcode|My Solution|
 |-----|:--------:|:---------:|
@@ -26,6 +26,7 @@
 |Maximum swap|[[Link]](https://leetcode.com/problems/maximum-swap)|[[Link]](2022/maximum-swap)|
 |Minimum add to make parentheses valid|[[Link]](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid)|[[Link]](2022/minimum-add-to-make-parentheses-valid)|
 |Minimum area rectangle|[[Link]](https://leetcode.com/problems/minimum-area-rectangle)|[[Link]](2022/minimum-area-rectangle)|
+|Minimum cost to set cooking time|[[Link]](https://leetcode.com/problems/minimum-cost-to-set-cooking-time)|[[Link]](2022/minimum-cost-to-set-cooking-time)|
 |Minimum falling path sum|[[Link]](https://leetcode.com/problems/minimum-falling-path-sum)|[[Link]](2022/minimum-falling-path-sum)|
 |Minimum path sum|[[Link]](https://leetcode.com/problems/minimum-path-sum)|[[Link]](2022/minimum-path-sum)|
 |Minimum remove to make valid parentheses|[[Link]](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses)|[[Link]](2022/minimum-remove-to-make-valid-parentheses)|
