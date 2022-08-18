@@ -1,4 +1,4 @@
-## 2022 Leetcode exercises (48 solved)
+## 2022 Leetcode exercises (49 solved)
 
 |Title|Leetcode|My Solution|
 |-----|:--------:|:---------:|
@@ -16,6 +16,7 @@
 |Exclusive time of functions|[[Link]](https://leetcode.com/problems/exclusive-time-of-functions)|[[Link]](2022/exclusive-time-of-functions)|
 |Find all possible recipes from given supplies|[[Link]](https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies)|[[Link]](2022/find-all-possible-recipes-from-given-supplies)|
 |Find and replace in string|[[Link]](https://leetcode.com/problems/find-and-replace-in-string)|[[Link]](2022/find-and-replace-in-string)|
+|Find original array from doubled array|[[Link]](https://leetcode.com/problems/find-original-array-from-doubled-array)|[[Link]](2022/find-original-array-from-doubled-array)|
 |Find the difference|[[Link]](https://leetcode.com/problems/find-the-difference)|[[Link]](2022/find-the-difference)|
 |Happy number|[[Link]](https://leetcode.com/problems/happy-number)|[[Link]](2022/happy-number)|
 |Kth smallest element in a sorted matrix|[[Link]](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix)|[[Link]](2022/kth-smallest-element-in-a-sorted-matrix)|
