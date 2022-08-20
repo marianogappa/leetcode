@@ -1,4 +1,4 @@
-## 2022 Leetcode exercises (51 solved)
+## 2022 Leetcode exercises (52 solved)
 
 |Title|Leetcode|My Solution|
 |-----|:--------:|:---------:|
@@ -53,6 +53,7 @@
 |Time needed to inform all employees|[[Link]](https://leetcode.com/problems/time-needed-to-inform-all-employees)|[[Link]](2022/time-needed-to-inform-all-employees)|
 |Top k frequent elements|[[Link]](https://leetcode.com/problems/top-k-frequent-elements)|[[Link]](2022/top-k-frequent-elements)|
 |Unique paths|[[Link]](https://leetcode.com/problems/unique-paths)|[[Link]](2022/unique-paths)|
+|Valid square|[[Link]](https://leetcode.com/problems/valid-square)|[[Link]](2022/valid-square)|
 
 
 ## 2020 Leetcode exercises (111 solved)
