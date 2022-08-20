@@ -23,3 +23,6 @@ https://leetcode.com/problems/find-duplicate-subtrees/
 
 https://leetcode.com/problems/the-number-of-weak-characters-in-the-game
     You have to be a genius to figure out the strategy
+
+https://leetcode.com/problems/find-original-array-from-doubled-array/discuss/1485450/Python-hashmap-O(n)-solution.-NO-Sorting!
+    Linear solution is hard to think of. Linearithmic is not that bad.
