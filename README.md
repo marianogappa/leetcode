@@ -1,4 +1,4 @@
-## 2022 Leetcode exercises (50 solved)
+## 2022 Leetcode exercises (51 solved)
 
 |Title|Leetcode|My Solution|
 |-----|:--------:|:---------:|
@@ -39,6 +39,7 @@
 |Palindrome partitioning|[[Link]](https://leetcode.com/problems/palindrome-partitioning)|[[Link]](2022/palindrome-partitioning)|
 |Path with minimum effort|[[Link]](https://leetcode.com/problems/path-with-minimum-effort)|[[Link]](2022/path-with-minimum-effort)|
 |Product of array except self|[[Link]](https://leetcode.com/problems/product-of-array-except-self)|[[Link]](2022/product-of-array-except-self)|
+|Product of the last k numbers|[[Link]](https://leetcode.com/problems/product-of-the-last-k-numbers)|[[Link]](2022/product-of-the-last-k-numbers)|
 |Random pick index|[[Link]](https://leetcode.com/problems/random-pick-index)|[[Link]](2022/random-pick-index)|
 |Random pick with weight|[[Link]](https://leetcode.com/problems/random-pick-with-weight)|[[Link]](2022/random-pick-with-weight)|
 |Rle iterator|[[Link]](https://leetcode.com/problems/rle-iterator)|[[Link]](2022/rle-iterator)|
