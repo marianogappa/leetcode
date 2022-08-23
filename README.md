@@ -1,4 +1,4 @@
-## 2022 Leetcode exercises (52 solved)
+## 2022 Leetcode exercises (53 solved)
 
 |Title|Leetcode|My Solution|
 |-----|:--------:|:---------:|
@@ -19,6 +19,7 @@
 |Find and replace in string|[[Link]](https://leetcode.com/problems/find-and-replace-in-string)|[[Link]](2022/find-and-replace-in-string)|
 |Find original array from doubled array|[[Link]](https://leetcode.com/problems/find-original-array-from-doubled-array)|[[Link]](2022/find-original-array-from-doubled-array)|
 |Find the difference|[[Link]](https://leetcode.com/problems/find-the-difference)|[[Link]](2022/find-the-difference)|
+|H index|[[Link]](https://leetcode.com/problems/h-index)|[[Link]](2022/h-index)|
 |Happy number|[[Link]](https://leetcode.com/problems/happy-number)|[[Link]](2022/happy-number)|
 |Kth smallest element in a sorted matrix|[[Link]](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix)|[[Link]](2022/kth-smallest-element-in-a-sorted-matrix)|
 |Longest string chain|[[Link]](https://leetcode.com/problems/longest-string-chain)|[[Link]](2022/longest-string-chain)|
