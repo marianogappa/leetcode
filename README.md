@@ -1,4 +1,4 @@
-## 2022 Leetcode exercises (58 solved)
+## 2022 Leetcode exercises (59 solved)
 
 |Title|Leetcode|My Solution|
 |-----|:--------:|:---------:|
@@ -26,6 +26,7 @@
 |Longest absolute file path|[[Link]](https://leetcode.com/problems/longest-absolute-file-path)|[[Link]](2022/longest-absolute-file-path)|
 |Longest string chain|[[Link]](https://leetcode.com/problems/longest-string-chain)|[[Link]](2022/longest-string-chain)|
 |Longest word in dictionary|[[Link]](https://leetcode.com/problems/longest-word-in-dictionary)|[[Link]](2022/longest-word-in-dictionary)|
+|Longest word in dictionary through deleting|[[Link]](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting)|[[Link]](2022/longest-word-in-dictionary-through-deleting)|
 |Max consecutive ones iii|[[Link]](https://leetcode.com/problems/max-consecutive-ones-iii)|[[Link]](2022/max-consecutive-ones-iii)|
 |Maximum number of points with cost|[[Link]](https://leetcode.com/problems/maximum-number-of-points-with-cost)|[[Link]](2022/maximum-number-of-points-with-cost)|
 |Maximum split of positive even integers|[[Link]](https://leetcode.com/problems/maximum-split-of-positive-even-integers)|[[Link]](2022/maximum-split-of-positive-even-integers)|
