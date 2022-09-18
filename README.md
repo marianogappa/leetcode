@@ -1,7 +1,8 @@
-## 2022 Leetcode exercises (59 solved)
+## 2022 Leetcode exercises (60 solved)
 
 |Title|Leetcode|My Solution|
 |-----|:--------:|:---------:|
+|Angle between hands of a clock|[[Link]](https://leetcode.com/problems/angle-between-hands-of-a-clock)|[[Link]](2022/angle-between-hands-of-a-clock)|
 |Basic calculator ii|[[Link]](https://leetcode.com/problems/basic-calculator-ii)|[[Link]](2022/basic-calculator-ii)|
 |Battleships in a board|[[Link]](https://leetcode.com/problems/battleships-in-a-board)|[[Link]](2022/battleships-in-a-board)|
 |Best time to buy and sell stock|[[Link]](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)|[[Link]](2022/best-time-to-buy-and-sell-stock)|
