@@ -1,4 +1,4 @@
-## 2022 Leetcode exercises (60 solved)
+## 2022 Leetcode exercises (61 solved)
 
 |Title|Leetcode|My Solution|
 |-----|:--------:|:---------:|
@@ -59,6 +59,7 @@
 |The number of weak characters in the game|[[Link]](https://leetcode.com/problems/the-number-of-weak-characters-in-the-game)|[[Link]](2022/the-number-of-weak-characters-in-the-game)|
 |Time needed to inform all employees|[[Link]](https://leetcode.com/problems/time-needed-to-inform-all-employees)|[[Link]](2022/time-needed-to-inform-all-employees)|
 |Top k frequent elements|[[Link]](https://leetcode.com/problems/top-k-frequent-elements)|[[Link]](2022/top-k-frequent-elements)|
+|Top k frequent words|[[Link]](https://leetcode.com/problems/top-k-frequent-words)|[[Link]](2022/top-k-frequent-words)|
 |Unique paths|[[Link]](https://leetcode.com/problems/unique-paths)|[[Link]](2022/unique-paths)|
 |Valid square|[[Link]](https://leetcode.com/problems/valid-square)|[[Link]](2022/valid-square)|
 |Where will the ball fall|[[Link]](https://leetcode.com/problems/where-will-the-ball-fall)|[[Link]](2022/where-will-the-ball-fall)|
