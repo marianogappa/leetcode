@@ -1,4 +1,4 @@
-## 2022 Leetcode exercises (55 solved)
+## 2022 Leetcode exercises (58 solved)
 
 |Title|Leetcode|My Solution|
 |-----|:--------:|:---------:|
@@ -12,6 +12,7 @@
 |Concatenation of array|[[Link]](https://leetcode.com/problems/concatenation-of-array)|[[Link]](2022/concatenation-of-array)|
 |Count words obtained after adding a letter|[[Link]](https://leetcode.com/problems/count-words-obtained-after-adding-a-letter)|[[Link]](2022/count-words-obtained-after-adding-a-letter)|
 |Custom sort string|[[Link]](https://leetcode.com/problems/custom-sort-string)|[[Link]](2022/custom-sort-string)|
+|Decode string|[[Link]](https://leetcode.com/problems/decode-string)|[[Link]](2022/decode-string)|
 |Detect squares|[[Link]](https://leetcode.com/problems/detect-squares)|[[Link]](2022/detect-squares)|
 |Evaluate reverse polish notation|[[Link]](https://leetcode.com/problems/evaluate-reverse-polish-notation)|[[Link]](2022/evaluate-reverse-polish-notation)|
 |Exclusive time of functions|[[Link]](https://leetcode.com/problems/exclusive-time-of-functions)|[[Link]](2022/exclusive-time-of-functions)|
@@ -38,6 +39,7 @@
 |Minimum remove to make valid parentheses|[[Link]](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses)|[[Link]](2022/minimum-remove-to-make-valid-parentheses)|
 |Minimum time difference|[[Link]](https://leetcode.com/problems/minimum-time-difference)|[[Link]](2022/minimum-time-difference)|
 |My calendar i|[[Link]](https://leetcode.com/problems/my-calendar-i)|[[Link]](2022/my-calendar-i)|
+|Network delay time|[[Link]](https://leetcode.com/problems/network-delay-time)|[[Link]](2022/network-delay-time)|
 |Number of matching subsequences|[[Link]](https://leetcode.com/problems/number-of-matching-subsequences)|[[Link]](2022/number-of-matching-subsequences)|
 |Palindrome partitioning|[[Link]](https://leetcode.com/problems/palindrome-partitioning)|[[Link]](2022/palindrome-partitioning)|
 |Path with minimum effort|[[Link]](https://leetcode.com/problems/path-with-minimum-effort)|[[Link]](2022/path-with-minimum-effort)|
@@ -57,6 +59,7 @@
 |Top k frequent elements|[[Link]](https://leetcode.com/problems/top-k-frequent-elements)|[[Link]](2022/top-k-frequent-elements)|
 |Unique paths|[[Link]](https://leetcode.com/problems/unique-paths)|[[Link]](2022/unique-paths)|
 |Valid square|[[Link]](https://leetcode.com/problems/valid-square)|[[Link]](2022/valid-square)|
+|Where will the ball fall|[[Link]](https://leetcode.com/problems/where-will-the-ball-fall)|[[Link]](2022/where-will-the-ball-fall)|
 
 
 ## 2020 Leetcode exercises (111 solved)
