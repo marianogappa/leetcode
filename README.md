@@ -1,4 +1,4 @@
-## 2022 Leetcode exercises (63 solved)
+## 2022 Leetcode exercises (64 solved)
 
 |Title|Leetcode|My Solution|
 |-----|:--------:|:---------:|
@@ -25,6 +25,7 @@
 |Happy number|[[Link]](https://leetcode.com/problems/happy-number)|[[Link]](2022/happy-number)|
 |Kth smallest element in a sorted matrix|[[Link]](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix)|[[Link]](2022/kth-smallest-element-in-a-sorted-matrix)|
 |Longest absolute file path|[[Link]](https://leetcode.com/problems/longest-absolute-file-path)|[[Link]](2022/longest-absolute-file-path)|
+|Longest arithmetic subsequence of given difference|[[Link]](https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference)|[[Link]](2022/longest-arithmetic-subsequence-of-given-difference)|
 |Longest string chain|[[Link]](https://leetcode.com/problems/longest-string-chain)|[[Link]](2022/longest-string-chain)|
 |Longest word in dictionary|[[Link]](https://leetcode.com/problems/longest-word-in-dictionary)|[[Link]](2022/longest-word-in-dictionary)|
 |Longest word in dictionary through deleting|[[Link]](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting)|[[Link]](2022/longest-word-in-dictionary-through-deleting)|
