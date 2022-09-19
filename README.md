@@ -1,4 +1,4 @@
-## 2022 Leetcode exercises (64 solved)
+## 2022 Leetcode exercises (65 solved)
 
 |Title|Leetcode|My Solution|
 |-----|:--------:|:---------:|
@@ -65,6 +65,7 @@
 |Top k frequent words|[[Link]](https://leetcode.com/problems/top-k-frequent-words)|[[Link]](2022/top-k-frequent-words)|
 |Unique paths|[[Link]](https://leetcode.com/problems/unique-paths)|[[Link]](2022/unique-paths)|
 |Valid square|[[Link]](https://leetcode.com/problems/valid-square)|[[Link]](2022/valid-square)|
+|Valid tic tac toe state|[[Link]](https://leetcode.com/problems/valid-tic-tac-toe-state)|[[Link]](2022/valid-tic-tac-toe-state)|
 |Where will the ball fall|[[Link]](https://leetcode.com/problems/where-will-the-ball-fall)|[[Link]](2022/where-will-the-ball-fall)|
 
 
