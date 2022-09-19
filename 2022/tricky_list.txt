@@ -29,3 +29,6 @@ https://leetcode.com/problems/find-original-array-from-doubled-array/discuss/148
 
 https://leetcode.com/problems/binary-subarrays-with-sum
     Couldn't figure it out!
+
+https://leetcode.com/problems/new-21-game/
+    Can't figure it out even reading the explanations!
