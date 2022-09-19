@@ -1,4 +1,4 @@
-## 2022 Leetcode exercises (62 solved)
+## 2022 Leetcode exercises (63 solved)
 
 |Title|Leetcode|My Solution|
 |-----|:--------:|:---------:|
@@ -49,6 +49,7 @@
 |Product of the last k numbers|[[Link]](https://leetcode.com/problems/product-of-the-last-k-numbers)|[[Link]](2022/product-of-the-last-k-numbers)|
 |Random pick index|[[Link]](https://leetcode.com/problems/random-pick-index)|[[Link]](2022/random-pick-index)|
 |Random pick with weight|[[Link]](https://leetcode.com/problems/random-pick-with-weight)|[[Link]](2022/random-pick-with-weight)|
+|Repeated string match|[[Link]](https://leetcode.com/problems/repeated-string-match)|[[Link]](2022/repeated-string-match)|
 |Rle iterator|[[Link]](https://leetcode.com/problems/rle-iterator)|[[Link]](2022/rle-iterator)|
 |Rotate image|[[Link]](https://leetcode.com/problems/rotate-image)|[[Link]](2022/rotate-image)|
 |Search a 2d matrix ii|[[Link]](https://leetcode.com/problems/search-a-2d-matrix-ii)|[[Link]](2022/search-a-2d-matrix-ii)|
