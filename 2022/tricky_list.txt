@@ -32,3 +32,6 @@ https://leetcode.com/problems/binary-subarrays-with-sum
 
 https://leetcode.com/problems/new-21-game/
     Can't figure it out even reading the explanations!
+
+https://leetcode.com/problems/subarray-sum-equals-k
+    Linear solution is unintuitive
