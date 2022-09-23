@@ -1,4 +1,4 @@
-## 2022 Leetcode exercises (74 solved)
+## 2022 Leetcode exercises (75 solved)
 
 |Title|Leetcode|My Solution|
 |-----|:--------:|:---------:|
@@ -16,6 +16,7 @@
 |Custom sort string|[[Link]](https://leetcode.com/problems/custom-sort-string)|[[Link]](2022/custom-sort-string)|
 |Decode string|[[Link]](https://leetcode.com/problems/decode-string)|[[Link]](2022/decode-string)|
 |Detect squares|[[Link]](https://leetcode.com/problems/detect-squares)|[[Link]](2022/detect-squares)|
+|Diagonal traverse|[[Link]](https://leetcode.com/problems/diagonal-traverse)|[[Link]](2022/diagonal-traverse)|
 |Evaluate reverse polish notation|[[Link]](https://leetcode.com/problems/evaluate-reverse-polish-notation)|[[Link]](2022/evaluate-reverse-polish-notation)|
 |Exclusive time of functions|[[Link]](https://leetcode.com/problems/exclusive-time-of-functions)|[[Link]](2022/exclusive-time-of-functions)|
 |Find all possible recipes from given supplies|[[Link]](https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies)|[[Link]](2022/find-all-possible-recipes-from-given-supplies)|
