@@ -1,4 +1,4 @@
-## 2022 Leetcode exercises (75 solved)
+## 2022 Leetcode exercises (76 solved)
 
 |Title|Leetcode|My Solution|
 |-----|:--------:|:---------:|
@@ -7,6 +7,7 @@
 |Battleships in a board|[[Link]](https://leetcode.com/problems/battleships-in-a-board)|[[Link]](2022/battleships-in-a-board)|
 |Best time to buy and sell stock|[[Link]](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)|[[Link]](2022/best-time-to-buy-and-sell-stock)|
 |Best time to buy and sell stock ii|[[Link]](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii)|[[Link]](2022/best-time-to-buy-and-sell-stock-ii)|
+|Binary search tree iterator|[[Link]](https://leetcode.com/problems/binary-search-tree-iterator)|[[Link]](2022/binary-search-tree-iterator)|
 |Binary tree right side view|[[Link]](https://leetcode.com/problems/binary-tree-right-side-view)|[[Link]](2022/binary-tree-right-side-view)|
 |Bulls and cows|[[Link]](https://leetcode.com/problems/bulls-and-cows)|[[Link]](2022/bulls-and-cows)|
 |Check if word can be placed in crossword|[[Link]](https://leetcode.com/problems/check-if-word-can-be-placed-in-crossword)|[[Link]](2022/check-if-word-can-be-placed-in-crossword)|
