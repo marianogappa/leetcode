@@ -1,4 +1,4 @@
-## 2022 Leetcode exercises (76 solved)
+## 2022 Leetcode exercises (77 solved)
 
 |Title|Leetcode|My Solution|
 |-----|:--------:|:---------:|
@@ -13,6 +13,7 @@
 |Check if word can be placed in crossword|[[Link]](https://leetcode.com/problems/check-if-word-can-be-placed-in-crossword)|[[Link]](2022/check-if-word-can-be-placed-in-crossword)|
 |Coin change|[[Link]](https://leetcode.com/problems/coin-change)|[[Link]](2022/coin-change)|
 |Concatenation of array|[[Link]](https://leetcode.com/problems/concatenation-of-array)|[[Link]](2022/concatenation-of-array)|
+|Copy list with random pointer|[[Link]](https://leetcode.com/problems/copy-list-with-random-pointer)|[[Link]](2022/copy-list-with-random-pointer)|
 |Count words obtained after adding a letter|[[Link]](https://leetcode.com/problems/count-words-obtained-after-adding-a-letter)|[[Link]](2022/count-words-obtained-after-adding-a-letter)|
 |Custom sort string|[[Link]](https://leetcode.com/problems/custom-sort-string)|[[Link]](2022/custom-sort-string)|
 |Decode string|[[Link]](https://leetcode.com/problems/decode-string)|[[Link]](2022/decode-string)|
