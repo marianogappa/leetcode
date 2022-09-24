@@ -1,4 +1,4 @@
-## 2022 Leetcode exercises (77 solved)
+## 2022 Leetcode exercises (78 solved)
 
 |Title|Leetcode|My Solution|
 |-----|:--------:|:---------:|
@@ -10,6 +10,7 @@
 |Binary search tree iterator|[[Link]](https://leetcode.com/problems/binary-search-tree-iterator)|[[Link]](2022/binary-search-tree-iterator)|
 |Binary tree right side view|[[Link]](https://leetcode.com/problems/binary-tree-right-side-view)|[[Link]](2022/binary-tree-right-side-view)|
 |Bulls and cows|[[Link]](https://leetcode.com/problems/bulls-and-cows)|[[Link]](2022/bulls-and-cows)|
+|Capacity to ship packages within d days|[[Link]](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days)|[[Link]](2022/capacity-to-ship-packages-within-d-days)|
 |Check if word can be placed in crossword|[[Link]](https://leetcode.com/problems/check-if-word-can-be-placed-in-crossword)|[[Link]](2022/check-if-word-can-be-placed-in-crossword)|
 |Coin change|[[Link]](https://leetcode.com/problems/coin-change)|[[Link]](2022/coin-change)|
 |Concatenation of array|[[Link]](https://leetcode.com/problems/concatenation-of-array)|[[Link]](2022/concatenation-of-array)|
