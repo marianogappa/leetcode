@@ -1,4 +1,4 @@
-## 2022 Leetcode exercises (80 solved)
+## 2022 Leetcode exercises (81 solved)
 
 |Title|Leetcode|My Solution|
 |-----|:--------:|:---------:|
@@ -24,6 +24,7 @@
 |Exclusive time of functions|[[Link]](https://leetcode.com/problems/exclusive-time-of-functions)|[[Link]](2022/exclusive-time-of-functions)|
 |Find all possible recipes from given supplies|[[Link]](https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies)|[[Link]](2022/find-all-possible-recipes-from-given-supplies)|
 |Find and replace in string|[[Link]](https://leetcode.com/problems/find-and-replace-in-string)|[[Link]](2022/find-and-replace-in-string)|
+|Find largest value in each tree row|[[Link]](https://leetcode.com/problems/find-largest-value-in-each-tree-row)|[[Link]](2022/find-largest-value-in-each-tree-row)|
 |Find original array from doubled array|[[Link]](https://leetcode.com/problems/find-original-array-from-doubled-array)|[[Link]](2022/find-original-array-from-doubled-array)|
 |Find peak element|[[Link]](https://leetcode.com/problems/find-peak-element)|[[Link]](2022/find-peak-element)|
 |Find the difference|[[Link]](https://leetcode.com/problems/find-the-difference)|[[Link]](2022/find-the-difference)|
