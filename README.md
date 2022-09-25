@@ -1,4 +1,4 @@
-## 2022 Leetcode exercises (85 solved)
+## 2022 Leetcode exercises (86 solved)
 
 |Title|Leetcode|My Solution|
 |-----|:--------:|:---------:|
@@ -17,6 +17,7 @@
 |Clone graph|[[Link]](https://leetcode.com/problems/clone-graph)|[[Link]](2022/clone-graph)|
 |Coin change|[[Link]](https://leetcode.com/problems/coin-change)|[[Link]](2022/coin-change)|
 |Concatenation of array|[[Link]](https://leetcode.com/problems/concatenation-of-array)|[[Link]](2022/concatenation-of-array)|
+|Convert sorted list to binary search tree|[[Link]](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree)|[[Link]](2022/convert-sorted-list-to-binary-search-tree)|
 |Copy list with random pointer|[[Link]](https://leetcode.com/problems/copy-list-with-random-pointer)|[[Link]](2022/copy-list-with-random-pointer)|
 |Count words obtained after adding a letter|[[Link]](https://leetcode.com/problems/count-words-obtained-after-adding-a-letter)|[[Link]](2022/count-words-obtained-after-adding-a-letter)|
 |Custom sort string|[[Link]](https://leetcode.com/problems/custom-sort-string)|[[Link]](2022/custom-sort-string)|
