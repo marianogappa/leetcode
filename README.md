@@ -1,7 +1,8 @@
-## 2022 Leetcode exercises (84 solved)
+## 2022 Leetcode exercises (85 solved)
 
 |Title|Leetcode|My Solution|
 |-----|:--------:|:---------:|
+|All nodes distance k in binary tree|[[Link]](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree)|[[Link]](2022/all-nodes-distance-k-in-binary-tree)|
 |Angle between hands of a clock|[[Link]](https://leetcode.com/problems/angle-between-hands-of-a-clock)|[[Link]](2022/angle-between-hands-of-a-clock)|
 |Basic calculator ii|[[Link]](https://leetcode.com/problems/basic-calculator-ii)|[[Link]](2022/basic-calculator-ii)|
 |Battleships in a board|[[Link]](https://leetcode.com/problems/battleships-in-a-board)|[[Link]](2022/battleships-in-a-board)|
