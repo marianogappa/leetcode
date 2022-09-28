@@ -1,4 +1,4 @@
-## 2022 Leetcode exercises (87 solved)
+## 2022 Leetcode exercises (93 solved)
 
 |Title|Leetcode|My Solution|
 |-----|:--------:|:---------:|
@@ -24,6 +24,7 @@
 |Decode string|[[Link]](https://leetcode.com/problems/decode-string)|[[Link]](2022/decode-string)|
 |Detect squares|[[Link]](https://leetcode.com/problems/detect-squares)|[[Link]](2022/detect-squares)|
 |Diagonal traverse|[[Link]](https://leetcode.com/problems/diagonal-traverse)|[[Link]](2022/diagonal-traverse)|
+|Diagonal traverse ii|[[Link]](https://leetcode.com/problems/diagonal-traverse-ii)|[[Link]](2022/diagonal-traverse-ii)|
 |Evaluate reverse polish notation|[[Link]](https://leetcode.com/problems/evaluate-reverse-polish-notation)|[[Link]](2022/evaluate-reverse-polish-notation)|
 |Exclusive time of functions|[[Link]](https://leetcode.com/problems/exclusive-time-of-functions)|[[Link]](2022/exclusive-time-of-functions)|
 |Find all possible recipes from given supplies|[[Link]](https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies)|[[Link]](2022/find-all-possible-recipes-from-given-supplies)|
@@ -32,8 +33,11 @@
 |Find original array from doubled array|[[Link]](https://leetcode.com/problems/find-original-array-from-doubled-array)|[[Link]](2022/find-original-array-from-doubled-array)|
 |Find peak element|[[Link]](https://leetcode.com/problems/find-peak-element)|[[Link]](2022/find-peak-element)|
 |Find the difference|[[Link]](https://leetcode.com/problems/find-the-difference)|[[Link]](2022/find-the-difference)|
+|Friends of appropriate ages|[[Link]](https://leetcode.com/problems/friends-of-appropriate-ages)|[[Link]](2022/friends-of-appropriate-ages)|
 |H index|[[Link]](https://leetcode.com/problems/h-index)|[[Link]](2022/h-index)|
 |Happy number|[[Link]](https://leetcode.com/problems/happy-number)|[[Link]](2022/happy-number)|
+|Insert delete getrandom o1|[[Link]](https://leetcode.com/problems/insert-delete-getrandom-o1)|[[Link]](2022/insert-delete-getrandom-o1)|
+|Interval list intersections|[[Link]](https://leetcode.com/problems/interval-list-intersections)|[[Link]](2022/interval-list-intersections)|
 |K closest points to origin|[[Link]](https://leetcode.com/problems/k-closest-points-to-origin)|[[Link]](2022/k-closest-points-to-origin)|
 |Kth largest element in an array|[[Link]](https://leetcode.com/problems/kth-largest-element-in-an-array)|[[Link]](2022/kth-largest-element-in-an-array)|
 |Kth smallest element in a sorted matrix|[[Link]](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix)|[[Link]](2022/kth-smallest-element-in-a-sorted-matrix)|
@@ -43,6 +47,7 @@
 |Longest word in dictionary|[[Link]](https://leetcode.com/problems/longest-word-in-dictionary)|[[Link]](2022/longest-word-in-dictionary)|
 |Longest word in dictionary through deleting|[[Link]](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting)|[[Link]](2022/longest-word-in-dictionary-through-deleting)|
 |Lowest common ancestor of a binary tree|[[Link]](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree)|[[Link]](2022/lowest-common-ancestor-of-a-binary-tree)|
+|Lru cache|[[Link]](https://leetcode.com/problems/lru-cache)|[[Link]](2022/lru-cache)|
 |Max consecutive ones iii|[[Link]](https://leetcode.com/problems/max-consecutive-ones-iii)|[[Link]](2022/max-consecutive-ones-iii)|
 |Maximum number of points with cost|[[Link]](https://leetcode.com/problems/maximum-number-of-points-with-cost)|[[Link]](2022/maximum-number-of-points-with-cost)|
 |Maximum split of positive even integers|[[Link]](https://leetcode.com/problems/maximum-split-of-positive-even-integers)|[[Link]](2022/maximum-split-of-positive-even-integers)|
@@ -74,6 +79,7 @@
 |Shortest palindrome|[[Link]](https://leetcode.com/problems/shortest-palindrome)|[[Link]](2022/shortest-palindrome)|
 |Shortest path in binary matrix|[[Link]](https://leetcode.com/problems/shortest-path-in-binary-matrix)|[[Link]](2022/shortest-path-in-binary-matrix)|
 |Simplify path|[[Link]](https://leetcode.com/problems/simplify-path)|[[Link]](2022/simplify-path)|
+|Single threaded cpu|[[Link]](https://leetcode.com/problems/single-threaded-cpu)|[[Link]](2022/single-threaded-cpu)|
 |Snapshot array|[[Link]](https://leetcode.com/problems/snapshot-array)|[[Link]](2022/snapshot-array)|
 |Step by step directions from a binary tree node to another|[[Link]](https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another)|[[Link]](2022/step-by-step-directions-from-a-binary-tree-node-to-another)|
 |Stock price fluctuation|[[Link]](https://leetcode.com/problems/stock-price-fluctuation)|[[Link]](2022/stock-price-fluctuation)|
