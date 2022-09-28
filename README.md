@@ -1,4 +1,4 @@
-## 2022 Leetcode exercises (86 solved)
+## 2022 Leetcode exercises (87 solved)
 
 |Title|Leetcode|My Solution|
 |-----|:--------:|:---------:|
@@ -58,6 +58,7 @@
 |Most stones removed with same row or column|[[Link]](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column)|[[Link]](2022/most-stones-removed-with-same-row-or-column)|
 |My calendar i|[[Link]](https://leetcode.com/problems/my-calendar-i)|[[Link]](2022/my-calendar-i)|
 |Network delay time|[[Link]](https://leetcode.com/problems/network-delay-time)|[[Link]](2022/network-delay-time)|
+|Next greater element iii|[[Link]](https://leetcode.com/problems/next-greater-element-iii)|[[Link]](2022/next-greater-element-iii)|
 |Number of matching subsequences|[[Link]](https://leetcode.com/problems/number-of-matching-subsequences)|[[Link]](2022/number-of-matching-subsequences)|
 |Palindrome partitioning|[[Link]](https://leetcode.com/problems/palindrome-partitioning)|[[Link]](2022/palindrome-partitioning)|
 |Path with minimum effort|[[Link]](https://leetcode.com/problems/path-with-minimum-effort)|[[Link]](2022/path-with-minimum-effort)|
