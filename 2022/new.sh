@@ -6,7 +6,7 @@ EXERCISE=$1
 
 mkdir -p "$EXERCISE"
 cd "$EXERCISE"
-touch main.go
+touch main.py
 cat <<'EOF' > main.py
 EOF
 
