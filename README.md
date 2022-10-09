@@ -1,15 +1,17 @@
-## 2022 Leetcode exercises (94 solved)
+## 2022 Leetcode exercises (98 solved)
 
 |Title|Leetcode|My Solution|
 |-----|:--------:|:---------:|
 |All nodes distance k in binary tree|[[Link]](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree)|[[Link]](2022/all-nodes-distance-k-in-binary-tree)|
 |Angle between hands of a clock|[[Link]](https://leetcode.com/problems/angle-between-hands-of-a-clock)|[[Link]](2022/angle-between-hands-of-a-clock)|
+|Balance a binary search tree|[[Link]](https://leetcode.com/problems/balance-a-binary-search-tree)|[[Link]](2022/balance-a-binary-search-tree)|
 |Basic calculator ii|[[Link]](https://leetcode.com/problems/basic-calculator-ii)|[[Link]](2022/basic-calculator-ii)|
 |Battleships in a board|[[Link]](https://leetcode.com/problems/battleships-in-a-board)|[[Link]](2022/battleships-in-a-board)|
 |Best time to buy and sell stock|[[Link]](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)|[[Link]](2022/best-time-to-buy-and-sell-stock)|
 |Best time to buy and sell stock ii|[[Link]](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii)|[[Link]](2022/best-time-to-buy-and-sell-stock-ii)|
 |Binary search tree iterator|[[Link]](https://leetcode.com/problems/binary-search-tree-iterator)|[[Link]](2022/binary-search-tree-iterator)|
 |Binary tree right side view|[[Link]](https://leetcode.com/problems/binary-tree-right-side-view)|[[Link]](2022/binary-tree-right-side-view)|
+|Buildings with an ocean view|[[Link]](https://leetcode.com/problems/buildings-with-an-ocean-view)|[[Link]](2022/buildings-with-an-ocean-view)|
 |Bulls and cows|[[Link]](https://leetcode.com/problems/bulls-and-cows)|[[Link]](2022/bulls-and-cows)|
 |Capacity to ship packages within d days|[[Link]](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days)|[[Link]](2022/capacity-to-ship-packages-within-d-days)|
 |Check completeness of a binary tree|[[Link]](https://leetcode.com/problems/check-completeness-of-a-binary-tree)|[[Link]](2022/check-completeness-of-a-binary-tree)|
@@ -34,6 +36,7 @@
 |Find original array from doubled array|[[Link]](https://leetcode.com/problems/find-original-array-from-doubled-array)|[[Link]](2022/find-original-array-from-doubled-array)|
 |Find peak element|[[Link]](https://leetcode.com/problems/find-peak-element)|[[Link]](2022/find-peak-element)|
 |Find the difference|[[Link]](https://leetcode.com/problems/find-the-difference)|[[Link]](2022/find-the-difference)|
+|Find two non overlapping sub arrays each with target sum|[[Link]](https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum)|[[Link]](2022/find-two-non-overlapping-sub-arrays-each-with-target-sum)|
 |Friends of appropriate ages|[[Link]](https://leetcode.com/problems/friends-of-appropriate-ages)|[[Link]](2022/friends-of-appropriate-ages)|
 |H index|[[Link]](https://leetcode.com/problems/h-index)|[[Link]](2022/h-index)|
 |Happy number|[[Link]](https://leetcode.com/problems/happy-number)|[[Link]](2022/happy-number)|
@@ -69,6 +72,7 @@
 |Palindrome partitioning|[[Link]](https://leetcode.com/problems/palindrome-partitioning)|[[Link]](2022/palindrome-partitioning)|
 |Path with minimum effort|[[Link]](https://leetcode.com/problems/path-with-minimum-effort)|[[Link]](2022/path-with-minimum-effort)|
 |Powx n|[[Link]](https://leetcode.com/problems/powx-n)|[[Link]](2022/powx-n)|
+|Process tasks using servers|[[Link]](https://leetcode.com/problems/process-tasks-using-servers)|[[Link]](2022/process-tasks-using-servers)|
 |Product of array except self|[[Link]](https://leetcode.com/problems/product-of-array-except-self)|[[Link]](2022/product-of-array-except-self)|
 |Product of the last k numbers|[[Link]](https://leetcode.com/problems/product-of-the-last-k-numbers)|[[Link]](2022/product-of-the-last-k-numbers)|
 |Random pick index|[[Link]](https://leetcode.com/problems/random-pick-index)|[[Link]](2022/random-pick-index)|
