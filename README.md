@@ -1,4 +1,4 @@
-## 2022 Leetcode exercises (98 solved)
+## 2022 Leetcode exercises (99 solved)
 
 |Title|Leetcode|My Solution|
 |-----|:--------:|:---------:|
@@ -51,6 +51,7 @@
 |Longest word in dictionary|[[Link]](https://leetcode.com/problems/longest-word-in-dictionary)|[[Link]](2022/longest-word-in-dictionary)|
 |Longest word in dictionary through deleting|[[Link]](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting)|[[Link]](2022/longest-word-in-dictionary-through-deleting)|
 |Lowest common ancestor of a binary tree|[[Link]](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree)|[[Link]](2022/lowest-common-ancestor-of-a-binary-tree)|
+|Lowest common ancestor of a binary tree iii|[[Link]](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iii)|[[Link]](2022/lowest-common-ancestor-of-a-binary-tree-iii)|
 |Lru cache|[[Link]](https://leetcode.com/problems/lru-cache)|[[Link]](2022/lru-cache)|
 |Max consecutive ones iii|[[Link]](https://leetcode.com/problems/max-consecutive-ones-iii)|[[Link]](2022/max-consecutive-ones-iii)|
 |Maximum number of points with cost|[[Link]](https://leetcode.com/problems/maximum-number-of-points-with-cost)|[[Link]](2022/maximum-number-of-points-with-cost)|
