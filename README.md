@@ -1,4 +1,4 @@
-## 2022 Leetcode exercises (99 solved)
+## 2022 Leetcode exercises (104 solved)
 
 |Title|Leetcode|My Solution|
 |-----|:--------:|:---------:|
@@ -11,6 +11,7 @@
 |Best time to buy and sell stock ii|[[Link]](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii)|[[Link]](2022/best-time-to-buy-and-sell-stock-ii)|
 |Binary search tree iterator|[[Link]](https://leetcode.com/problems/binary-search-tree-iterator)|[[Link]](2022/binary-search-tree-iterator)|
 |Binary tree right side view|[[Link]](https://leetcode.com/problems/binary-tree-right-side-view)|[[Link]](2022/binary-tree-right-side-view)|
+|Binary tree vertical order traversal|[[Link]](https://leetcode.com/problems/binary-tree-vertical-order-traversal)|[[Link]](2022/binary-tree-vertical-order-traversal)|
 |Buildings with an ocean view|[[Link]](https://leetcode.com/problems/buildings-with-an-ocean-view)|[[Link]](2022/buildings-with-an-ocean-view)|
 |Bulls and cows|[[Link]](https://leetcode.com/problems/bulls-and-cows)|[[Link]](2022/bulls-and-cows)|
 |Capacity to ship packages within d days|[[Link]](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days)|[[Link]](2022/capacity-to-ship-packages-within-d-days)|
@@ -27,6 +28,7 @@
 |Detect squares|[[Link]](https://leetcode.com/problems/detect-squares)|[[Link]](2022/detect-squares)|
 |Diagonal traverse|[[Link]](https://leetcode.com/problems/diagonal-traverse)|[[Link]](2022/diagonal-traverse)|
 |Diagonal traverse ii|[[Link]](https://leetcode.com/problems/diagonal-traverse-ii)|[[Link]](2022/diagonal-traverse-ii)|
+|Dot product of two sparse vectors|[[Link]](https://leetcode.com/problems/dot-product-of-two-sparse-vectors)|[[Link]](2022/dot-product-of-two-sparse-vectors)|
 |Evaluate reverse polish notation|[[Link]](https://leetcode.com/problems/evaluate-reverse-polish-notation)|[[Link]](2022/evaluate-reverse-polish-notation)|
 |Exclusive time of functions|[[Link]](https://leetcode.com/problems/exclusive-time-of-functions)|[[Link]](2022/exclusive-time-of-functions)|
 |Find all possible recipes from given supplies|[[Link]](https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies)|[[Link]](2022/find-all-possible-recipes-from-given-supplies)|
@@ -69,6 +71,7 @@
 |My calendar i|[[Link]](https://leetcode.com/problems/my-calendar-i)|[[Link]](2022/my-calendar-i)|
 |Network delay time|[[Link]](https://leetcode.com/problems/network-delay-time)|[[Link]](2022/network-delay-time)|
 |Next greater element iii|[[Link]](https://leetcode.com/problems/next-greater-element-iii)|[[Link]](2022/next-greater-element-iii)|
+|Next permutation|[[Link]](https://leetcode.com/problems/next-permutation)|[[Link]](2022/next-permutation)|
 |Number of matching subsequences|[[Link]](https://leetcode.com/problems/number-of-matching-subsequences)|[[Link]](2022/number-of-matching-subsequences)|
 |Palindrome partitioning|[[Link]](https://leetcode.com/problems/palindrome-partitioning)|[[Link]](2022/palindrome-partitioning)|
 |Path with minimum effort|[[Link]](https://leetcode.com/problems/path-with-minimum-effort)|[[Link]](2022/path-with-minimum-effort)|
@@ -76,6 +79,7 @@
 |Process tasks using servers|[[Link]](https://leetcode.com/problems/process-tasks-using-servers)|[[Link]](2022/process-tasks-using-servers)|
 |Product of array except self|[[Link]](https://leetcode.com/problems/product-of-array-except-self)|[[Link]](2022/product-of-array-except-self)|
 |Product of the last k numbers|[[Link]](https://leetcode.com/problems/product-of-the-last-k-numbers)|[[Link]](2022/product-of-the-last-k-numbers)|
+|Race car|[[Link]](https://leetcode.com/problems/race-car)|[[Link]](2022/race-car)|
 |Random pick index|[[Link]](https://leetcode.com/problems/random-pick-index)|[[Link]](2022/random-pick-index)|
 |Random pick with weight|[[Link]](https://leetcode.com/problems/random-pick-with-weight)|[[Link]](2022/random-pick-with-weight)|
 |Repeated string match|[[Link]](https://leetcode.com/problems/repeated-string-match)|[[Link]](2022/repeated-string-match)|
@@ -83,6 +87,7 @@
 |Rotate image|[[Link]](https://leetcode.com/problems/rotate-image)|[[Link]](2022/rotate-image)|
 |Search a 2d matrix ii|[[Link]](https://leetcode.com/problems/search-a-2d-matrix-ii)|[[Link]](2022/search-a-2d-matrix-ii)|
 |Shortest palindrome|[[Link]](https://leetcode.com/problems/shortest-palindrome)|[[Link]](2022/shortest-palindrome)|
+|Shortest path in a grid with obstacles elimination|[[Link]](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination)|[[Link]](2022/shortest-path-in-a-grid-with-obstacles-elimination)|
 |Shortest path in binary matrix|[[Link]](https://leetcode.com/problems/shortest-path-in-binary-matrix)|[[Link]](2022/shortest-path-in-binary-matrix)|
 |Simplify path|[[Link]](https://leetcode.com/problems/simplify-path)|[[Link]](2022/simplify-path)|
 |Single threaded cpu|[[Link]](https://leetcode.com/problems/single-threaded-cpu)|[[Link]](2022/single-threaded-cpu)|
