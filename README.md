@@ -1,4 +1,4 @@
-## 2022 Leetcode exercises (104 solved)
+## 2022 Leetcode exercises (105 solved)
 
 |Title|Leetcode|My Solution|
 |-----|:--------:|:---------:|
@@ -69,6 +69,7 @@
 |Minimum time difference|[[Link]](https://leetcode.com/problems/minimum-time-difference)|[[Link]](2022/minimum-time-difference)|
 |Most stones removed with same row or column|[[Link]](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column)|[[Link]](2022/most-stones-removed-with-same-row-or-column)|
 |My calendar i|[[Link]](https://leetcode.com/problems/my-calendar-i)|[[Link]](2022/my-calendar-i)|
+|Nested list weight sum|[[Link]](https://leetcode.com/problems/nested-list-weight-sum)|[[Link]](2022/nested-list-weight-sum)|
 |Network delay time|[[Link]](https://leetcode.com/problems/network-delay-time)|[[Link]](2022/network-delay-time)|
 |Next greater element iii|[[Link]](https://leetcode.com/problems/next-greater-element-iii)|[[Link]](2022/next-greater-element-iii)|
 |Next permutation|[[Link]](https://leetcode.com/problems/next-permutation)|[[Link]](2022/next-permutation)|
