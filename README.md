@@ -1,4 +1,4 @@
-## 2022 Leetcode exercises (107 solved)
+## 2022 Leetcode exercises (108 solved)
 
 |Title|Leetcode|My Solution|
 |-----|:--------:|:---------:|
@@ -108,6 +108,7 @@
 |Valid number|[[Link]](https://leetcode.com/problems/valid-number)|[[Link]](2022/valid-number)|
 |Valid square|[[Link]](https://leetcode.com/problems/valid-square)|[[Link]](2022/valid-square)|
 |Valid tic tac toe state|[[Link]](https://leetcode.com/problems/valid-tic-tac-toe-state)|[[Link]](2022/valid-tic-tac-toe-state)|
+|Vertical order traversal of a binary tree|[[Link]](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree)|[[Link]](2022/vertical-order-traversal-of-a-binary-tree)|
 |Where will the ball fall|[[Link]](https://leetcode.com/problems/where-will-the-ball-fall)|[[Link]](2022/where-will-the-ball-fall)|
 
 
