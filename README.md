@@ -1,4 +1,4 @@
-## 2022 Leetcode exercises (108 solved)
+## 2022 Leetcode exercises (109 solved)
 
 |Title|Leetcode|My Solution|
 |-----|:--------:|:---------:|
@@ -81,6 +81,7 @@
 |Process tasks using servers|[[Link]](https://leetcode.com/problems/process-tasks-using-servers)|[[Link]](2022/process-tasks-using-servers)|
 |Product of array except self|[[Link]](https://leetcode.com/problems/product-of-array-except-self)|[[Link]](2022/product-of-array-except-self)|
 |Product of the last k numbers|[[Link]](https://leetcode.com/problems/product-of-the-last-k-numbers)|[[Link]](2022/product-of-the-last-k-numbers)|
+|Product of two run length encoded arrays|[[Link]](https://leetcode.com/problems/product-of-two-run-length-encoded-arrays)|[[Link]](2022/product-of-two-run-length-encoded-arrays)|
 |Race car|[[Link]](https://leetcode.com/problems/race-car)|[[Link]](2022/race-car)|
 |Random pick index|[[Link]](https://leetcode.com/problems/random-pick-index)|[[Link]](2022/random-pick-index)|
 |Random pick with weight|[[Link]](https://leetcode.com/problems/random-pick-with-weight)|[[Link]](2022/random-pick-with-weight)|
