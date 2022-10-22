@@ -1,4 +1,4 @@
-## 2022 Leetcode exercises (109 solved)
+## 2022 Leetcode exercises (110 solved)
 
 |Title|Leetcode|My Solution|
 |-----|:--------:|:---------:|
@@ -41,6 +41,7 @@
 |Find the difference|[[Link]](https://leetcode.com/problems/find-the-difference)|[[Link]](2022/find-the-difference)|
 |Find two non overlapping sub arrays each with target sum|[[Link]](https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum)|[[Link]](2022/find-two-non-overlapping-sub-arrays-each-with-target-sum)|
 |Friends of appropriate ages|[[Link]](https://leetcode.com/problems/friends-of-appropriate-ages)|[[Link]](2022/friends-of-appropriate-ages)|
+|Group shifted strings|[[Link]](https://leetcode.com/problems/group-shifted-strings)|[[Link]](2022/group-shifted-strings)|
 |H index|[[Link]](https://leetcode.com/problems/h-index)|[[Link]](2022/h-index)|
 |Happy number|[[Link]](https://leetcode.com/problems/happy-number)|[[Link]](2022/happy-number)|
 |Insert delete getrandom o1|[[Link]](https://leetcode.com/problems/insert-delete-getrandom-o1)|[[Link]](2022/insert-delete-getrandom-o1)|
