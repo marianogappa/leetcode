@@ -1,4 +1,4 @@
-## 2022 Leetcode exercises (111 solved)
+## 2022 Leetcode exercises (112 solved)
 
 |Title|Leetcode|My Solution|
 |-----|:--------:|:---------:|
@@ -46,6 +46,7 @@
 |H index|[[Link]](https://leetcode.com/problems/h-index)|[[Link]](2022/h-index)|
 |Happy number|[[Link]](https://leetcode.com/problems/happy-number)|[[Link]](2022/happy-number)|
 |Insert delete getrandom o1|[[Link]](https://leetcode.com/problems/insert-delete-getrandom-o1)|[[Link]](2022/insert-delete-getrandom-o1)|
+|Insert into a sorted circular linked list|[[Link]](https://leetcode.com/problems/insert-into-a-sorted-circular-linked-list)|[[Link]](2022/insert-into-a-sorted-circular-linked-list)|
 |Interval list intersections|[[Link]](https://leetcode.com/problems/interval-list-intersections)|[[Link]](2022/interval-list-intersections)|
 |K closest points to origin|[[Link]](https://leetcode.com/problems/k-closest-points-to-origin)|[[Link]](2022/k-closest-points-to-origin)|
 |Kth largest element in an array|[[Link]](https://leetcode.com/problems/kth-largest-element-in-an-array)|[[Link]](2022/kth-largest-element-in-an-array)|
