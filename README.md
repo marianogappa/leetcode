@@ -1,4 +1,4 @@
-## 2022 Leetcode exercises (112 solved)
+## 2022 Leetcode exercises (113 solved)
 
 |Title|Leetcode|My Solution|
 |-----|:--------:|:---------:|
@@ -104,6 +104,7 @@
 |Subsets|[[Link]](https://leetcode.com/problems/subsets)|[[Link]](2022/subsets)|
 |Sum root to leaf numbers|[[Link]](https://leetcode.com/problems/sum-root-to-leaf-numbers)|[[Link]](2022/sum-root-to-leaf-numbers)|
 |Swap adjacent in lr string|[[Link]](https://leetcode.com/problems/swap-adjacent-in-lr-string)|[[Link]](2022/swap-adjacent-in-lr-string)|
+|Swim in rising water|[[Link]](https://leetcode.com/problems/swim-in-rising-water)|[[Link]](2022/swim-in-rising-water)|
 |The number of weak characters in the game|[[Link]](https://leetcode.com/problems/the-number-of-weak-characters-in-the-game)|[[Link]](2022/the-number-of-weak-characters-in-the-game)|
 |Time needed to inform all employees|[[Link]](https://leetcode.com/problems/time-needed-to-inform-all-employees)|[[Link]](2022/time-needed-to-inform-all-employees)|
 |Top k frequent elements|[[Link]](https://leetcode.com/problems/top-k-frequent-elements)|[[Link]](2022/top-k-frequent-elements)|
