@@ -1,4 +1,4 @@
-## 2022 Leetcode exercises (113 solved)
+## 2022 Leetcode exercises (114 solved)
 
 |Title|Leetcode|My Solution|
 |-----|:--------:|:---------:|
@@ -43,6 +43,7 @@
 |Friends of appropriate ages|[[Link]](https://leetcode.com/problems/friends-of-appropriate-ages)|[[Link]](2022/friends-of-appropriate-ages)|
 |Gas station|[[Link]](https://leetcode.com/problems/gas-station)|[[Link]](2022/gas-station)|
 |Group shifted strings|[[Link]](https://leetcode.com/problems/group-shifted-strings)|[[Link]](2022/group-shifted-strings)|
+|Guess the word|[[Link]](https://leetcode.com/problems/guess-the-word)|[[Link]](2022/guess-the-word)|
 |H index|[[Link]](https://leetcode.com/problems/h-index)|[[Link]](2022/h-index)|
 |Happy number|[[Link]](https://leetcode.com/problems/happy-number)|[[Link]](2022/happy-number)|
 |Insert delete getrandom o1|[[Link]](https://leetcode.com/problems/insert-delete-getrandom-o1)|[[Link]](2022/insert-delete-getrandom-o1)|
