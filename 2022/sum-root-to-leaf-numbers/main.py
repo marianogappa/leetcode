@@ -1,14 +1,12 @@
-# Definition for a binary tree node.
-# class TreeNode:
-#     def __init__(self, val=0, left=None, right=None):
-#         self.val = val
-#         self.left = left
-#         self.right = right
-#
+# Straightforward dfs. No tricks.
+class TreeNode:
+    def __init__(self, val=0, left=None, right=None):
+        self.val = val
+        self.left = left
+        self.right = right
+
 # Time: O(n)
 # Space: O(n) hopefully O(height) but there could be a really skewed tree
-#
-# Straightforward dfs. No tricks.
 class Solution:
     def sumNumbers(self, root: Optional[TreeNode]) -> int:
         return dfs(root, [root])

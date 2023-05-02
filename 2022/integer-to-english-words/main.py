@@ -1,12 +1,12 @@
-# Time: O(1)
-# Space: O(1)
-#
 # Easy but too many edge cases. Just figure out the wording algorithm. There are special
 # cases for <=10, <=20, and the functions for <100 and <1000 can be reused by larger number
 # implementations. After 1000, there's a pattern: [2] Million [345] Thousand [123].
 #
 # Special cases: 0 is "Zero", but 100 is not "[One] Hundred [Zero]".
 # A number group that is zero should not be translated e.g. 134000123 => [134] Million [1] Hundred [23]
+
+# Time: O(1)
+# Space: O(1)
 class Solution:
     def numberToWords(self, num: int) -> str:
         if num < 1000:

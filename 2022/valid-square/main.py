@@ -1,8 +1,3 @@
-from itertools import permutations
-
-# Time: O(1)
-# Space: O(1)
-#
 # Please note that the trickiness arises from the fact that the
 # square needn't be aligned with the cartesian plane.
 #
@@ -17,8 +12,10 @@ from itertools import permutations
 # A clever optimisation is figuring out that many of those 24
 # permutations result in the same comparisons, so there are
 # duplicate calculations. But it won't change the complexity.
+from itertools import permutations
 
-
+# Time: O(1)
+# Space: O(1)
 def euclid(p1: List[int], p2: List[int]) -> int:
     return (p2[0]-p1[0])**2 + (p2[1]-p1[1])**2
 

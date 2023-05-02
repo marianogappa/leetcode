@@ -1,9 +1,3 @@
-from dataclasses import dataclass
-from typing import Optional
-
-# Time: O(n) we parse the string once. There are constants in this string that will make us for-loop over it.
-# Space: O(n) we store the solution in a buffer (in this case actually in an array); we also store partial strings.
-#
 # Straightforward if using proper abstractions. For a parseable grammar, not too complex to implement a token iterator.
 # Only 3 tokens exist: an int, a string or a closing bracket (opening bracket always comes after number so ignore it!)
 #
@@ -13,6 +7,12 @@ from typing import Optional
 # If number: get the number, run this decoding function recursively to get the string, and append n*decoded to solution.
 # If closing bracket: we must be in a recursive call! End the call here.
 # If no tokens left: we must be in a non-recursive call! End the call here.
+
+from dataclasses import dataclass
+from typing import Optional
+
+# Time: O(n) we parse the string once. There are constants in this string that will make us for-loop over it.
+# Space: O(n) we store the solution in a buffer (in this case actually in an array); we also store partial strings.
 class Solution:
     def decodeString(self, s: str) -> str:
         return do_decode(TokenIterator(s))

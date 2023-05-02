@@ -1,12 +1,11 @@
-import math
-
-# Time: O(a+b)
-# Space: O(a+b)
-#
 # Note: if the "in" Python keyword is allowed here, using KMP is redundant.
 #
 # - Obviously, as long as "a" is smaller than "b", "b" cannot be a substring.
 # - NOT obvious: once "a" >= "b", either "b" is already a substring, or you need one more repeat, but no more.
+import math
+
+# Time: O(a+b)
+# Space: O(a+b)
 class Solution:
     def repeatedStringMatch(self, a: str, b: str) -> int:
         minimum_repeat_times = int(math.ceil(float(len(b))/float(len(a))))

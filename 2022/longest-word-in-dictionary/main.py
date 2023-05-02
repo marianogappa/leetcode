@@ -1,8 +1,7 @@
+# Intuition: put all words in a Trie (linear to words), then traverse Trie once
+# in reverse lexicographical order greedily keeping a max length word, only
+# traversing while current node is always a word stop. Should be linear to words too.
 class Solution:
-    # Intuition: put all words in a Trie (linear to words), then traverse Trie once
-    # in reverse lexicographical order greedily keeping a max length word, only
-    # traversing while current node is always a word stop. Should be linear to words too.
-    #
     # Time: O(w) where w is not len(words) but the whole content
     # Space: O(w)
     def longestWord(self, words: List[str]) -> str:

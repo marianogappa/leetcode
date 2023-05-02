@@ -1,10 +1,10 @@
-# Time: O(n)
-# Space: O(n)
-#
 # Since it's tricky to iterate in the required pattern, it's easier to always iterate
 # with the same delta (up-right), and reverse every second sub-path (linear time).
 #
 # At that point, it's trivial: traverse first column and last row always towards up-right.
+
+# Time: O(n)
+# Space: O(n)
 class Solution:
     def findDiagonalOrder(self, mat: List[List[int]]) -> List[int]:
         path: list[int] = []

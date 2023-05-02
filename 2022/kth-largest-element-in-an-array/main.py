@@ -1,14 +1,14 @@
-from random import randint
-
-# Time: O(n) average, O(n^2) worst
-# Space: O(1) in-place
-#
 # Getting the kth largest/smallest item in O(n) is what quickselect does.
 #
 # Note that to get largest instead of the more usual smallest, you only
 # need to change the "<" to ">" in the partition function. The comparisons
 # in the quickselect function don't involve numbers, but indices, so they
 # don't need to change.
+
+from random import randint
+
+# Time: O(n) average, O(n^2) worst
+# Space: O(1) in-place
 class Solution:
     def findKthLargest(self, nums: List[int], k: int) -> int:
         return quickselect(nums, 0, len(nums)-1, k)

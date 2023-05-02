@@ -1,8 +1,3 @@
-from collections import defaultdict
-
-# Time: O(n*logn) for sorting
-# Space: O(n) for freq map and sorted list
-#
 # Initial intuition of considering that a number is in the original array if it has a double doesn't work; here's
 # the counter example:
 #
@@ -18,7 +13,10 @@ from collections import defaultdict
 # Only catch is that we have to "remove/mark" numbers, because if we used them as doubles, we must ignore them later.
 # Solution is to create a frequency map, and decrement frequency when used. This takes care of duplicates too.
 
+from collections import defaultdict
 
+# Time: O(n*logn) for sorting
+# Space: O(n) for freq map and sorted list
 class Solution:
     def findOriginalArray(self, changed: List[int]) -> List[int]:
         # Optimisation: odd number list must have a number without double

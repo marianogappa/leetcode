@@ -1,21 +1,20 @@
-from collections import defaultdict
+# Intuition is to build freq maps of both, but because
+# indices matter, instead we build a dict from number to
+# a set of indices. The intersection of sets provides the
+# bulls, and the cows will be the non-bulls in those sets,
+# but there can be as many as the smallest len of the sets,
+# minus bulls.
+#
+# In principle it seems linear time & space, but remember
+# that the worst case intersection of sets could be n*m
+# with very bad hashset structure, if every "val in big_set"
+# is linear instead of constant.
 
+from collections import defaultdict
 
 class Solution:
     # Time: O(n+m) technically worst case intersection n*m
     # Space: O(n+m) storing dict sets
-    #
-    # Intuition is to build freq maps of both, but because
-    # indices matter, instead we build a dict from number to
-    # a set of indices. The intersection of sets provides the
-    # bulls, and the cows will be the non-bulls in those sets,
-    # but there can be as many as the smallest len of the sets,
-    # minus bulls.
-    #
-    # In principle it seems linear time & space, but remember
-    # that the worst case intersection of sets could be n*m
-    # with very bad hashset structure, if every "val in big_set"
-    # is linear instead of constant.
     def getHint(self, secret: str, guess: str) -> str:
         secret_dict_set = build_dict_set(secret)
         guess_dict_set = build_dict_set(guess)

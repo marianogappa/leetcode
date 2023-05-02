@@ -1,13 +1,12 @@
-import heapq
-
-# Time: O(n*logn) both for sorting and for pushing and popping
-# Space: O(n) for the extra space of keeping sorted tasks and the heap
-#
 # Straightforward reasoning from exercise:
 # - Remember to sort tasks by enqueue time.
 # - Need to keep pulling shortest (processing_time, label), so use a min heap!
 # - The only trick is that heap may empty if next enqueue task start time is later than last
 #   task's final time, so in that case just advance cur_time and push tasks again (not just 1!).
+import heapq
+
+# Time: O(n*logn) both for sorting and for pushing and popping
+# Space: O(n) for the extra space of keeping sorted tasks and the heap
 class Solution:
     def getOrder(self, tasks: List[List[int]]) -> List[int]:
         # We need to sort tasks by enqueue time, so first save the task label.

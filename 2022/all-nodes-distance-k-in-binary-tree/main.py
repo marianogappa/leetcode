@@ -1,15 +1,15 @@
-# Definition for a binary tree node.
-# class TreeNode:
-#     def __init__(self, x):
-#         self.val = x
-#         self.left = None
-#         self.right = None
-
 # This may not be the most succinct strategy but it's the most intuitive to me.
-# Optimise time by making path a deque rather than a list.
 #
+# Optimise time by making path a deque rather than a list.
+
 # Time: O(n) two dfs'. This assumes using a deque for building path though.
 # Space: O(n) technically O(h) but h could be n.
+class TreeNode:
+    def __init__(self, x):
+        self.val = x
+        self.left = None
+        self.right = None
+
 class Solution:
     def distanceK(self, root: TreeNode, target: TreeNode, k: int) -> List[int]:
         # First, find path to target. This will inform the distance between

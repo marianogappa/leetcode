@@ -1,12 +1,13 @@
-# Time: O(n)
-# Space: O(n)
-#
 # Exercise is straightforward but has a million edge cases: key is naming things properly.
+#
 # Analyze every line:
 # - On files, path length should be checked and a max len kept.
 # - On directories, a length of the current directory structure should be calculated and appended into a stack.
 # - On both, how many dirs it went back, forward must be calculated, and the stack must be updated. It is incredibly
 #   tricky to figure out how to do this properly.
+
+# Time: O(n)
+# Space: O(n)
 class Solution:
     def lengthLongestPath(self, input: str) -> int:
         max_len: int = 0

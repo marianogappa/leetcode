@@ -5,6 +5,7 @@
 # - Put must add node on head, and possibly evict node from tail
 #
 # Just watch the million edge cases and separate into smaller sub-operations.
+
 class Node:
     def __init__(self, key, val: int, prev: Optional['Node'] = None, next: Optional['Node'] = None):
         self.key = key

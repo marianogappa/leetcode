@@ -1,12 +1,12 @@
-from typing import List
-
-# Time: O(n)
-# Space: O(n)
-#
 # Solvable with a sliding-window. Note that this is simple because arr has no negatives nor zeroes.
 #
 # The tricky part is finding non-overlapping subarrays. By keeping a "best subarray up to ith", we
 # can consult it upon finding each subarray, checking best subarray up to "before start of current".
+
+from typing import List
+
+# Time: O(n)
+# Space: O(n)
 class Solution:
     def minSumOfLengths(self, arr: List[int], target: int) -> int:
         start = running_sum = 0

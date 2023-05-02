@@ -1,8 +1,3 @@
-from sortedcontainers import SortedList
-
-# Time: O(nlogn) for n calls of book, each one being O(logn)
-# Space: O(n) to build and maintain the SortedList
-#
 # The issue of minimising overlap checks requires keeping the
 # bookings in some sort order.
 #
@@ -20,7 +15,10 @@ from sortedcontainers import SortedList
 # current index to know whether there's overlap. Careful that
 # left and current may both not exist, and that's it.
 
+from sortedcontainers import SortedList
 
+# Time: O(nlogn) for n calls of book, each one being O(logn)
+# Space: O(n) to build and maintain the SortedList
 class MyCalendar:
 
     def __init__(self):

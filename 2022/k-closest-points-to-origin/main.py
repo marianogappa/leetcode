@@ -1,9 +1,3 @@
-from typing import List
-from random import randint
-
-# Time: O(n) average O(n^2) with very unlucky pivots
-# Space: O(1)
-#
 # Since the k smallest elements don't need to be sorted, we can find kth smallest with quickselect
 # and return the smaller partition including it. This achieves linear time on average, so should
 # be faster than doing heapq.nsmallest.
@@ -11,6 +5,12 @@ from random import randint
 # An annoying trick here is to use <= in the partition comparison, because otherwise there's a test case
 # where all the points are equal, so the pivot will be equal to all values and end up at the end. At least
 # with <= the algorithm will do (pivot+1, right) so it will eventually finish.
+
+from typing import List
+from random import randint
+
+# Time: O(n) average O(n^2) with very unlucky pivots
+# Space: O(1)
 class Solution:
     def kClosest(self, points: List[List[int]], k: int) -> List[List[int]]:
         quickselect(points, 0, len(points)-1, k)

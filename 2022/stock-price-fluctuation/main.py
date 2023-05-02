@@ -1,3 +1,10 @@
+# In principle it would be trivial to just keep track of max, min and latest, but the issue is that updates can
+# override invalid values, which requires keeping track of the "previous max, min & latest" recursively. For this reason,
+# one must explore the most efficient way of keeping a live sorted list of numbers: heaps! But heaps have one flaw:
+# how do you delete? Simplest way to deal with this problem is to not delete them, but to know if they are outdated or
+# not by keeping a hashmap of latest value by timestamp.
+#
+# The other solution to this is to use sorted maps.
 import heapq
 
 # Space: O(3n) = O(n)
@@ -13,16 +20,6 @@ import heapq
 #
 # Minimum:
 #     Time: O(1 amortized) because in a very unfortunate case that heap is filled with outdated values it could be linear
-#
-# In principle it would be trivial to just keep track of max, min and latest, but the issue is that updates can
-# override invalid values, which requires keeping track of the "previous max, min & latest" recursively. For this reason,
-# one must explore the most efficient way of keeping a live sorted list of numbers: heaps! But heaps have one flaw:
-# how do you delete? Simplest way to deal with this problem is to not delete them, but to know if they are outdated or
-# not by keeping a hashmap of latest value by timestamp.
-#
-# The other solution to this is to use sorted maps.
-
-
 class StockPrice:
 
     def __init__(self):

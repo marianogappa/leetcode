@@ -1,10 +1,8 @@
 # Very simple if you figure out the trick.
 #
 # Pick a random word and get the guesses. If not done, the secret word must have EQUAL matches to this random guess.
-# Use this knowledge to build a new word list with only the words that do. Then repeat. You'll find it.
 #
-# Time: O(a*n) where n is the whole content of words, and a is the number of allowed guesses (as an upper bound).
-# Space: O(a*n) same logic, as we create a new word list every time.
+# Use this knowledge to build a new word list with only the words that do. Then repeat. You'll find it.
 
 # """
 # This is Master's API interface.
@@ -14,6 +12,8 @@
 #     def guess(self, word: str) -> int:
 from random import randint
 
+# Time: O(a*n) where n is the whole content of words, and a is the number of allowed guesses (as an upper bound).
+# Space: O(a*n) same logic, as we create a new word list every time.
 class Solution:
     def findSecretWord(self, words: List[str], master: 'Master') -> None:
         # This is just to not loop forever

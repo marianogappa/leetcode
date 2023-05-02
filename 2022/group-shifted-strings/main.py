@@ -1,9 +1,9 @@
-# Time: O(n*k) where n is length of strings and k is the length of the largetst string
-# Space: O(n*k) same as above
-#
 # To avoid the quadratic comparisons, a linear solution is to hashmap based on a tuple of the distances between letters.
+
 from collections import defaultdict
 
+# Time: O(n*k) where n is length of strings and k is the length of the largetst string
+# Space: O(n*k) same as above
 class Solution:
     def groupStrings(self, strings: List[str]) -> List[List[str]]:
         result = defaultdict(list[str])

@@ -1,12 +1,12 @@
-# Time: O(nlogn) where n is len(weights)
-# Space: O(log n) for the binary search stack. Iterative binary search would improve to O(1).
-#
 # Brute force solution: if capacity == sum(weights) => days == 1. So do a for-loop that decrements
 # capacity, until days is higher than the specified value. The candidate capacity right before the
 # first invalid one is the right one.
 #
 # How can we improve on the brute force solution? Instead of looping over all candidates, binary
 # search over them! That's it.
+
+# Time: O(nlogn) where n is len(weights)
+# Space: O(log n) for the binary search stack. Iterative binary search would improve to O(1).
 class Solution:
     def shipWithinDays(self, weights: List[int], days: int) -> int:
         return binary_search(max(weights), sum(weights), weights, days)

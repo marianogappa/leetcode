@@ -1,12 +1,10 @@
-from typing import Optional
-
 # It's trivial but has a million tricky parts.
-#
-# Time: O(1)
-# Space: O(1)
 #
 # Intuition: from right to left flip the first decreasing digit with the first digit larger than it (again r-to-l).
 #            Then, sort ascending all numbers after that first descending digit.
+
+from typing import Optional
+
 #
 # Example: 2147483476
 #          2147483[4]76   first decreasing digit is 4
@@ -15,6 +13,9 @@ from typing import Optional
 #          21474836[74]   all numbers after first descending digit
 #          21474836[47]   sort them ascending
 #          2147483647     done! Remember to make sure it doesn't exceed 2^31-1
+
+# Time: O(1)
+# Space: O(1)
 class Solution:
     def nextGreaterElement(self, n: int) -> int:
         # Getting the reversed digits makes everything easier

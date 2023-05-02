@@ -1,8 +1,8 @@
-# Time: O(n*logn)
-# Space: O(n)
-#
 # Straightforward. Intervals can be greedily merged left to right
 # as long as they are sorted by start ascending.
+
+# Time: O(n*logn)
+# Space: O(n)
 class Solution:
     def merge(self, intervals: List[List[int]]) -> List[List[int]]:
         sorted_intervals = sorted(intervals)

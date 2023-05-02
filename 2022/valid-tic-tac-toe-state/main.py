@@ -1,10 +1,8 @@
-from collections import Counter
-
-# Time: O(1)
-# Space: O(1)
-#
 # It's straightforward, but just make sure to spend sufficient time
 # looking at the possible rules and look for counterexamples.
+from collections import Counter
+# Time: O(1)
+# Space: O(1)
 class Solution:
     def validTicTacToe(self, board: List[str]) -> bool:
         freqs = Counter(f"{board[0]}{board[1]}{board[2]}")

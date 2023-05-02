@@ -1,28 +1,27 @@
+# This algoritm is incredibly simple but it's a brainf*** to figure out why it works.
+#
+# First, intuition on how to solve the exercise:
+#
+# The shortest palindrome is the one that adds the minimum prefix to s, right?
+#
+# e.g. "radar" is a palindrome. For "radarhi", adding a "ih": "ih[radar]hi".
+# e.g. "hiradar" => "radari[h]iradar".
+#
+# The strategy is to find the longest palindrome that starts at s[0], and prepend the reverse of the rest of s.
+# Unfortunately, answering "longest palindrome that starts at s[0]" is quadratic.
+#
+# Remember the KMP table? It calculates the longest prefix of the pattern that equals the suffix up at the ith
+# character, and it's calculated in linear time.
+#
+# So consider "radarhi|ihradar": the last number on the KMP table would answer the longest prefix that equals the
+# suffix at the end of the string, that is, that "matches its reverse": so the longest palindrome starting at 0!
+#
+# Note that if a character is not added in the middle, the result could potentially be larger than "s".
+#
+# Once we know the longest prefix, just prepend the part of the reverse that is not part of the palindrome, to "s".
 class Solution:
     # Time: O(s)
     # Space: O(s)
-    #
-    # This algoritm is incredibly simple but it's a brainf*** to figure out why it works.
-    #
-    # First, intuition on how to solve the exercise:
-    #
-    # The shortest palindrome is the one that adds the minimum prefix to s, right?
-    #
-    # e.g. "radar" is a palindrome. For "radarhi", adding a "ih": "ih[radar]hi".
-    # e.g. "hiradar" => "radari[h]iradar".
-    #
-    # The strategy is to find the longest palindrome that starts at s[0], and prepend the reverse of the rest of s.
-    # Unfortunately, answering "longest palindrome that starts at s[0]" is quadratic.
-    #
-    # Remember the KMP table? It calculates the longest prefix of the pattern that equals the suffix up at the ith
-    # character, and it's calculated in linear time.
-    #
-    # So consider "radarhi|ihradar": the last number on the KMP table would answer the longest prefix that equals the
-    # suffix at the end of the string, that is, that "matches its reverse": so the longest palindrome starting at 0!
-    #
-    # Note that if a character is not added in the middle, the result could potentially be larger than "s".
-    #
-    # Once we know the longest prefix, just prepend the part of the reverse that is not part of the palindrome, to "s".
     def shortestPalindrome(self, s: str) -> str:
         reverse_s = s[::-1]
         lps = calculate_longest_prefix_suffix(f"{s}|{reverse_s}")

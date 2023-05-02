@@ -1,11 +1,10 @@
+# Intuition #1: movement algorithm is ALWAYS: moving once horizontally (left or right) and then once vertically (down).
+# Intuition #2: the delta of horizontal movement is given by the number in the cell: next_x = x + grid[y][x].
+# Intuition #3: you can only move horizontally if the source and destination cells have the same number!
 from typing import List
 
 # Time: O(x*y) solve for every x, each solution iterates y times
 # Space: O(1) or O(x) if solution space counts
-#
-# Intuition #1: movement algorithm is ALWAYS: moving once horizontally (left or right) and then once vertically (down).
-# Intuition #2: the delta of horizontal movement is given by the number in the cell: next_x = x + grid[y][x].
-# Intuition #3: you can only move horizontally if the source and destination cells have the same number!
 class Solution:
     def findBall(self, grid: List[List[int]]) -> List[int]:
         # Solve exercise for every starting column

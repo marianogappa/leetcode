@@ -1,10 +1,3 @@
-# Definition for a binary tree node.
-# class TreeNode:
-#     def __init__(self, val=0, left=None, right=None):
-#         self.val = val
-#         self.left = left
-#         self.right = right
-
 # Very trivial if you know the trick. Use a stack and do this:
 #
 # To get the "next" node, consume to the left until you can't.
@@ -13,6 +6,12 @@
 # if it exists, and then consume to the left again.
 #
 # Repeat until you run out of nodes in the stack.
+
+class TreeNode:
+    def __init__(self, val=0, left=None, right=None):
+        self.val = val
+        self.left = left
+        self.right = right
 class BSTIterator:
     # Time: O(h)
     # Space: O(h)
@@ -38,8 +37,3 @@ class BSTIterator:
     # Time: O(1)
     def hasNext(self) -> bool:
         return len(self.stack) > 0
-
-# Your BSTIterator object will be instantiated and called as such:
-# obj = BSTIterator(root)
-# param_1 = obj.next()
-# param_2 = obj.hasNext()

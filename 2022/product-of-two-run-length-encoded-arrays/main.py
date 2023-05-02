@@ -1,12 +1,11 @@
-from typing import List
-
-# Time: O(n) where n == len(encoded1)
-# Space: O(n)
-#
 # Decompressing the RLEs is not feasible due to space constraints. Try to multiply the RLEs directly.
 #
 # Traverse the encoded lists with two pointers, and decompose the "current" tuple with the largest count into two
 # tuples, such that the first one matches the count of the one with the smallest count.
+from typing import List
+
+# Time: O(n) where n == len(encoded1)
+# Space: O(n)
 class Solution:
     def findRLEArray(self, encoded1: List[List[int]], encoded2: List[List[int]]) -> List[List[int]]:
         return self.multiply(encoded1, encoded2)

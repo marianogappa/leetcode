@@ -1,13 +1,14 @@
+# Available servers seem to be sorted by weight and index, with reclaimed servers
+# being added online, not to bottom nor top. This suggests available servers should be a min-heap.
+#
+# When picking up a task, servers are popped from the heap and become busy until a known time which
+# can be earlier, later or same to other busy servers. To reclaim busy servers, we need to "peek" the
+# earliest reclaim server time efficiently. That sounds like another min-heap.
+
 # Time: O(t*log(s))
 # Space: O(s)
 class Solution:
     def assignTasks(self, servers: List[int], tasks: List[int]) -> List[int]:
-        # Available servers seem to be sorted by weight and index, with reclaimed servers
-        # being added online, not to bottom nor top. This suggests available servers should be a min-heap.
-        #
-        # When picking up a task, servers are popped from the heap and become busy until a known time which
-        # can be earlier, later or same to other busy servers. To reclaim busy servers, we need to "peek" the
-        # earliest reclaim server time efficiently. That sounds like another min-heap.
         busy_servers = []
 
         free_servers = []

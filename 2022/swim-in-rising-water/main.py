@@ -1,10 +1,9 @@
+# It's dijkstra but the distances & neighbors can be computed dynamically.
 from typing import List
 import heapq
 
 # Time: O(n*n*logn*n)
 # Space: O(n*n)
-#
-# It's dijkstra but the distances & neighbors can be computed dynamically.
 class Solution:
     def swimInWater(self, grid: List[List[int]]) -> int:
         # Dijkstra setup

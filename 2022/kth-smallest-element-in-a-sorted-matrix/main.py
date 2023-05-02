@@ -1,17 +1,15 @@
-import heapq
-
 # Whenever an exercise says "kth element", always think of heaps.
 #
 # Put the first row in a min-heap. Then, "replace" k times (i.e. pop and push immediately) the min element with the element
 # right below it. Both operations should be logarithmic (to the size of the heap which is one row). The k-th value popped
 # is the one to return.
 #
-# Time: O(k log r) where r is the length of a row of the matrix
-# Space: O(r)
-#
 # TODO: investigate the constant memory solution of using binary search.
 
+import heapq
 
+# Time: O(k log r) where r is the length of a row of the matrix
+# Space: O(r)
 class Solution:
     def kthSmallest(self, matrix: list[list[int]], k: int) -> int:
         # Space: O(r) where r is the size of a row. We will replace items but won't add any so that's the space complexity.

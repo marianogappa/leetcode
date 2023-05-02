@@ -1,5 +1,3 @@
-from typing import List
-
 # It's trivial but watch the edge cases!
 #
 # Carefully write functions for checking for overlap and calculating intersection.
@@ -9,7 +7,9 @@ from typing import List
 # - EDGE CASE! If the pair of intervals end at the same number, then advance both cursors.
 # - Otherwise, advance the cursor with the smallest interval end. The later ending interval may participate in next.
 # - Intersections don't need to be merged because they cannot overlap. This is because intervals are disjoint.
-#
+
+from typing import List
+
 # Time: O(n)
 # Space: O(1) unless solution space counts in which case O(n)
 class Solution:

@@ -1,53 +1,52 @@
+# If the "in" with set is not optimal, a Trie can be used to make the time linear.
+# This solution relies on converting the string to a list of tokens, which makes the space linear.
+# With the Trie solution, each time a token is popped, one could traverse the Trie rather than store the token,
+# making the space constant.
+# 
+# 
+# Valid Number formats:
+#     
+# 1) Integer
+# 
+# +1
+# 1
+# 
+# 2) Decimal Number:
+#     
+# +1.
+# 1.
+# +1.1
+# 1.1
+# +.1
+# .1
+# 
+# 3) Integer, 'e' or 'E', Integer:
+# 
+# +1e1
+# 1e1
+# 
+# +1e+1
+# 1e+1
+# 
+# 4) Decimal Number, 'e' or 'E', Integer:
+#     
+# +1.e1
+# 1.e1
+# +1.1e1
+# 1.1e1
+# +.1e1
+# .1e1
+# 
+# +1.e+1
+# 1.e+1
+# +1.1e+1
+# 1.1e+1
+# +.1e+1
+# .1e+1
 class Solution:
     """
         Time: O(n)
         Space: O(n)
-
-        If the "in" with set is not optimal, a Trie can be used to make the time linear.
-        This solution relies on converting the string to a list of tokens, which makes the space linear.
-        With the Trie solution, each time a token is popped, one could traverse the Trie rather than store the token,
-        making the space constant.
-
-
-        Valid Number formats:
-            
-        1) Integer
-        
-        +1
-        1
-        
-        2) Decimal Number:
-            
-        +1.
-        1.
-        +1.1
-        1.1
-        +.1
-        .1
-
-        3) Integer, 'e' or 'E', Integer:
-        
-        +1e1
-        1e1
-
-        +1e+1
-        1e+1
-        
-        4) Decimal Number, 'e' or 'E', Integer:
-            
-        +1.e1
-        1.e1
-        +1.1e1
-        1.1e1
-        +.1e1
-        .1e1
-        
-        +1.e+1
-        1.e+1
-        +1.1e+1
-        1.1e+1
-        +.1e+1
-        .1e+1
     """
     def isNumber(self, s: str) -> bool:
         parser = Parser(s)

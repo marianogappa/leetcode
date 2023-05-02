@@ -1,21 +1,20 @@
+# BFS works better, because on each level "steps += 1", and when you reach target it HAS to be
+# the shortest way.
+# 
+# The only trick is how to deal with obstacles. Obstacles are the reason Dijkstra & DFS are
+# problematic.
+# 
+# In BFS & DFS, there's the issue of arriving at the same node twice, so a "visited" set is
+# necessary. However, one may go on one path and reach two many obstacles, and then try a
+# different path that is longer but has less obstacles and reaches target! So how to solve it?
+# 
+# Make the "visited" set a dict, and store how many obstacles can be eliminated. Instead of not
+# allowing visiting a visited node, allow it only if the current number of obstacles left is
+# higher than the last time it was visited.
 class Solution:
     """
     Time: O(mnk)
     Space: O(mn)
-
-    BFS works better, because on each level "steps += 1", and when you reach target it HAS to be
-    the shortest way.
-
-    The only trick is how to deal with obstacles. Obstacles are the reason Dijkstra & DFS are
-    problematic.
-
-    In BFS & DFS, there's the issue of arriving at the same node twice, so a "visited" set is
-    necessary. However, one may go on one path and reach two many obstacles, and then try a
-    different path that is longer but has less obstacles and reaches target! So how to solve it?
-
-    Make the "visited" set a dict, and store how many obstacles can be eliminated. Instead of not
-    allowing visiting a visited node, allow it only if the current number of obstacles left is
-    higher than the last time it was visited.
     """
     def shortestPath(self, grid: List[List[int]], k: int) -> int:
         queue = deque()

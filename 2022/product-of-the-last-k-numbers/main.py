@@ -17,7 +17,7 @@
 # There's a simple solution for that though: just start the
 # running product again after a zero, and deal with negative
 # index overflows as an edge case.
-#
+
 # Space: O(n)
 class ProductOfNumbers:
 
