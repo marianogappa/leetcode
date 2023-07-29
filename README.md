@@ -1,4 +1,4 @@
-## 2022 Leetcode exercises (116 solved)
+## 2022 Leetcode exercises (117 solved)
 
 |Title|Leetcode|My Solution|
 |-----|:--------:|:---------:|
@@ -53,6 +53,7 @@
 |K closest points to origin|[[Link]](https://leetcode.com/problems/k-closest-points-to-origin)|[[Link]](2022/k-closest-points-to-origin)|
 |Kth largest element in an array|[[Link]](https://leetcode.com/problems/kth-largest-element-in-an-array)|[[Link]](2022/kth-largest-element-in-an-array)|
 |Kth smallest element in a sorted matrix|[[Link]](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix)|[[Link]](2022/kth-smallest-element-in-a-sorted-matrix)|
+|Letter combinations of a phone number|[[Link]](https://leetcode.com/problems/letter-combinations-of-a-phone-number)|[[Link]](2022/letter-combinations-of-a-phone-number)|
 |Longest absolute file path|[[Link]](https://leetcode.com/problems/longest-absolute-file-path)|[[Link]](2022/longest-absolute-file-path)|
 |Longest arithmetic subsequence of given difference|[[Link]](https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference)|[[Link]](2022/longest-arithmetic-subsequence-of-given-difference)|
 |Longest string chain|[[Link]](https://leetcode.com/problems/longest-string-chain)|[[Link]](2022/longest-string-chain)|
