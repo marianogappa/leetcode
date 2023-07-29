@@ -1,4 +1,4 @@
-## 2022 Leetcode exercises (115 solved)
+## 2022 Leetcode exercises (116 solved)
 
 |Title|Leetcode|My Solution|
 |-----|:--------:|:---------:|
@@ -111,6 +111,7 @@
 |Time needed to inform all employees|[[Link]](https://leetcode.com/problems/time-needed-to-inform-all-employees)|[[Link]](2022/time-needed-to-inform-all-employees)|
 |Top k frequent elements|[[Link]](https://leetcode.com/problems/top-k-frequent-elements)|[[Link]](2022/top-k-frequent-elements)|
 |Top k frequent words|[[Link]](https://leetcode.com/problems/top-k-frequent-words)|[[Link]](2022/top-k-frequent-words)|
+|Trapping rain water|[[Link]](https://leetcode.com/problems/trapping-rain-water)|[[Link]](2022/trapping-rain-water)|
 |Unique paths|[[Link]](https://leetcode.com/problems/unique-paths)|[[Link]](2022/unique-paths)|
 |Valid number|[[Link]](https://leetcode.com/problems/valid-number)|[[Link]](2022/valid-number)|
 |Valid square|[[Link]](https://leetcode.com/problems/valid-square)|[[Link]](2022/valid-square)|
