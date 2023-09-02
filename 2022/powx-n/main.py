@@ -1,3 +1,4 @@
+# wip!
 # This makes perfect sense once you think in binary!
 #
 # For 2 ^ 10:

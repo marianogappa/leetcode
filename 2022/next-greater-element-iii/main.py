@@ -1,3 +1,4 @@
+# wip!
 # It's trivial but has a million tricky parts.
 #
 # Intuition: from right to left flip the first decreasing digit with the first digit larger than it (again r-to-l).

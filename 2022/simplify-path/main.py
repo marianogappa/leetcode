@@ -1,3 +1,4 @@
+# wip!
 class Solution:
     def simplifyPath(self, path: str) -> str:
         stack = parse_path(path)

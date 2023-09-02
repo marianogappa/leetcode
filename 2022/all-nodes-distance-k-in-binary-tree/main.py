@@ -1,3 +1,4 @@
+# wip!
 # This may not be the most succinct strategy but it's the most intuitive to me.
 #
 # Optimise time by making path a deque rather than a list.

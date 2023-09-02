@@ -1,3 +1,4 @@
+# wip!
 # If the "in" with set is not optimal, a Trie can be used to make the time linear.
 # This solution relies on converting the string to a list of tokens, which makes the space linear.
 # With the Trie solution, each time a token is popped, one could traverse the Trie rather than store the token,

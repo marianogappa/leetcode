@@ -1,3 +1,4 @@
+# wip!
 # If any two stones share a col or row, they're part of the same "group".
 # In a group, you can always iteratively remove stones in some order until there's only one left.
 #

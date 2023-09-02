@@ -1,3 +1,4 @@
+# wip!
 # Easy but too many edge cases. Just figure out the wording algorithm. There are special
 # cases for <=10, <=20, and the functions for <100 and <1000 can be reused by larger number
 # implementations. After 1000, there's a pattern: [2] Million [345] Thousand [123].

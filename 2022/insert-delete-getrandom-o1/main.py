@@ -1,3 +1,4 @@
+# wip!
 # The intuitions are pretty clear: 
 #  - For insert+remove in O(1), a set is all that's needed.
 #  - With a set, getRandom cannot be done in O(1).

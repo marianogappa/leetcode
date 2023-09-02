@@ -1,3 +1,4 @@
+# wip!
 # BFS works better, because on each level "steps += 1", and when you reach target it HAS to be
 # the shortest way.
 # 

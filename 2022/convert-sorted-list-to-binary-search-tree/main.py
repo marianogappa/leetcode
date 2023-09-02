@@ -1,3 +1,4 @@
+# wip!
 # Each recursive node in the BST should be at the middle of the list.
 # So, recursively split the list in half (use slow/fast pointer), use
 # middle node (or beginning of right-side list) as root.

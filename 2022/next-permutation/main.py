@@ -1,3 +1,4 @@
+# wip!
 # Intuition:
 # 
 # - If the digits are descending, there's no greater possible: [3, 2, 1]

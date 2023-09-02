@@ -1,3 +1,4 @@
+# wip!
 # Very simple if you figure out the trick.
 #
 # Pick a random word and get the guesses. If not done, the secret word must have EQUAL matches to this random guess.

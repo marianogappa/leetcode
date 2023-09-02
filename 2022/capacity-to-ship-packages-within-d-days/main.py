@@ -1,3 +1,4 @@
+# wip!
 # Brute force solution: if capacity == sum(weights) => days == 1. So do a for-loop that decrements
 # capacity, until days is higher than the specified value. The candidate capacity right before the
 # first invalid one is the right one.

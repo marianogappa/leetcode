@@ -1,3 +1,4 @@
+# wip!
 # BFS looks natural for this, because a DFS would not finish in an infinite tree. Still, some 
 # optimizations are necessary, since vanilla BFS times out.
 #

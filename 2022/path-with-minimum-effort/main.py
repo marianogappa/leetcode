@@ -1,3 +1,4 @@
+# wip!
 # The exercise is asking to calculate the "minimum effort" in a graph, so pretty much Dijkstra.
 # The only "differences", if any:
 # 1) Normally we have an adjacency list, and here we have a matrix, so up to 4 edges per vertex.

@@ -1,3 +1,4 @@
+# wip!
 # You pretty much have to know the trick to pull this one off, but then it's easy.
 # The problem with the intuitive strategy is that the data structure is sparse, and you cannot
 # afford to check all empty slots or it will TLE.

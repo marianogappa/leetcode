@@ -1,33 +1,28 @@
 # Straightforward. Intervals can be greedily merged left to right
 # as long as they are sorted by start ascending.
 
-# Time: O(n*logn)
-# Space: O(n)
+# Time: O(n*logn) because we're sorting
+# Space: O(n) because we're creating a new list
 class Solution:
     def merge(self, intervals: List[List[int]]) -> List[List[int]]:
-        sorted_intervals = sorted(intervals)
+        sorted_intervals = sorted(intervals) # by start ascending (first list element)
 
-        result = [sorted_intervals[0]]
-        for i in range(1, len(sorted_intervals)):
-            if is_overlap(result[-1], sorted_intervals[i]):
-                result[-1] = merge_intervals(result[-1], sorted_intervals[i])
+        # We know the first interval is the first, because of the sorting
+        merged_intervals = [sorted_intervals[0]]
+
+        # For all other intervals, if they overlap with last, merge them
+        # Otherwise, append them! That's it!
+        for interval in sorted_intervals[1:]:
+            if is_overlapping(merged_intervals[-1], interval):
+                merged_intervals[-1] = merge_intervals(merged_intervals[-1], interval)
             else:
-                result.append(sorted_intervals[i])
+                merged_intervals.append(interval)
+        
+        return merged_intervals
 
-        return result
+def is_overlapping(i1: list[int], i2: list[int]) -> bool:
+    return i1[1] >= i2[0] # >= because equal number considered overlapping
 
-
-def merge_intervals(i1, i2: List[int]) -> List[int]:
+# The min function isn't necessary because we know i1[0] <= i2[0] (because of sorting)
+def merge_intervals(i1: list[int], i2: list[int]) -> list[int]:
     return [min(i1[0], i2[0]), max(i1[1], i2[1])]
-
-
-def is_overlap(i1, i2: List[int]) -> bool:
-    return min_interval(i1, i2)[1] >= max_interval(i1, i2)[0]
-
-
-def min_interval(i1, i2: List[int]) -> List[int]:
-    return i1 if i1[0] <= i2[0] else i2
-
-
-def max_interval(i1, i2: List[int]) -> List[int]:
-    return i1 if i1[0] > i2[0] else i2

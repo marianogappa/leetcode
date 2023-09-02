@@ -1,3 +1,4 @@
+# wip!
 # In principle it would be trivial to just keep track of max, min and latest, but the issue is that updates can
 # override invalid values, which requires keeping track of the "previous max, min & latest" recursively. For this reason,
 # one must explore the most efficient way of keeping a live sorted list of numbers: heaps! But heaps have one flaw:

@@ -1,3 +1,4 @@
+# wip!
 # Intuition #1: movement algorithm is ALWAYS: moving once horizontally (left or right) and then once vertically (down).
 # Intuition #2: the delta of horizontal movement is given by the number in the cell: next_x = x + grid[y][x].
 # Intuition #3: you can only move horizontally if the source and destination cells have the same number!

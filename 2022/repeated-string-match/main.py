@@ -1,3 +1,4 @@
+# wip!
 # Note: if the "in" Python keyword is allowed here, using KMP is redundant.
 #
 # - Obviously, as long as "a" is smaller than "b", "b" cannot be a substring.

@@ -1,3 +1,4 @@
+# wip!
 # To avoid the quadratic comparisons, a linear solution is to hashmap based on a tuple of the distances between letters.
 
 from collections import defaultdict

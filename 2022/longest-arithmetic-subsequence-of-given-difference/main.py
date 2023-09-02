@@ -1,3 +1,4 @@
+# wip!
 # Intuition: 
 # - Store every number in the array as a key in a "subsequence_lens" dict.
 # - As value, in principle use: 1 (i.e.: at least a sequence of len 1 starts here).

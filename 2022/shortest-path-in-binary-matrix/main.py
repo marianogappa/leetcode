@@ -1,3 +1,4 @@
+# wip!
 # Because the best path could potentially go up and left, there's no linear solution using memo.
 # The zeroes in the grid are vertices, and their connected vertices form edges. Moving from one
 # vertex to another has a cost of 1. This is straight up Dikstra!

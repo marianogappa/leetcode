@@ -1,3 +1,4 @@
+# wip!
 # It's straightforward, but just make sure to spend sufficient time
 # looking at the possible rules and look for counterexamples.
 from collections import Counter

@@ -1,3 +1,4 @@
+# wip!
 # The issue of minimising overlap checks requires keeping the
 # bookings in some sort order.
 #

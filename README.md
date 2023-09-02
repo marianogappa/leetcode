@@ -1,7 +1,8 @@
-## 2022 Leetcode exercises (117 solved)
+## 2022 Leetcode exercises (119 solved)
 
 |Title|Leetcode|My Solution|
 |-----|:--------:|:---------:|
+|3sum|[[Link]](https://leetcode.com/problems/3sum)|[[Link]](2022/3sum)|
 |All nodes distance k in binary tree|[[Link]](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree)|[[Link]](2022/all-nodes-distance-k-in-binary-tree)|
 |Angle between hands of a clock|[[Link]](https://leetcode.com/problems/angle-between-hands-of-a-clock)|[[Link]](2022/angle-between-hands-of-a-clock)|
 |Balance a binary search tree|[[Link]](https://leetcode.com/problems/balance-a-binary-search-tree)|[[Link]](2022/balance-a-binary-search-tree)|
@@ -119,6 +120,7 @@
 |Valid tic tac toe state|[[Link]](https://leetcode.com/problems/valid-tic-tac-toe-state)|[[Link]](2022/valid-tic-tac-toe-state)|
 |Vertical order traversal of a binary tree|[[Link]](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree)|[[Link]](2022/vertical-order-traversal-of-a-binary-tree)|
 |Where will the ball fall|[[Link]](https://leetcode.com/problems/where-will-the-ball-fall)|[[Link]](2022/where-will-the-ball-fall)|
+|Word search|[[Link]](https://leetcode.com/problems/word-search)|[[Link]](2022/word-search)|
 
 
 ## 2020 Leetcode exercises (111 solved)

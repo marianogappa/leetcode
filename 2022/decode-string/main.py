@@ -1,3 +1,4 @@
+# wip!
 # Straightforward if using proper abstractions. For a parseable grammar, not too complex to implement a token iterator.
 # Only 3 tokens exist: an int, a string or a closing bracket (opening bracket always comes after number so ignore it!)
 #

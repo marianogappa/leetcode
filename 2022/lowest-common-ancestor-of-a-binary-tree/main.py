@@ -1,3 +1,4 @@
+# wip!
 # Very straightforward: calculate path to both and find last node of common prefix.
 # Just remember to backtrack the partial path; every append must be constant time.
 

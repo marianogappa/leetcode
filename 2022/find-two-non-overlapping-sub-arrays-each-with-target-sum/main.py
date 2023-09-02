@@ -1,3 +1,4 @@
+# wip!
 # Solvable with a sliding-window. Note that this is simple because arr has no negatives nor zeroes.
 #
 # The tricky part is finding non-overlapping subarrays. By keeping a "best subarray up to ith", we

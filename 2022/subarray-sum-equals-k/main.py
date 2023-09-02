@@ -1,3 +1,4 @@
+# wip!
 # The linear solution is very unintuitive.
 #
 # If we construct a "sums" dict, we can check if (running_sum - k) exists on every step.

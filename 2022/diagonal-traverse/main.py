@@ -1,3 +1,4 @@
+# wip!
 # Since it's tricky to iterate in the required pattern, it's easier to always iterate
 # with the same delta (up-right), and reverse every second sub-path (linear time).
 #

@@ -1,3 +1,4 @@
+# wip!
 # Strategy: make a dbl-linked list (with head + tail) and a hashmap, and keep a size
 # - Hashmap goes from key to Node for O(1) get+update.
 # - With len(hashmap) we can check if size <= capacity, to know if put must evict.

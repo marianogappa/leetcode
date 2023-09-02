@@ -6,8 +6,8 @@
 # The trick:
 # - As you move, keep maximums on both sides: left_max & right_max.
 # - EUREKA: Only move the pointer that has the smaller maximum 🤯!
-# - This way, you know how much water the current position can trap: min(left_max, right_max) - height[current]
-#
+# - This way, you know how much water the current position can trap: `min(left_max, right_max) - height[current]`
+
 # Time: O(n)
 # Space: O(1)
 class Solution:

@@ -1,3 +1,4 @@
+# wip!
 # Very trivial if O(n) space is allowed: just get the sorted list of vals by running an in-order
 # dfs, and construct the BST by continuosly making the root the middle of the array and assigning
 # the left subarray to the left child, and the right subarray to the right child.

@@ -1,3 +1,4 @@
+# wip!
 # Intuition: put all words in a Trie (linear to words), then traverse Trie once
 # in reverse lexicographical order greedily keeping a max length word, only
 # traversing while current node is always a word stop. Should be linear to words too.

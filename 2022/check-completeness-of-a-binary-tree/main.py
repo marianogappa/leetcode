@@ -1,3 +1,4 @@
+# wip!
 # The most straightforward solution is to use BFS in this case.
 #
 # Strategy to satisfy all rules:

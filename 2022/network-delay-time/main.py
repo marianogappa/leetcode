@@ -1,3 +1,4 @@
+# wip!
 # This exercise is just running Dijkstra and finding the max of the minimum paths. Only trick is that if any of the
 # nodes stays as "inf" after running Dijkstra, the node is unreachable, so we must return -1.
 

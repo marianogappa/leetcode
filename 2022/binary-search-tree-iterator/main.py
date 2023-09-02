@@ -1,3 +1,4 @@
+# wip!
 # Very trivial if you know the trick. Use a stack and do this:
 #
 # To get the "next" node, consume to the left until you can't.
