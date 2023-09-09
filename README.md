@@ -1,4 +1,4 @@
-## 2022 Leetcode exercises (119 solved)
+## 2022 Leetcode exercises (120 solved)
 
 |Title|Leetcode|My Solution|
 |-----|:--------:|:---------:|
@@ -68,6 +68,7 @@
 |Maximum split of positive even integers|[[Link]](https://leetcode.com/problems/maximum-split-of-positive-even-integers)|[[Link]](2022/maximum-split-of-positive-even-integers)|
 |Maximum swap|[[Link]](https://leetcode.com/problems/maximum-swap)|[[Link]](2022/maximum-swap)|
 |Merge intervals|[[Link]](https://leetcode.com/problems/merge-intervals)|[[Link]](2022/merge-intervals)|
+|Merge k sorted lists|[[Link]](https://leetcode.com/problems/merge-k-sorted-lists)|[[Link]](2022/merge-k-sorted-lists)|
 |Minimum add to make parentheses valid|[[Link]](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid)|[[Link]](2022/minimum-add-to-make-parentheses-valid)|
 |Minimum area rectangle|[[Link]](https://leetcode.com/problems/minimum-area-rectangle)|[[Link]](2022/minimum-area-rectangle)|
 |Minimum cost to set cooking time|[[Link]](https://leetcode.com/problems/minimum-cost-to-set-cooking-time)|[[Link]](2022/minimum-cost-to-set-cooking-time)|
