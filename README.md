@@ -1,4 +1,4 @@
-## 2022 Leetcode exercises (120 solved)
+## 2022 Leetcode exercises (121 solved)
 
 |Title|Leetcode|My Solution|
 |-----|:--------:|:---------:|
@@ -76,6 +76,7 @@
 |Minimum path sum|[[Link]](https://leetcode.com/problems/minimum-path-sum)|[[Link]](2022/minimum-path-sum)|
 |Minimum remove to make valid parentheses|[[Link]](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses)|[[Link]](2022/minimum-remove-to-make-valid-parentheses)|
 |Minimum time difference|[[Link]](https://leetcode.com/problems/minimum-time-difference)|[[Link]](2022/minimum-time-difference)|
+|Minimum window substring|[[Link]](https://leetcode.com/problems/minimum-window-substring)|[[Link]](2022/minimum-window-substring)|
 |Most stones removed with same row or column|[[Link]](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column)|[[Link]](2022/most-stones-removed-with-same-row-or-column)|
 |My calendar i|[[Link]](https://leetcode.com/problems/my-calendar-i)|[[Link]](2022/my-calendar-i)|
 |Nested list weight sum|[[Link]](https://leetcode.com/problems/nested-list-weight-sum)|[[Link]](2022/nested-list-weight-sum)|
