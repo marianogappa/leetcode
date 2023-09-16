@@ -2,7 +2,7 @@
 #
 # Merging two sorted lists should be trivial, so the question is how to reuse to merge k:
 #
-# - Merge pairs of lists (with merge_2), 0 with 1, 2 with 3, etc,...
+# - Merge pairs of lists (with merge_2): 0 with 1, 2 with 3, etc, ...
 # - The result should be a list of merged pairs with half the length of original list.
 # - Keep merging resulting pairs until there's only 1 list left. Return it 💥
 
@@ -12,8 +12,8 @@
 #         self.val = val
 #         self.next = next
 class Solution:
-    # Time: O(l * log l)
-    # Space: O(l) or O(1) if reusing lists doesn't count as space
+    # Time: O(l * log l) where l is the total number of nodes in all lists
+    # Space: O(len(lists)) or O(1) if reusing lists doesn't count as space
     def mergeKLists(self, lists: List[Optional[ListNode]]) -> Optional[ListNode]:
         while len(lists) > 1:
             lists = [
@@ -53,5 +53,5 @@ def merge_2_sorted_lists(l1: Optional[ListNode], l2: Optional[ListNode]) -> Opti
 # ## Space complexity analysis (controversy as if this is constant or linear; discuss!):
 #
 # - Merging 2 is thought of `O(1)` because we just reassign the `.next`.
-# - On each merging step we recreate & garbage collect `lists`, but this is still `O(l)`.
+# - On each merging step we recreate & garbage collect `lists`, but this is still `O(len(lists))`.
 # - A more confusing algorithm is to reassign `lists` rather than recreate it. 🤷‍♂️
