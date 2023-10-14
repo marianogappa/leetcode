@@ -1,4 +1,4 @@
-## 2022 Leetcode exercises (124 solved)
+## 2022 Leetcode exercises (125 solved)
 
 |Title|Leetcode|My Solution|
 |-----|:--------:|:---------:|
@@ -11,6 +11,7 @@
 |Best time to buy and sell stock|[[Link]](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)|[[Link]](2022/best-time-to-buy-and-sell-stock)|
 |Best time to buy and sell stock ii|[[Link]](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii)|[[Link]](2022/best-time-to-buy-and-sell-stock-ii)|
 |Binary search tree iterator|[[Link]](https://leetcode.com/problems/binary-search-tree-iterator)|[[Link]](2022/binary-search-tree-iterator)|
+|Binary tree level order traversal|[[Link]](https://leetcode.com/problems/binary-tree-level-order-traversal)|[[Link]](2022/binary-tree-level-order-traversal)|
 |Binary tree right side view|[[Link]](https://leetcode.com/problems/binary-tree-right-side-view)|[[Link]](2022/binary-tree-right-side-view)|
 |Binary tree vertical order traversal|[[Link]](https://leetcode.com/problems/binary-tree-vertical-order-traversal)|[[Link]](2022/binary-tree-vertical-order-traversal)|
 |Buildings with an ocean view|[[Link]](https://leetcode.com/problems/buildings-with-an-ocean-view)|[[Link]](2022/buildings-with-an-ocean-view)|
