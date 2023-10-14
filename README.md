@@ -1,4 +1,4 @@
-## 2022 Leetcode exercises (122 solved)
+## 2022 Leetcode exercises (124 solved)
 
 |Title|Leetcode|My Solution|
 |-----|:--------:|:---------:|
@@ -67,6 +67,7 @@
 |Max consecutive ones iii|[[Link]](https://leetcode.com/problems/max-consecutive-ones-iii)|[[Link]](2022/max-consecutive-ones-iii)|
 |Maximum number of points with cost|[[Link]](https://leetcode.com/problems/maximum-number-of-points-with-cost)|[[Link]](2022/maximum-number-of-points-with-cost)|
 |Maximum split of positive even integers|[[Link]](https://leetcode.com/problems/maximum-split-of-positive-even-integers)|[[Link]](2022/maximum-split-of-positive-even-integers)|
+|Maximum subarray|[[Link]](https://leetcode.com/problems/maximum-subarray)|[[Link]](2022/maximum-subarray)|
 |Maximum swap|[[Link]](https://leetcode.com/problems/maximum-swap)|[[Link]](2022/maximum-swap)|
 |Merge intervals|[[Link]](https://leetcode.com/problems/merge-intervals)|[[Link]](2022/merge-intervals)|
 |Merge k sorted lists|[[Link]](https://leetcode.com/problems/merge-k-sorted-lists)|[[Link]](2022/merge-k-sorted-lists)|
@@ -99,6 +100,7 @@
 |Rle iterator|[[Link]](https://leetcode.com/problems/rle-iterator)|[[Link]](2022/rle-iterator)|
 |Rotate image|[[Link]](https://leetcode.com/problems/rotate-image)|[[Link]](2022/rotate-image)|
 |Search a 2d matrix ii|[[Link]](https://leetcode.com/problems/search-a-2d-matrix-ii)|[[Link]](2022/search-a-2d-matrix-ii)|
+|Serialize and deserialize binary tree|[[Link]](https://leetcode.com/problems/serialize-and-deserialize-binary-tree)|[[Link]](2022/serialize-and-deserialize-binary-tree)|
 |Shortest palindrome|[[Link]](https://leetcode.com/problems/shortest-palindrome)|[[Link]](2022/shortest-palindrome)|
 |Shortest path in a grid with obstacles elimination|[[Link]](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination)|[[Link]](2022/shortest-path-in-a-grid-with-obstacles-elimination)|
 |Shortest path in binary matrix|[[Link]](https://leetcode.com/problems/shortest-path-in-binary-matrix)|[[Link]](2022/shortest-path-in-binary-matrix)|
