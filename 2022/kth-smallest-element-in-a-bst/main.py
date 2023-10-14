@@ -2,6 +2,7 @@
 # list, and then return the kth-1 element. But it'd be O(n) space.
 #
 # Instead of a list, pass a counter and a value (BY REFERENCE!)
+#
 # When counter reaches 0, set the value and STOP TRAVERSING!
 #
 # - Trick to pass by reference: pass a list with one element.
