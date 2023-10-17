@@ -1,7 +1,8 @@
-## 2022 Leetcode exercises (125 solved)
+## 2022 Leetcode exercises (127 solved)
 
 |Title|Leetcode|My Solution|
 |-----|:--------:|:---------:|
+|01 matrix|[[Link]](https://leetcode.com/problems/01-matrix)|[[Link]](2022/01-matrix)|
 |3sum|[[Link]](https://leetcode.com/problems/3sum)|[[Link]](2022/3sum)|
 |All nodes distance k in binary tree|[[Link]](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree)|[[Link]](2022/all-nodes-distance-k-in-binary-tree)|
 |Angle between hands of a clock|[[Link]](https://leetcode.com/problems/angle-between-hands-of-a-clock)|[[Link]](2022/angle-between-hands-of-a-clock)|
@@ -49,6 +50,7 @@
 |H index|[[Link]](https://leetcode.com/problems/h-index)|[[Link]](2022/h-index)|
 |Happy number|[[Link]](https://leetcode.com/problems/happy-number)|[[Link]](2022/happy-number)|
 |Insert delete getrandom o1|[[Link]](https://leetcode.com/problems/insert-delete-getrandom-o1)|[[Link]](2022/insert-delete-getrandom-o1)|
+|Insert interval|[[Link]](https://leetcode.com/problems/insert-interval)|[[Link]](2022/insert-interval)|
 |Insert into a sorted circular linked list|[[Link]](https://leetcode.com/problems/insert-into-a-sorted-circular-linked-list)|[[Link]](2022/insert-into-a-sorted-circular-linked-list)|
 |Integer to english words|[[Link]](https://leetcode.com/problems/integer-to-english-words)|[[Link]](2022/integer-to-english-words)|
 |Interval list intersections|[[Link]](https://leetcode.com/problems/interval-list-intersections)|[[Link]](2022/interval-list-intersections)|
