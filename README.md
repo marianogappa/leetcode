@@ -1,4 +1,4 @@
-## 2022 Leetcode exercises (128 solved)
+## 2022 Leetcode exercises (129 solved)
 
 |Title|Leetcode|My Solution|
 |-----|:--------:|:---------:|
@@ -36,6 +36,7 @@
 |Dot product of two sparse vectors|[[Link]](https://leetcode.com/problems/dot-product-of-two-sparse-vectors)|[[Link]](2022/dot-product-of-two-sparse-vectors)|
 |Evaluate reverse polish notation|[[Link]](https://leetcode.com/problems/evaluate-reverse-polish-notation)|[[Link]](2022/evaluate-reverse-polish-notation)|
 |Exclusive time of functions|[[Link]](https://leetcode.com/problems/exclusive-time-of-functions)|[[Link]](2022/exclusive-time-of-functions)|
+|Find all anagrams in a string|[[Link]](https://leetcode.com/problems/find-all-anagrams-in-a-string)|[[Link]](2022/find-all-anagrams-in-a-string)|
 |Find all possible recipes from given supplies|[[Link]](https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies)|[[Link]](2022/find-all-possible-recipes-from-given-supplies)|
 |Find and replace in string|[[Link]](https://leetcode.com/problems/find-and-replace-in-string)|[[Link]](2022/find-and-replace-in-string)|
 |Find k closest elements|[[Link]](https://leetcode.com/problems/find-k-closest-elements)|[[Link]](2022/find-k-closest-elements)|
