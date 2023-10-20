@@ -1,53 +1,39 @@
-# wip!
-# Very straightforward: calculate path to both and find last node of common prefix.
-# Just remember to backtrack the partial path; every append must be constant time.
+# Build the paths to `p` & `q` via DFS, and return last matching value node between them.
 
-from typing import Optional
-
-class TreeNode:
-    def __init__(self, x, left = None, right = None):
-        self.val = x
-        self.left = left
-        self.right = right
-
-# Time: O(n) unless perfectly balanced tree in which case O(h)
-# Space: O(n) unless perfectly balanced tree in which case O(h)
+# Definition for a binary tree node.
+# class TreeNode:
+#     def __init__(self, x):
+#         self.val = x
+#         self.left = None
+#         self.right = None
 class Solution:
+    # Time: O(n) Since we might have to traverse the entire tree
+    # Space: O(n) Worst case: both nodes are at the bottom of a skewed tree
     def lowestCommonAncestor(self, root: 'TreeNode', p: 'TreeNode', q: 'TreeNode') -> 'TreeNode':
-        path_to_p = calculate_path(root, p, [root])
-        path_to_q = calculate_path(root, q, [root])
-        return calculate_prefix(path_to_p, path_to_q)
+        # Find individual paths to nodes
+        p_path = dfs(root, p, [root])
+        q_path = dfs(root, q, [root])
 
-
-def calculate_path(root, target: 'TreeNode', partial: list['TreeNode']) -> Optional[list['TreeNode']]:
-    if root is None:
-        return None
-
+        # Return last matching value node between paths
+        return [
+            p_path[i] for i in range(min(len(p_path), len(q_path)))
+            if p_path[i].val == q_path[i].val
+        ][-1]
+    
+def dfs(root: TreeNode, target: TreeNode, path: list[TreeNode]) -> TreeNode | None:
     if root == target:
-        return partial
+        return path
+    
+    if root.left:
+        path.append(root.left)
+        if dfs(root.left, target, path):
+            return path
+        path.pop() # Don't forget to backtrack
 
-    partial.append(root.left)
-    left_path = calculate_path(root.left, target, partial)
-    if left_path:
-        return left_path
+    if root.right:
+        path.append(root.right)
+        if dfs(root.right, target, path):
+            return path
+        path.pop() # Don't forget to backtrack
 
-    partial.pop()
-    partial.append(root.right)
-    right_path = calculate_path(root.right, target, partial)
-    if right_path:
-        return right_path
-
-    partial.pop()
     return None
-
-
-def calculate_prefix(path_a, path_b: list['TreeNode']) -> 'TreeNode':
-    for i in range(min(len(path_a), len(path_b))):
-        if path_a[i] != path_b[i]:
-            return path_a[i-1]
-
-    return path_a[min(len(path_a), len(path_b))-1]
-
-root = TreeNode(3,TreeNode(5, TreeNode(6), TreeNode(2, TreeNode(7), TreeNode(4))), TreeNode(1, TreeNode(0), TreeNode(8)))
-
-print(Solution().lowestCommonAncestor(root, root.left, root.right).val)
