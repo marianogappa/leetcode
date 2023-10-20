@@ -1,7 +1,7 @@
 # Strategy is to do a "running product" in the `range(start+1, end+1)`
 # and then in the range `(end-1, start-1, -1)`, and multiply those together.
 #
-# For example `[1, 2, 3, 4]``:
+# For example `[1, 2, 3, 4]`:
 #
 # - start with the zero value of multiplication: `[1, 1, 1, 1]`
 # - run a running product from `(start+1 -> end)`: `[1, 1*1, 1*1*2, 1*1*2*3] = [1, 1, 2, 6]`
