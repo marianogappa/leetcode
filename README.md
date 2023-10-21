@@ -1,4 +1,4 @@
-## 2022 Leetcode exercises (143 solved)
+## 2022 Leetcode exercises (144 solved)
 
 |Title|Leetcode|My Solution|
 |-----|:--------:|:---------:|
@@ -67,6 +67,7 @@
 |Letter combinations of a phone number|[[Link]](https://leetcode.com/problems/letter-combinations-of-a-phone-number)|[[Link]](2022/letter-combinations-of-a-phone-number)|
 |Longest absolute file path|[[Link]](https://leetcode.com/problems/longest-absolute-file-path)|[[Link]](2022/longest-absolute-file-path)|
 |Longest arithmetic subsequence of given difference|[[Link]](https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference)|[[Link]](2022/longest-arithmetic-subsequence-of-given-difference)|
+|Longest palindromic substring|[[Link]](https://leetcode.com/problems/longest-palindromic-substring)|[[Link]](2022/longest-palindromic-substring)|
 |Longest string chain|[[Link]](https://leetcode.com/problems/longest-string-chain)|[[Link]](2022/longest-string-chain)|
 |Longest substring without repeating characters|[[Link]](https://leetcode.com/problems/longest-substring-without-repeating-characters)|[[Link]](2022/longest-substring-without-repeating-characters)|
 |Longest word in dictionary|[[Link]](https://leetcode.com/problems/longest-word-in-dictionary)|[[Link]](2022/longest-word-in-dictionary)|
