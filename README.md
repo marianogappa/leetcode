@@ -1,9 +1,10 @@
-## 2022 Leetcode exercises (129 solved)
+## 2022 Leetcode exercises (143 solved)
 
 |Title|Leetcode|My Solution|
 |-----|:--------:|:---------:|
 |01 matrix|[[Link]](https://leetcode.com/problems/01-matrix)|[[Link]](2022/01-matrix)|
 |3sum|[[Link]](https://leetcode.com/problems/3sum)|[[Link]](2022/3sum)|
+|Accounts merge|[[Link]](https://leetcode.com/problems/accounts-merge)|[[Link]](2022/accounts-merge)|
 |All nodes distance k in binary tree|[[Link]](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree)|[[Link]](2022/all-nodes-distance-k-in-binary-tree)|
 |Angle between hands of a clock|[[Link]](https://leetcode.com/problems/angle-between-hands-of-a-clock)|[[Link]](2022/angle-between-hands-of-a-clock)|
 |Balance a binary search tree|[[Link]](https://leetcode.com/problems/balance-a-binary-search-tree)|[[Link]](2022/balance-a-binary-search-tree)|
@@ -22,12 +23,14 @@
 |Check if word can be placed in crossword|[[Link]](https://leetcode.com/problems/check-if-word-can-be-placed-in-crossword)|[[Link]](2022/check-if-word-can-be-placed-in-crossword)|
 |Clone graph|[[Link]](https://leetcode.com/problems/clone-graph)|[[Link]](2022/clone-graph)|
 |Coin change|[[Link]](https://leetcode.com/problems/coin-change)|[[Link]](2022/coin-change)|
+|Combination sum|[[Link]](https://leetcode.com/problems/combination-sum)|[[Link]](2022/combination-sum)|
 |Concatenation of array|[[Link]](https://leetcode.com/problems/concatenation-of-array)|[[Link]](2022/concatenation-of-array)|
 |Container with most water|[[Link]](https://leetcode.com/problems/container-with-most-water)|[[Link]](2022/container-with-most-water)|
 |Convert binary search tree to sorted doubly linked list|[[Link]](https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list)|[[Link]](2022/convert-binary-search-tree-to-sorted-doubly-linked-list)|
 |Convert sorted list to binary search tree|[[Link]](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree)|[[Link]](2022/convert-sorted-list-to-binary-search-tree)|
 |Copy list with random pointer|[[Link]](https://leetcode.com/problems/copy-list-with-random-pointer)|[[Link]](2022/copy-list-with-random-pointer)|
 |Count words obtained after adding a letter|[[Link]](https://leetcode.com/problems/count-words-obtained-after-adding-a-letter)|[[Link]](2022/count-words-obtained-after-adding-a-letter)|
+|Course schedule|[[Link]](https://leetcode.com/problems/course-schedule)|[[Link]](2022/course-schedule)|
 |Custom sort string|[[Link]](https://leetcode.com/problems/custom-sort-string)|[[Link]](2022/custom-sort-string)|
 |Decode string|[[Link]](https://leetcode.com/problems/decode-string)|[[Link]](2022/decode-string)|
 |Detect squares|[[Link]](https://leetcode.com/problems/detect-squares)|[[Link]](2022/detect-squares)|
@@ -51,6 +54,7 @@
 |Guess the word|[[Link]](https://leetcode.com/problems/guess-the-word)|[[Link]](2022/guess-the-word)|
 |H index|[[Link]](https://leetcode.com/problems/h-index)|[[Link]](2022/h-index)|
 |Happy number|[[Link]](https://leetcode.com/problems/happy-number)|[[Link]](2022/happy-number)|
+|Implement trie prefix tree|[[Link]](https://leetcode.com/problems/implement-trie-prefix-tree)|[[Link]](2022/implement-trie-prefix-tree)|
 |Insert delete getrandom o1|[[Link]](https://leetcode.com/problems/insert-delete-getrandom-o1)|[[Link]](2022/insert-delete-getrandom-o1)|
 |Insert interval|[[Link]](https://leetcode.com/problems/insert-interval)|[[Link]](2022/insert-interval)|
 |Insert into a sorted circular linked list|[[Link]](https://leetcode.com/problems/insert-into-a-sorted-circular-linked-list)|[[Link]](2022/insert-into-a-sorted-circular-linked-list)|
@@ -64,6 +68,7 @@
 |Longest absolute file path|[[Link]](https://leetcode.com/problems/longest-absolute-file-path)|[[Link]](2022/longest-absolute-file-path)|
 |Longest arithmetic subsequence of given difference|[[Link]](https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference)|[[Link]](2022/longest-arithmetic-subsequence-of-given-difference)|
 |Longest string chain|[[Link]](https://leetcode.com/problems/longest-string-chain)|[[Link]](2022/longest-string-chain)|
+|Longest substring without repeating characters|[[Link]](https://leetcode.com/problems/longest-substring-without-repeating-characters)|[[Link]](2022/longest-substring-without-repeating-characters)|
 |Longest word in dictionary|[[Link]](https://leetcode.com/problems/longest-word-in-dictionary)|[[Link]](2022/longest-word-in-dictionary)|
 |Longest word in dictionary through deleting|[[Link]](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting)|[[Link]](2022/longest-word-in-dictionary-through-deleting)|
 |Lowest common ancestor of a binary tree|[[Link]](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree)|[[Link]](2022/lowest-common-ancestor-of-a-binary-tree)|
@@ -76,6 +81,7 @@
 |Maximum swap|[[Link]](https://leetcode.com/problems/maximum-swap)|[[Link]](2022/maximum-swap)|
 |Merge intervals|[[Link]](https://leetcode.com/problems/merge-intervals)|[[Link]](2022/merge-intervals)|
 |Merge k sorted lists|[[Link]](https://leetcode.com/problems/merge-k-sorted-lists)|[[Link]](2022/merge-k-sorted-lists)|
+|Min stack|[[Link]](https://leetcode.com/problems/min-stack)|[[Link]](2022/min-stack)|
 |Minimum add to make parentheses valid|[[Link]](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid)|[[Link]](2022/minimum-add-to-make-parentheses-valid)|
 |Minimum area rectangle|[[Link]](https://leetcode.com/problems/minimum-area-rectangle)|[[Link]](2022/minimum-area-rectangle)|
 |Minimum cost to set cooking time|[[Link]](https://leetcode.com/problems/minimum-cost-to-set-cooking-time)|[[Link]](2022/minimum-cost-to-set-cooking-time)|
@@ -90,9 +96,11 @@
 |Network delay time|[[Link]](https://leetcode.com/problems/network-delay-time)|[[Link]](2022/network-delay-time)|
 |Next greater element iii|[[Link]](https://leetcode.com/problems/next-greater-element-iii)|[[Link]](2022/next-greater-element-iii)|
 |Next permutation|[[Link]](https://leetcode.com/problems/next-permutation)|[[Link]](2022/next-permutation)|
+|Number of islands|[[Link]](https://leetcode.com/problems/number-of-islands)|[[Link]](2022/number-of-islands)|
 |Number of matching subsequences|[[Link]](https://leetcode.com/problems/number-of-matching-subsequences)|[[Link]](2022/number-of-matching-subsequences)|
 |Palindrome partitioning|[[Link]](https://leetcode.com/problems/palindrome-partitioning)|[[Link]](2022/palindrome-partitioning)|
 |Path with minimum effort|[[Link]](https://leetcode.com/problems/path-with-minimum-effort)|[[Link]](2022/path-with-minimum-effort)|
+|Permutations|[[Link]](https://leetcode.com/problems/permutations)|[[Link]](2022/permutations)|
 |Powx n|[[Link]](https://leetcode.com/problems/powx-n)|[[Link]](2022/powx-n)|
 |Process tasks using servers|[[Link]](https://leetcode.com/problems/process-tasks-using-servers)|[[Link]](2022/process-tasks-using-servers)|
 |Product of array except self|[[Link]](https://leetcode.com/problems/product-of-array-except-self)|[[Link]](2022/product-of-array-except-self)|
@@ -104,6 +112,7 @@
 |Repeated string match|[[Link]](https://leetcode.com/problems/repeated-string-match)|[[Link]](2022/repeated-string-match)|
 |Rle iterator|[[Link]](https://leetcode.com/problems/rle-iterator)|[[Link]](2022/rle-iterator)|
 |Rotate image|[[Link]](https://leetcode.com/problems/rotate-image)|[[Link]](2022/rotate-image)|
+|Rotten oranges|[[Link]](https://leetcode.com/problems/rotten-oranges)|[[Link]](2022/rotten-oranges)|
 |Search a 2d matrix ii|[[Link]](https://leetcode.com/problems/search-a-2d-matrix-ii)|[[Link]](2022/search-a-2d-matrix-ii)|
 |Serialize and deserialize binary tree|[[Link]](https://leetcode.com/problems/serialize-and-deserialize-binary-tree)|[[Link]](2022/serialize-and-deserialize-binary-tree)|
 |Shortest palindrome|[[Link]](https://leetcode.com/problems/shortest-palindrome)|[[Link]](2022/shortest-palindrome)|
@@ -112,14 +121,18 @@
 |Simplify path|[[Link]](https://leetcode.com/problems/simplify-path)|[[Link]](2022/simplify-path)|
 |Single threaded cpu|[[Link]](https://leetcode.com/problems/single-threaded-cpu)|[[Link]](2022/single-threaded-cpu)|
 |Snapshot array|[[Link]](https://leetcode.com/problems/snapshot-array)|[[Link]](2022/snapshot-array)|
+|Sort colors|[[Link]](https://leetcode.com/problems/sort-colors)|[[Link]](2022/sort-colors)|
+|Spiral matrix|[[Link]](https://leetcode.com/problems/spiral-matrix)|[[Link]](2022/spiral-matrix)|
 |Step by step directions from a binary tree node to another|[[Link]](https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another)|[[Link]](2022/step-by-step-directions-from-a-binary-tree-node-to-another)|
 |Stock price fluctuation|[[Link]](https://leetcode.com/problems/stock-price-fluctuation)|[[Link]](2022/stock-price-fluctuation)|
+|String to integer atoi|[[Link]](https://leetcode.com/problems/string-to-integer-atoi)|[[Link]](2022/string-to-integer-atoi)|
 |Subarray sum equals k|[[Link]](https://leetcode.com/problems/subarray-sum-equals-k)|[[Link]](2022/subarray-sum-equals-k)|
 |Subsets|[[Link]](https://leetcode.com/problems/subsets)|[[Link]](2022/subsets)|
 |Sum root to leaf numbers|[[Link]](https://leetcode.com/problems/sum-root-to-leaf-numbers)|[[Link]](2022/sum-root-to-leaf-numbers)|
 |Swap adjacent in lr string|[[Link]](https://leetcode.com/problems/swap-adjacent-in-lr-string)|[[Link]](2022/swap-adjacent-in-lr-string)|
 |Swim in rising water|[[Link]](https://leetcode.com/problems/swim-in-rising-water)|[[Link]](2022/swim-in-rising-water)|
 |The number of weak characters in the game|[[Link]](https://leetcode.com/problems/the-number-of-weak-characters-in-the-game)|[[Link]](2022/the-number-of-weak-characters-in-the-game)|
+|Time based key value store|[[Link]](https://leetcode.com/problems/time-based-key-value-store)|[[Link]](2022/time-based-key-value-store)|
 |Time needed to inform all employees|[[Link]](https://leetcode.com/problems/time-needed-to-inform-all-employees)|[[Link]](2022/time-needed-to-inform-all-employees)|
 |Top k frequent elements|[[Link]](https://leetcode.com/problems/top-k-frequent-elements)|[[Link]](2022/top-k-frequent-elements)|
 |Top k frequent words|[[Link]](https://leetcode.com/problems/top-k-frequent-words)|[[Link]](2022/top-k-frequent-words)|
@@ -128,6 +141,7 @@
 |Valid number|[[Link]](https://leetcode.com/problems/valid-number)|[[Link]](2022/valid-number)|
 |Valid square|[[Link]](https://leetcode.com/problems/valid-square)|[[Link]](2022/valid-square)|
 |Valid tic tac toe state|[[Link]](https://leetcode.com/problems/valid-tic-tac-toe-state)|[[Link]](2022/valid-tic-tac-toe-state)|
+|Validate binary search tree|[[Link]](https://leetcode.com/problems/validate-binary-search-tree)|[[Link]](2022/validate-binary-search-tree)|
 |Vertical order traversal of a binary tree|[[Link]](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree)|[[Link]](2022/vertical-order-traversal-of-a-binary-tree)|
 |Where will the ball fall|[[Link]](https://leetcode.com/problems/where-will-the-ball-fall)|[[Link]](2022/where-will-the-ball-fall)|
 |Word search|[[Link]](https://leetcode.com/problems/word-search)|[[Link]](2022/word-search)|
