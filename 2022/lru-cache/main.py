@@ -1,9 +1,8 @@
-# wip!
-# Strategy: make a dbl-linked list (with head + tail) and a hashmap, and keep a size
+# Strategy: make a dbl-linked list (with head + tail) and a hashmap, and keep a size.
 # - Hashmap goes from key to Node for O(1) get+update.
 # - With len(hashmap) we can check if size <= capacity, to know if put must evict.
-# - Get must move Node to head of dbl-linked list
-# - Put must add node on head, and possibly evict node from tail
+# - Get must move Node to head of dbl-linked list.
+# - Put must add node on head, and possibly evict node from tail.
 #
 # Just watch the million edge cases and separate into smaller sub-operations.
 
