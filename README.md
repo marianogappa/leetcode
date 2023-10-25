@@ -1,10 +1,12 @@
-## 2022 Leetcode exercises (144 solved)
+## 2022 Leetcode exercises (159 solved)
 
 |Title|Leetcode|My Solution|
 |-----|:--------:|:---------:|
 |01 matrix|[[Link]](https://leetcode.com/problems/01-matrix)|[[Link]](2022/01-matrix)|
 |3sum|[[Link]](https://leetcode.com/problems/3sum)|[[Link]](2022/3sum)|
 |Accounts merge|[[Link]](https://leetcode.com/problems/accounts-merge)|[[Link]](2022/accounts-merge)|
+|Add two numbers|[[Link]](https://leetcode.com/problems/add-two-numbers)|[[Link]](2022/add-two-numbers)|
+|Add two numbers ii|[[Link]](https://leetcode.com/problems/add-two-numbers-ii)|[[Link]](2022/add-two-numbers-ii)|
 |All nodes distance k in binary tree|[[Link]](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree)|[[Link]](2022/all-nodes-distance-k-in-binary-tree)|
 |Angle between hands of a clock|[[Link]](https://leetcode.com/problems/angle-between-hands-of-a-clock)|[[Link]](2022/angle-between-hands-of-a-clock)|
 |Balance a binary search tree|[[Link]](https://leetcode.com/problems/balance-a-binary-search-tree)|[[Link]](2022/balance-a-binary-search-tree)|
@@ -25,6 +27,7 @@
 |Coin change|[[Link]](https://leetcode.com/problems/coin-change)|[[Link]](2022/coin-change)|
 |Combination sum|[[Link]](https://leetcode.com/problems/combination-sum)|[[Link]](2022/combination-sum)|
 |Concatenation of array|[[Link]](https://leetcode.com/problems/concatenation-of-array)|[[Link]](2022/concatenation-of-array)|
+|Construct binary tree from preorder and inorder traversal|[[Link]](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal)|[[Link]](2022/construct-binary-tree-from-preorder-and-inorder-traversal)|
 |Container with most water|[[Link]](https://leetcode.com/problems/container-with-most-water)|[[Link]](2022/container-with-most-water)|
 |Convert binary search tree to sorted doubly linked list|[[Link]](https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list)|[[Link]](2022/convert-binary-search-tree-to-sorted-doubly-linked-list)|
 |Convert sorted list to binary search tree|[[Link]](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree)|[[Link]](2022/convert-sorted-list-to-binary-search-tree)|
@@ -33,6 +36,8 @@
 |Course schedule|[[Link]](https://leetcode.com/problems/course-schedule)|[[Link]](2022/course-schedule)|
 |Custom sort string|[[Link]](https://leetcode.com/problems/custom-sort-string)|[[Link]](2022/custom-sort-string)|
 |Decode string|[[Link]](https://leetcode.com/problems/decode-string)|[[Link]](2022/decode-string)|
+|Design browser history|[[Link]](https://leetcode.com/problems/design-browser-history)|[[Link]](2022/design-browser-history)|
+|Design underground system|[[Link]](https://leetcode.com/problems/design-underground-system)|[[Link]](2022/design-underground-system)|
 |Detect squares|[[Link]](https://leetcode.com/problems/detect-squares)|[[Link]](2022/detect-squares)|
 |Diagonal traverse|[[Link]](https://leetcode.com/problems/diagonal-traverse)|[[Link]](2022/diagonal-traverse)|
 |Diagonal traverse ii|[[Link]](https://leetcode.com/problems/diagonal-traverse-ii)|[[Link]](2022/diagonal-traverse-ii)|
@@ -48,6 +53,7 @@
 |Find peak element|[[Link]](https://leetcode.com/problems/find-peak-element)|[[Link]](2022/find-peak-element)|
 |Find the difference|[[Link]](https://leetcode.com/problems/find-the-difference)|[[Link]](2022/find-the-difference)|
 |Find two non overlapping sub arrays each with target sum|[[Link]](https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum)|[[Link]](2022/find-two-non-overlapping-sub-arrays-each-with-target-sum)|
+|Flatten a multilevel doubly linked list|[[Link]](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list)|[[Link]](2022/flatten-a-multilevel-doubly-linked-list)|
 |Friends of appropriate ages|[[Link]](https://leetcode.com/problems/friends-of-appropriate-ages)|[[Link]](2022/friends-of-appropriate-ages)|
 |Gas station|[[Link]](https://leetcode.com/problems/gas-station)|[[Link]](2022/gas-station)|
 |Group shifted strings|[[Link]](https://leetcode.com/problems/group-shifted-strings)|[[Link]](2022/group-shifted-strings)|
@@ -77,12 +83,14 @@
 |Lru cache|[[Link]](https://leetcode.com/problems/lru-cache)|[[Link]](2022/lru-cache)|
 |Max consecutive ones iii|[[Link]](https://leetcode.com/problems/max-consecutive-ones-iii)|[[Link]](2022/max-consecutive-ones-iii)|
 |Maximum number of points with cost|[[Link]](https://leetcode.com/problems/maximum-number-of-points-with-cost)|[[Link]](2022/maximum-number-of-points-with-cost)|
+|Maximum profit in job scheduling|[[Link]](https://leetcode.com/problems/maximum-profit-in-job-scheduling)|[[Link]](2022/maximum-profit-in-job-scheduling)|
 |Maximum split of positive even integers|[[Link]](https://leetcode.com/problems/maximum-split-of-positive-even-integers)|[[Link]](2022/maximum-split-of-positive-even-integers)|
 |Maximum subarray|[[Link]](https://leetcode.com/problems/maximum-subarray)|[[Link]](2022/maximum-subarray)|
 |Maximum swap|[[Link]](https://leetcode.com/problems/maximum-swap)|[[Link]](2022/maximum-swap)|
 |Merge intervals|[[Link]](https://leetcode.com/problems/merge-intervals)|[[Link]](2022/merge-intervals)|
 |Merge k sorted lists|[[Link]](https://leetcode.com/problems/merge-k-sorted-lists)|[[Link]](2022/merge-k-sorted-lists)|
 |Min stack|[[Link]](https://leetcode.com/problems/min-stack)|[[Link]](2022/min-stack)|
+|Minesweeper|[[Link]](https://leetcode.com/problems/minesweeper)|[[Link]](2022/minesweeper)|
 |Minimum add to make parentheses valid|[[Link]](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid)|[[Link]](2022/minimum-add-to-make-parentheses-valid)|
 |Minimum area rectangle|[[Link]](https://leetcode.com/problems/minimum-area-rectangle)|[[Link]](2022/minimum-area-rectangle)|
 |Minimum cost to set cooking time|[[Link]](https://leetcode.com/problems/minimum-cost-to-set-cooking-time)|[[Link]](2022/minimum-cost-to-set-cooking-time)|
@@ -100,6 +108,7 @@
 |Number of islands|[[Link]](https://leetcode.com/problems/number-of-islands)|[[Link]](2022/number-of-islands)|
 |Number of matching subsequences|[[Link]](https://leetcode.com/problems/number-of-matching-subsequences)|[[Link]](2022/number-of-matching-subsequences)|
 |Palindrome partitioning|[[Link]](https://leetcode.com/problems/palindrome-partitioning)|[[Link]](2022/palindrome-partitioning)|
+|Partition equal subset sum|[[Link]](https://leetcode.com/problems/partition-equal-subset-sum)|[[Link]](2022/partition-equal-subset-sum)|
 |Path with minimum effort|[[Link]](https://leetcode.com/problems/path-with-minimum-effort)|[[Link]](2022/path-with-minimum-effort)|
 |Permutations|[[Link]](https://leetcode.com/problems/permutations)|[[Link]](2022/permutations)|
 |Powx n|[[Link]](https://leetcode.com/problems/powx-n)|[[Link]](2022/powx-n)|
@@ -110,6 +119,8 @@
 |Race car|[[Link]](https://leetcode.com/problems/race-car)|[[Link]](2022/race-car)|
 |Random pick index|[[Link]](https://leetcode.com/problems/random-pick-index)|[[Link]](2022/random-pick-index)|
 |Random pick with weight|[[Link]](https://leetcode.com/problems/random-pick-with-weight)|[[Link]](2022/random-pick-with-weight)|
+|Range sum query 2d immutable|[[Link]](https://leetcode.com/problems/range-sum-query-2d-immutable)|[[Link]](2022/range-sum-query-2d-immutable)|
+|Remove all adjacent duplicates in string ii|[[Link]](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii)|[[Link]](2022/remove-all-adjacent-duplicates-in-string-ii)|
 |Repeated string match|[[Link]](https://leetcode.com/problems/repeated-string-match)|[[Link]](2022/repeated-string-match)|
 |Rle iterator|[[Link]](https://leetcode.com/problems/rle-iterator)|[[Link]](2022/rle-iterator)|
 |Rotate image|[[Link]](https://leetcode.com/problems/rotate-image)|[[Link]](2022/rotate-image)|
@@ -119,9 +130,11 @@
 |Shortest palindrome|[[Link]](https://leetcode.com/problems/shortest-palindrome)|[[Link]](2022/shortest-palindrome)|
 |Shortest path in a grid with obstacles elimination|[[Link]](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination)|[[Link]](2022/shortest-path-in-a-grid-with-obstacles-elimination)|
 |Shortest path in binary matrix|[[Link]](https://leetcode.com/problems/shortest-path-in-binary-matrix)|[[Link]](2022/shortest-path-in-binary-matrix)|
+|Shuffle an array|[[Link]](https://leetcode.com/problems/shuffle-an-array)|[[Link]](2022/shuffle-an-array)|
 |Simplify path|[[Link]](https://leetcode.com/problems/simplify-path)|[[Link]](2022/simplify-path)|
 |Single threaded cpu|[[Link]](https://leetcode.com/problems/single-threaded-cpu)|[[Link]](2022/single-threaded-cpu)|
 |Snapshot array|[[Link]](https://leetcode.com/problems/snapshot-array)|[[Link]](2022/snapshot-array)|
+|Sort characters by frequency|[[Link]](https://leetcode.com/problems/sort-characters-by-frequency)|[[Link]](2022/sort-characters-by-frequency)|
 |Sort colors|[[Link]](https://leetcode.com/problems/sort-colors)|[[Link]](2022/sort-colors)|
 |Spiral matrix|[[Link]](https://leetcode.com/problems/spiral-matrix)|[[Link]](2022/spiral-matrix)|
 |Step by step directions from a binary tree node to another|[[Link]](https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another)|[[Link]](2022/step-by-step-directions-from-a-binary-tree-node-to-another)|
@@ -132,6 +145,7 @@
 |Sum root to leaf numbers|[[Link]](https://leetcode.com/problems/sum-root-to-leaf-numbers)|[[Link]](2022/sum-root-to-leaf-numbers)|
 |Swap adjacent in lr string|[[Link]](https://leetcode.com/problems/swap-adjacent-in-lr-string)|[[Link]](2022/swap-adjacent-in-lr-string)|
 |Swim in rising water|[[Link]](https://leetcode.com/problems/swim-in-rising-water)|[[Link]](2022/swim-in-rising-water)|
+|Task scheduler|[[Link]](https://leetcode.com/problems/task-scheduler)|[[Link]](2022/task-scheduler)|
 |The number of weak characters in the game|[[Link]](https://leetcode.com/problems/the-number-of-weak-characters-in-the-game)|[[Link]](2022/the-number-of-weak-characters-in-the-game)|
 |Time based key value store|[[Link]](https://leetcode.com/problems/time-based-key-value-store)|[[Link]](2022/time-based-key-value-store)|
 |Time needed to inform all employees|[[Link]](https://leetcode.com/problems/time-needed-to-inform-all-employees)|[[Link]](2022/time-needed-to-inform-all-employees)|
@@ -145,6 +159,7 @@
 |Validate binary search tree|[[Link]](https://leetcode.com/problems/validate-binary-search-tree)|[[Link]](2022/validate-binary-search-tree)|
 |Vertical order traversal of a binary tree|[[Link]](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree)|[[Link]](2022/vertical-order-traversal-of-a-binary-tree)|
 |Where will the ball fall|[[Link]](https://leetcode.com/problems/where-will-the-ball-fall)|[[Link]](2022/where-will-the-ball-fall)|
+|Word ladder|[[Link]](https://leetcode.com/problems/word-ladder)|[[Link]](2022/word-ladder)|
 |Word search|[[Link]](https://leetcode.com/problems/word-search)|[[Link]](2022/word-search)|
 
 
