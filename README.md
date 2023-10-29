@@ -125,7 +125,7 @@
 |Repeated string match|[[Link]](https://leetcode.com/problems/repeated-string-match)|[[Link]](2022/repeated-string-match)|
 |Rle iterator|[[Link]](https://leetcode.com/problems/rle-iterator)|[[Link]](2022/rle-iterator)|
 |Rotate image|[[Link]](https://leetcode.com/problems/rotate-image)|[[Link]](2022/rotate-image)|
-|Rotten oranges|[[Link]](https://leetcode.com/problems/rotten-oranges)|[[Link]](2022/rotten-oranges)|
+|Rotting oranges|[[Link]](https://leetcode.com/problems/rotting-oranges)|[[Link]](2022/rotting-oranges)|
 |Search a 2d matrix ii|[[Link]](https://leetcode.com/problems/search-a-2d-matrix-ii)|[[Link]](2022/search-a-2d-matrix-ii)|
 |Serialize and deserialize binary tree|[[Link]](https://leetcode.com/problems/serialize-and-deserialize-binary-tree)|[[Link]](2022/serialize-and-deserialize-binary-tree)|
 |Shortest palindrome|[[Link]](https://leetcode.com/problems/shortest-palindrome)|[[Link]](2022/shortest-palindrome)|
