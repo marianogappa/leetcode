@@ -1,4 +1,4 @@
-## 2022 Leetcode exercises (160 solved)
+## 2022 Leetcode exercises (161 solved)
 
 |Title|Leetcode|My Solution|
 |-----|:--------:|:---------:|
@@ -72,6 +72,7 @@
 |Kth smallest element in a bst|[[Link]](https://leetcode.com/problems/kth-smallest-element-in-a-bst)|[[Link]](2022/kth-smallest-element-in-a-bst)|
 |Kth smallest element in a sorted matrix|[[Link]](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix)|[[Link]](2022/kth-smallest-element-in-a-sorted-matrix)|
 |Letter combinations of a phone number|[[Link]](https://leetcode.com/problems/letter-combinations-of-a-phone-number)|[[Link]](2022/letter-combinations-of-a-phone-number)|
+|Lfu cache|[[Link]](https://leetcode.com/problems/lfu-cache)|[[Link]](2022/lfu-cache)|
 |Longest absolute file path|[[Link]](https://leetcode.com/problems/longest-absolute-file-path)|[[Link]](2022/longest-absolute-file-path)|
 |Longest arithmetic subsequence of given difference|[[Link]](https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference)|[[Link]](2022/longest-arithmetic-subsequence-of-given-difference)|
 |Longest palindromic substring|[[Link]](https://leetcode.com/problems/longest-palindromic-substring)|[[Link]](2022/longest-palindromic-substring)|
